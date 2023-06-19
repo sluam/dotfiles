@@ -1,0 +1,1666 @@
+Jun 10 17:06 : exception: Failed to access /home/mary/Music: No such file or directory
+Jun 10 17:06 : exception: Failed to open '/home/mary/.mpd/mpdstate': No such file or directory
+Jun 10 17:13 : exception: Failed to open /home/mary/Music/: No such file or directory
+Jun 11 13:58 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 11 17:34 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 11 17:39 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 11 18:43 : update: added /Melhor ASMR de gemidos (320 kbps).mp3
+Jun 11 18:43 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 18:43 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 18:44 : player: played "Melhor ASMR de gemidos (320 kbps).mp3"
+Jun 11 18:45 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 18:49 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 18:49 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 18:53 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 18:53 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 18:57 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 19:02 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 19:10 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 19:11 : update: added /instrument-12092021-8362.mp3
+Jun 11 19:11 : player: played "Melhor ASMR de gemidos (320 kbps).mp3"
+Jun 11 19:11 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 19:13 : player: played "instrument-12092021-8362.mp3"
+Jun 11 19:13 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 19:13 : player: played "instrument-12092021-8362.mp3"
+Jun 11 19:13 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 19:13 : player: played "instrument-12092021-8362.mp3"
+Jun 11 19:13 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 19:17 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 19:35 : player: played "instrument-12092021-8362.mp3"
+Jun 11 19:35 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 19:37 : player: played "Melhor ASMR de gemidos (320 kbps).mp3"
+Jun 11 19:37 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 19:40 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 19:40 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 19:51 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 20:13 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 20:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 20:21 : player: played "instrument-12092021-8362.mp3"
+Jun 11 20:21 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 20:23 : player: played "Melhor ASMR de gemidos (320 kbps).mp3"
+Jun 11 20:23 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 20:35 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 20:36 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 20:36 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 20:36 : update: removing Melhor ASMR de gemidos (320 kbps).mp3
+Jun 11 20:36 : update: removing instrument-12092021-8362.mp3
+Jun 11 20:38 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 20:38 : player: played "Melhor ASMR de gemidos (320 kbps).mp3"
+Jun 11 20:40 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 11 21:22 : update: added Balas Perdidas/Morat, Juanes - Besos En Guerra.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - Mi Vida Entera.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - Punto Y Aparte.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - Maldita Costumbre.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - 11 Besos.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat, Antonio Carmona, Josemi Carmona - El Embrujo.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - Cuando Nadie Ve.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - Yo No Merezco Volver.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - Otras Se Pierden.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - Acuérdate De Mí.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - No Se Va.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat, Juanes - Besos En Guerra.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - Mi Vida Entera.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - Punto Y Aparte.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - Maldita Costumbre.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - 11 Besos.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat, Antonio Carmona, Josemi Carmona - El Embrujo.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - Cuando Nadie Ve.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - Yo No Merezco Volver.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - Otras Se Pierden.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - Acuérdate De Mí.mp3
+Jun 11 21:22 : update: added Balas Perdidas/Morat - No Se Va.mp3
+Jun 11 21:23 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 21:27 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 11 22:09 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 22:09 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - Segundos Platos.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - Segundos Platos.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat, Duki - París.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat, Duki - París.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat, Juanes - 506.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat, Juanes - 506.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - Nunca Al Revés.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - Nunca Al Revés.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - Las Cometas Siempre Vuelan En Agosto.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - Las Cometas Siempre Vuelan En Agosto.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - Si La Ves.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - Si La Ves.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - Debí Suponerlo.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - Debí Suponerlo.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - Llamada Perdida.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - Llamada Perdida.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - Santa Fe.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - Santa Fe.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - Valen Más.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - Valen Más.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - _ u _ s _ _ A _ _ j _.mp3
+Jun 11 22:49 : update: added SI AYER FUERA HOY/Morat - _ u _ s _ _ A _ _ j _.mp3
+Jun 11 22:50 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 22:53 : player: played "SI AYER FUERA HOY/Morat, Juanes - 506.mp3"
+Jun 11 22:57 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 11 23:01 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 11 23:04 : player: played "SI AYER FUERA HOY/Morat - _ u _ s _ _ A _ _ j _.mp3"
+Jun 11 23:06 : player: played "SI AYER FUERA HOY/Morat - Santa Fe.mp3"
+Jun 11 23:09 : player: played "SI AYER FUERA HOY/Morat - Nunca Al Revés.mp3"
+Jun 11 23:13 : exception: Failed to open audio output
+Jun 11 23:13 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 11 23:18 : player: played "SI AYER FUERA HOY/Morat, Juanes - 506.mp3"
+Jun 12 07:15 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:41 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:42 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:42 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:42 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:42 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:42 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:42 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:42 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:42 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:42 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:42 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:42 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:42 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:42 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:42 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:43 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+couldn't open play stream: Device or resource busy
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:44 : player: played "SI AYER FUERA HOY/Morat, Duki - París.mp3"
+Jun 12 07:45 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:45 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:45 : player: problems opening audio device while playing "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 12 07:48 : player: played "SI AYER FUERA HOY/Morat, Juanes - 506.mp3"
+Jun 12 07:48 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 12 07:50 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 07:50 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 07:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:56 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:56 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:56 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:56 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:56 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:56 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:56 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:56 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 07:57 : player: played "SI AYER FUERA HOY/Morat, Juanes - 506.mp3"
+Jun 12 07:57 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 07:57 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 07:57 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 07:59 : player: played "SI AYER FUERA HOY/Morat, Juanes - 506.mp3"
+Jun 12 08:02 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 12 08:06 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 12 08:09 : player: played "SI AYER FUERA HOY/Morat - Santa Fe.mp3"
+Jun 12 08:12 : player: played "SI AYER FUERA HOY/Morat - Nunca Al Revés.mp3"
+Jun 12 08:23 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 08:43 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 09:06 : player: played "SI AYER FUERA HOY/Morat - Si La Ves.mp3"
+Jun 12 09:06 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 09:17 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 09:40 : player: played "SI AYER FUERA HOY/Morat - Si La Ves.mp3"
+Jun 12 09:41 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 10:00 : player: played "SI AYER FUERA HOY/Morat - Si La Ves.mp3"
+Jun 12 10:02 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 10:05 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 10:07 : player: played "SI AYER FUERA HOY/Morat - Si La Ves.mp3"
+Jun 12 10:11 : player: played "SI AYER FUERA HOY/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 12 10:14 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 12 10:18 : player: played "SI AYER FUERA HOY/Morat - Valen Más.mp3"
+Jun 12 10:21 : player: played "SI AYER FUERA HOY/Morat, Juanes - 506.mp3"
+Jun 12 10:23 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 12 10:27 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 12 10:28 : update: added ¿A Dónde Vamos/Morat - Nunca Te Olvidé.mp3
+Jun 12 10:28 : update: added ¿A Dónde Vamos/Morat, Cami - Simplemente Pasan.mp3
+Jun 12 10:28 : update: added ¿A Dónde Vamos/Morat - No Termino.mp3
+Jun 12 10:28 : update: added ¿A Dónde Vamos/Morat - A Dónde Vamos.mp3
+Jun 12 10:28 : update: added ¿A Dónde Vamos/Morat - Primeras Veces.mp3
+Jun 12 10:28 : update: added ¿A Dónde Vamos/Morat - Al Aire.mp3
+Jun 12 10:28 : update: added ¿A Dónde Vamos/Morat - Date La Vuelta.mp3
+Jun 12 10:28 : update: added ¿A Dónde Vamos/Morat, Danna Paola - Idiota.mp3
+Jun 12 10:28 : update: added ¿A Dónde Vamos/Morat, Andrés Cepeda - Mi Pesadilla.mp3
+Jun 12 10:28 : update: added ¿A Dónde Vamos/Morat - Enamórate De Alguien Más.mp3
+Jun 12 10:28 : update: added ¿A Dónde Vamos/Morat - En Coma.mp3
+Jun 12 10:28 : update: added ¿A Dónde Vamos/Morat - No Hay Más Que Hablar.mp3
+Jun 12 10:28 : update: added ¿A Dónde Vamos/Morat, Sebastian Yatra - Bajo La Mesa.mp3
+Jun 12 10:28 : update: added ¿A Dónde Vamos/Morat - De Cero.mp3
+Jun 12 10:29 : update: removing SI AYER FUERA HOY/Morat - _ u _ s _ _ A _ _ j _.mp3
+Jun 12 10:29 : update: removing SI AYER FUERA HOY/Morat, Duki - París.mp3
+Jun 12 10:29 : update: removing SI AYER FUERA HOY/Morat - Valen Más.mp3
+Jun 12 10:29 : update: removing SI AYER FUERA HOY/Morat - Las Cometas Siempre Vuelan En Agosto.mp3
+Jun 12 10:29 : update: removing SI AYER FUERA HOY/Morat - Si La Ves.mp3
+Jun 12 10:29 : update: removing SI AYER FUERA HOY/Morat - Nunca Al Revés.mp3
+Jun 12 10:29 : update: removing SI AYER FUERA HOY/Morat - Santa Fe.mp3
+Jun 12 10:29 : update: removing SI AYER FUERA HOY/Morat, Juanes - 506.mp3
+Jun 12 10:29 : update: removing SI AYER FUERA HOY/Morat - Debí Suponerlo.mp3
+Jun 12 10:29 : update: removing SI AYER FUERA HOY/Morat - Segundos Platos.mp3
+Jun 12 10:29 : update: removing SI AYER FUERA HOY/Morat - Llamada Perdida.mp3
+Jun 12 10:29 : update: added Si Ayer Fuera Hoy/Morat - Segundos Platos.mp3
+Jun 12 10:29 : update: added Si Ayer Fuera Hoy/Morat, Duki - París.mp3
+Jun 12 10:29 : update: added Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3
+Jun 12 10:29 : update: added Si Ayer Fuera Hoy/Morat - Nunca Al Revés.mp3
+Jun 12 10:29 : update: added Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3
+Jun 12 10:29 : update: added Si Ayer Fuera Hoy/Morat - Si La Ves.mp3
+Jun 12 10:29 : update: added Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3
+Jun 12 10:29 : update: added Si Ayer Fuera Hoy/Morat - Llamada Perdida.mp3
+Jun 12 10:29 : update: added Si Ayer Fuera Hoy/Morat - Santa Fe.mp3
+Jun 12 10:29 : update: added Si Ayer Fuera Hoy/Morat - Valen Más.mp3
+Jun 12 10:29 : update: added Si Ayer Fuera Hoy/Morat - _ u _ s _ _ A _ _ j _.mp3
+Jun 12 10:29 : update: removing ¿A Dónde Vamos/Morat, Cami - Simplemente Pasan.mp3
+Jun 12 10:29 : update: removing ¿A Dónde Vamos/Morat, Andrés Cepeda - Mi Pesadilla.mp3
+Jun 12 10:29 : update: removing ¿A Dónde Vamos/Morat - Nunca Te Olvidé.mp3
+Jun 12 10:29 : update: removing ¿A Dónde Vamos/Morat, Sebastian Yatra - Bajo La Mesa.mp3
+Jun 12 10:29 : update: removing ¿A Dónde Vamos/Morat, Danna Paola - Idiota.mp3
+Jun 12 10:29 : update: removing ¿A Dónde Vamos/Morat - Date La Vuelta.mp3
+Jun 12 10:29 : update: removing ¿A Dónde Vamos/Morat - Enamórate De Alguien Más.mp3
+Jun 12 10:29 : update: removing ¿A Dónde Vamos/Morat - No Hay Más Que Hablar.mp3
+Jun 12 10:29 : update: removing ¿A Dónde Vamos/Morat - Primeras Veces.mp3
+Jun 12 10:29 : update: removing ¿A Dónde Vamos/Morat - De Cero.mp3
+Jun 12 10:29 : update: removing ¿A Dónde Vamos/Morat - Al Aire.mp3
+Jun 12 10:29 : update: removing ¿A Dónde Vamos/Morat - En Coma.mp3
+Jun 12 10:29 : update: removing ¿A Dónde Vamos/Morat - No Termino.mp3
+Jun 12 10:29 : update: removing ¿A Dónde Vamos/Morat - A Dónde Vamos.mp3
+Jun 12 10:29 : update: added A Donde Vamos/Morat - Nunca Te Olvidé.mp3
+Jun 12 10:29 : update: added A Donde Vamos/Morat, Cami - Simplemente Pasan.mp3
+Jun 12 10:29 : update: added A Donde Vamos/Morat - No Termino.mp3
+Jun 12 10:29 : update: added A Donde Vamos/Morat - A Dónde Vamos.mp3
+Jun 12 10:29 : update: added A Donde Vamos/Morat - Primeras Veces.mp3
+Jun 12 10:29 : update: added A Donde Vamos/Morat - Al Aire.mp3
+Jun 12 10:29 : update: added A Donde Vamos/Morat - Date La Vuelta.mp3
+Jun 12 10:29 : update: added A Donde Vamos/Morat, Danna Paola - Idiota.mp3
+Jun 12 10:29 : update: added A Donde Vamos/Morat, Andrés Cepeda - Mi Pesadilla.mp3
+Jun 12 10:29 : update: added A Donde Vamos/Morat - Enamórate De Alguien Más.mp3
+Jun 12 10:29 : update: added A Donde Vamos/Morat - En Coma.mp3
+Jun 12 10:29 : update: added A Donde Vamos/Morat - No Hay Más Que Hablar.mp3
+Jun 12 10:29 : update: added A Donde Vamos/Morat, Sebastian Yatra - Bajo La Mesa.mp3
+Jun 12 10:29 : update: added A Donde Vamos/Morat - De Cero.mp3
+Jun 12 10:30 : player: played "SI AYER FUERA HOY/Morat - Santa Fe.mp3"
+Jun 12 10:34 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 12 10:37 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 12 10:40 : exception: Failed to decode /home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3; Failed to open '/home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3': No such file or directory
+Jun 12 10:40 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 12 10:40 : player: played "SI AYER FUERA HOY/Morat - Santa Fe.mp3"
+Jun 12 10:52 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 10:52 : exception: Failed to decode /home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3; Failed to open '/home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3': No such file or directory
+Jun 12 10:52 : player: played "SI AYER FUERA HOY/Morat - Santa Fe.mp3"
+Jun 12 10:52 : exception: Failed to decode /home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3; Failed to open '/home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3': No such file or directory
+Jun 12 10:56 : exception: Failed to decode /home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3; Failed to open '/home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3': No such file or directory
+Jun 12 10:56 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 12 10:56 : player: played "SI AYER FUERA HOY/Morat - Santa Fe.mp3"
+Jun 12 10:56 : exception: Failed to decode /home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3; Failed to open '/home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3': No such file or directory
+Jun 12 10:56 : player: played "SI AYER FUERA HOY/Morat - Santa Fe.mp3"
+Jun 12 11:00 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 12 11:03 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 12 11:06 : exception: Failed to decode /home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3; Failed to open '/home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3': No such file or directory
+Jun 12 11:06 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 12 11:06 : player: played "SI AYER FUERA HOY/Morat - Santa Fe.mp3"
+Jun 12 11:06 : exception: Failed to decode /home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3; Failed to open '/home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3': No such file or directory
+Jun 12 11:06 : player: played "SI AYER FUERA HOY/Morat - Santa Fe.mp3"
+Jun 12 11:30 : exception: Failed to decode /home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3; Failed to open '/home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3': No such file or directory
+Jun 12 11:30 : player: played "SI AYER FUERA HOY/Morat - Santa Fe.mp3"
+Jun 12 11:30 : exception: Failed to decode /home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3; Failed to open '/home/mary/Música/SI AYER FUERA HOY/Morat - Santa Fe.mp3': No such file or directory
+Jun 12 11:30 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 11:57 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 11:59 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 11:59 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 12 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:05 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 12 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:05 : player: problems opening audio device while playing "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 12 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:06 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 12:16 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 12 12:18 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 12:19 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 12:23 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 12 12:44 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 12 12:44 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 13:15 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 13:31 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 13:37 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 16:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 16:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 16:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 16:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 16:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 16:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 17:13 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 17:13 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 17:13 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 17:13 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:28 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:29 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:29 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:29 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:29 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:29 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:29 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:29 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:29 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:29 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:29 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:29 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:29 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:29 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:29 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:29 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:29 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:31 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:31 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:31 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:31 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:31 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:31 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:31 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:31 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:31 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:31 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:31 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:31 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:31 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:31 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:31 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:31 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:34 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:34 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:34 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:34 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:34 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:34 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:34 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:34 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:34 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:34 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:34 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:34 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:34 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:34 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 12 18:34 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 12 18:34 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 12 18:36 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 18:36 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 18:37 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 18:37 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 18:40 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 12 18:43 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 12 18:47 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 12 18:51 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 12 18:53 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 12 18:56 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 12 19:00 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 12 19:03 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 12 19:09 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 12 19:19 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 19:59 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 20:11 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 20:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 20:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 20:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 20:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 12 20:17 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 12 21:47 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:18 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 06:31 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 06:33 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 13 07:03 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 07:06 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 07:09 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 07:13 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 07:16 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 07:19 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 07:22 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 13 07:22 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 07:22 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 07:23 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 07:33 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 13 07:37 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 07:40 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 07:42 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 07:45 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 07:49 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 07:53 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 07:56 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 08:00 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 08:02 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 08:05 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 08:09 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 08:12 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 08:15 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 08:19 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 08:21 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 08:24 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 08:28 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 08:32 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 08:35 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 08:39 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 08:41 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 08:44 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 08:48 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 08:51 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 08:54 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 08:58 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 09:01 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 09:04 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 09:08 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 09:11 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 09:14 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 09:18 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 09:20 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 09:23 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 09:27 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 09:31 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 09:34 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 09:37 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 09:40 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 09:43 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 09:43 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 09:46 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 09:47 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 09:50 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 09:53 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 09:57 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 09:59 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 10:02 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 10:04 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 10:06 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 10:10 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 10:12 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 10:12 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 10:33 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 10:33 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 10:37 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 10:39 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 10:39 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 10:39 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 10:44 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 10:48 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 10:52 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 11:03 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 13 11:06 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 11:08 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 11:11 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 11:14 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 11:17 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 11:20 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 11:22 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 11:22 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 11:22 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 11:22 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 11:26 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 11:30 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 11:32 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 11:36 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 11:39 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 11:47 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 13 11:50 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 11:51 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 11:54 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 11:58 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 12:01 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 12:04 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 12:08 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 12:10 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 12:13 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 12:17 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 12:19 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 12:19 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 12:20 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 12:20 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 12:20 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 12:20 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 12:20 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 12:20 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 12:20 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 12:24 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 12:27 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 12:27 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 12:27 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 12:32 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 12:33 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 12:36 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 12:38 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:04 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:04 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:04 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:04 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:04 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:04 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:04 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:04 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:04 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:06 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:06 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:06 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:07 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:07 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:07 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:07 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:07 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:07 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:07 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:07 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:07 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:07 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:07 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:07 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:08 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:08 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:08 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:08 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:08 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:12 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:12 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 13:18 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:03 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:03 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:03 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:05 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:05 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:08 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 14:11 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 14:13 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:20 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:24 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:26 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:26 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 13 14:27 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:27 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:28 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:30 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:30 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:34 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 13 14:34 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:34 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:34 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:34 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:34 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:34 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:35 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:35 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:37 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:37 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:37 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:37 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:39 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 13 14:43 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:43 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:43 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 14:43 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 13 14:47 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 14:51 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 14:54 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 14:57 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 15:00 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 15:03 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:03 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:03 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:04 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 13 15:08 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 15:11 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 15:13 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:13 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:13 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:13 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:13 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:53 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 15:54 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 15:57 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 16:00 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 16:03 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 16:06 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 13 16:07 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 16:09 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 13 16:13 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 16:14 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 13 16:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 16:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 16:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 16:19 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 13 16:27 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 13 18:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 18:02 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 18:06 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 18:09 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 18:12 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 18:15 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 18:18 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 18:21 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 13 18:25 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 18:29 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 18:32 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 18:35 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 18:38 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 18:41 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 18:44 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 13 18:48 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 18:52 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 18:55 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 18:58 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 18:58 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 19:01 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 19:04 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 19:07 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 13 19:11 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 19:17 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 19:20 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 13 19:24 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 20:00 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 20:00 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 20:00 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 20:00 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 20:00 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 20:00 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 20:00 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 20:00 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 20:00 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 20:00 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 20:00 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 20:00 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 13 20:00 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 20:00 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 13 20:00 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 20:00 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 20:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 20:05 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 20:07 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 20:10 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 20:14 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 13 20:18 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 20:21 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 20:24 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 20:37 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 20:39 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 13 20:41 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 13 20:44 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 13 20:48 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 13 20:51 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 20:55 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 13 20:57 : output: Failed to play on "default detected output" (alsa): snd_pcm_poll_descriptors_revents() failed: Input/output error
+Jun 13 20:57 : exception: Failed to open audio output
+Jun 13 20:57 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 13 20:59 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 13 21:12 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 21:12 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 21:12 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 13 21:16 : player: played "A Donde Vamos/Morat - Nunca Te Olvidé.mp3"
+Jun 13 21:41 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 13 21:46 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Ahora Que No Puedo Hablar.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Mi Nuevo Vicio.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Amor Con Hielo.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Di Que No Te Vas.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - En Un Sólo Dia.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Del Estadio Al Cielo.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Cómo Te Atreves.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat, Alvaro Soler - #Yo Contigo, Tú Conmigo - The Gong Gong Song # El Tema De La Película ##Gru 3 Mi Villano Favorito###.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Cómo Te Atreves - Versión Acústica.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - La Última Vez.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Ya No Estás Tú.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Yo Más Te Adoro.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Cuánto Me Duele.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Una Vez Más.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Aprender A Quererte.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Ladrona.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat, Cali Y El Dandee - Mil Tormentas.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Eres Tú.mp3
+Jun 13 23:10 : update: added Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Paulina Rubio, Morat - Mi Nuevo Vicio.mp3
+Jun 14 06:34 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 14 06:40 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 06:40 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 06:40 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 07:19 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 07:25 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 07:30 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 07:31 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 07:33 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 14 07:37 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 14 07:40 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 14 07:44 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 14 07:46 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 14 07:49 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 14 07:53 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 14 07:56 : player: played "A Donde Vamos/Morat - Nunca Te Olvidé.mp3"
+Jun 14 08:00 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 14 08:04 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 14 08:07 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Cómo Te Atreves - Versión Acústica.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat, Alvaro Soler - #Yo Contigo, Tú Conmigo - The Gong Gong Song # El Tema De La Película ##Gru 3 Mi Villano Favorito###.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Paulina Rubio, Morat - Mi Nuevo Vicio.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Eres Tú.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Del Estadio Al Cielo.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - La Última Vez.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Ya No Estás Tú.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Cuánto Me Duele.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Amor Con Hielo.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Ahora Que No Puedo Hablar.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat, Cali Y El Dandee - Mil Tormentas.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Una Vez Más.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Cómo Te Atreves.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Ladrona.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Di Que No Te Vas.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Yo Más Te Adoro.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Aprender A Quererte.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - En Un Sólo Dia.mp3
+Jun 14 08:10 : update: removing Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas Más (Edición Especial)/Morat - Mi Nuevo Vicio.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat - Ahora Que No Puedo Hablar.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat - Mi Nuevo Vicio.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat, Alvaro Soler - Yo Contigo, Tú Conmigo.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat - Amor Con Hielo.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat - Di Que No Te Vas.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat - En Un Sólo Dia.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat - Del Estadio Al Cielo.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat - Cómo Te Atreves.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat - Cómo Te Atreves - Versión Acústica.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat - La Última Vez.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat - Ya No Estás Tú.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat - Yo Más Te Adoro.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat - Cuánto Me Duele.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat - Una Vez Más.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat - Aprender A Quererte.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat - Ladrona.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat, Cali Y El Dandee - Mil Tormentas.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Morat - Eres Tú.mp3
+Jun 14 08:10 : update: added Sobre El Amor Y Sus Efectos Secundarios/Paulina Rubio, Morat - Mi Nuevo Vicio.mp3
+Jun 14 08:11 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:11 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:11 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:11 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:11 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:11 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:14 : player: played "Sobre El Amor Y Sus Efectos Secundarios/Morat - Mi Nuevo Vicio.mp3"
+Jun 14 08:18 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 14 08:22 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 14 08:23 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:24 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:24 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:24 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:24 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:24 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:24 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:24 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:24 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:24 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:24 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:24 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:24 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:24 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 08:29 : player: played "Sobre El Amor Y Sus Efectos Secundarios/Morat, Cali Y El Dandee - Mil Tormentas.mp3"
+Jun 14 08:33 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 14 08:37 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 14 08:40 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 14 08:44 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 14 08:46 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 14 08:49 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 14 08:52 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 14 08:56 : player: played "A Donde Vamos/Morat - Nunca Te Olvidé.mp3"
+Jun 14 09:00 : player: played "Sobre El Amor Y Sus Efectos Secundarios/Morat - Mi Nuevo Vicio.mp3"
+Jun 14 09:04 : player: played "Sobre El Amor Y Sus Efectos Secundarios/Morat - Cómo Te Atreves - Versión Acústica.mp3"
+Jun 14 09:08 : player: played "Sobre El Amor Y Sus Efectos Secundarios/Morat, Cali Y El Dandee - Mil Tormentas.mp3"
+Jun 14 09:12 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 14 09:15 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 14 09:18 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 14 09:22 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 14 09:25 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 14 09:28 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 14 09:31 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 14 09:35 : player: played "A Donde Vamos/Morat - Nunca Te Olvidé.mp3"
+Jun 14 09:40 : player: played "Balas Perdidas/Morat - Acuérdate De Mí.mp3"
+Jun 14 09:43 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 14 09:47 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 14 09:50 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 14 09:54 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 14 09:56 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 14 09:59 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 14 10:03 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 14 10:06 : player: played "A Donde Vamos/Morat - Nunca Te Olvidé.mp3"
+Jun 14 10:10 : player: played "Sobre El Amor Y Sus Efectos Secundarios/Morat - Mi Nuevo Vicio.mp3"
+Jun 14 10:13 : player: played "Sobre El Amor Y Sus Efectos Secundarios/Morat, Alvaro Soler - Yo Contigo, Tú Conmigo.mp3"
+Jun 14 10:17 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 14 10:17 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 10:34 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 14 10:35 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 10:37 : player: played "Sobre El Amor Y Sus Efectos Secundarios/Morat - Cómo Te Atreves - Versión Acústica.mp3"
+Jun 14 10:41 : player: played "Sobre El Amor Y Sus Efectos Secundarios/Morat, Cali Y El Dandee - Mil Tormentas.mp3"
+Jun 14 10:44 : player: played "Balas Perdidas/Morat - Acuérdate De Mí.mp3"
+Jun 14 10:48 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 14 10:52 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 14 10:55 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 14 10:58 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 14 11:01 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+                                                                          Jun 14 11:06 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 14 11:12 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 11:13 : player: played "Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3"
+Jun 14 11:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 11:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 11:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 11:23 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 14 11:27 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 11:48 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 14 12:11 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 14 12:13 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 12:48 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 14 14:22 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 14:24 : player: played "Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3"
+Jun 14 14:28 : player: played "A Donde Vamos/Morat - Nunca Te Olvidé.mp3"
+Jun 14 14:32 : player: played "Sobre El Amor Y Sus Efectos Secundarios/Morat - Mi Nuevo Vicio.mp3"
+Jun 14 14:38 : player: played "Sobre El Amor Y Sus Efectos Secundarios/Morat - Cómo Te Atreves - Versión Acústica.mp3"
+Jun 14 14:42 : player: played "Sobre El Amor Y Sus Efectos Secundarios/Morat, Cali Y El Dandee - Mil Tormentas.mp3"
+Jun 14 14:46 : player: played "Balas Perdidas/Morat - Acuérdate De Mí.mp3"
+Jun 14 14:49 : player: played "Balas Perdidas/Morat - Cuando Nadie Ve.mp3"
+Jun 14 14:53 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 14 14:56 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 14 15:00 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 14 15:00 : output: Failed to play on "default detected output" (alsa): snd_pcm_poll_descriptors_revents() failed: Input/output error
+Jun 14 15:02 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 14 15:02 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 15:02 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+                                                                                                     Jun 14 15:22 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 14 15:29 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 15:44 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 15:44 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 15:44 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 14 15:44 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 15:44 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 15:44 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 16:01 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 14 19:34 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 14 19:36 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 19:36 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 19:36 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 20:58 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 14 20:58 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 21:00 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 14 21:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 21:02 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 21:02 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 21:02 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 21:02 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 21:02 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 14 21:05 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 14 21:18 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 15 04:17 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 15 05:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 05:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 05:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 05:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 05:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 05:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 05:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 05:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 05:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 05:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 06:44 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 15 06:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 06:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 06:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 06:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 06:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 06:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 06:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 06:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 06:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 06:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 06:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 06:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 06:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 06:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+couldn't open play stream: Device or resource busy
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 06:50 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:55 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:56 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:56 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:56 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:56 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:56 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:56 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+couldn't open play stream: Device or resource busy
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+couldn't open play stream: Device or resource busy
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 10:57 : exception: Failed to open "default detected output" (sndio); Failed to open default sndio device
+Jun 15 10:57 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 15 10:57 : player: played "A Donde Vamos/Morat - Nunca Te Olvidé.mp3"
+Jun 15 10:59 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 15 11:00 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 11:03 : player: played "A Donde Vamos/Morat - Nunca Te Olvidé.mp3"
+Jun 15 11:33 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 11:33 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 11:33 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 11:33 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 11:33 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 11:33 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 11:37 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 15 11:41 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 15 11:41 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 11:45 : player: played "Balas Perdidas/Morat - Yo No Merezco Volver.mp3"
+Jun 15 11:49 : player: played "A Donde Vamos/Morat - Nunca Te Olvidé.mp3"
+Jun 15 11:51 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 11:51 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 11:51 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 11:51 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 11:51 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 11:51 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 11:51 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 11:51 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 11:51 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 11:53 : player: played "Sobre El Amor Y Sus Efectos Secundarios/Morat, Cali Y El Dandee - Mil Tormentas.mp3"
+Jun 15 11:57 : player: played "Sobre El Amor Y Sus Efectos Secundarios/Morat - Cómo Te Atreves - Versión Acústica.mp3"
+Jun 15 12:01 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 15 12:03 : player: played "Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3"
+Jun 15 12:07 : player: played "Balas Perdidas/Morat - Acuérdate De Mí.mp3"
+Jun 15 12:10 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 15 12:13 : player: played "Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3"
+Jun 15 12:17 : player: played "Balas Perdidas/Morat - Yo No Merezco Volver.mp3"
+Jun 15 12:21 : player: played "Sobre El Amor Y Sus Efectos Secundarios/Morat - Mi Nuevo Vicio.mp3"
+Jun 15 12:25 : player: played "A Donde Vamos/Morat - Enamórate De Alguien Más.mp3"
+Jun 15 12:28 : player: played "Sobre El Amor Y Sus Efectos Secundarios/Morat, Alvaro Soler - Yo Contigo, Tú Conmigo.mp3"
+Jun 15 12:35 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 15 15:33 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:33 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:33 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:33 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:38 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 15 15:51 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 15 15:51 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 15:51 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 15:51 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 16:20 : update: added Antes De Los Veinte/Morat - Antes De Los Veinte.mp3
+Jun 15 16:31 : update: added Salir Con Vida/Morat, Feid - Salir Con Vida.mp3
+Jun 15 16:31 : update: added Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3
+Jun 15 16:33 : update: removing A Donde Vamos/Morat - A Dónde Vamos.mp3
+Jun 15 16:33 : update: removing A Donde Vamos/Morat, Cami - Simplemente Pasan.mp3
+Jun 15 16:33 : update: removing A Donde Vamos/Morat, Andrés Cepeda - Mi Pesadilla.mp3
+Jun 15 16:33 : update: removing A Donde Vamos/Morat - Nunca Te Olvidé.mp3
+Jun 15 16:33 : update: removing A Donde Vamos/Morat, Sebastian Yatra - Bajo La Mesa.mp3
+Jun 15 16:33 : update: removing A Donde Vamos/Morat, Danna Paola - Idiota.mp3
+Jun 15 16:33 : update: removing A Donde Vamos/Morat - Date La Vuelta.mp3
+Jun 15 16:33 : update: removing A Donde Vamos/Morat - Enamórate De Alguien Más.mp3
+Jun 15 16:33 : update: removing A Donde Vamos/Morat - No Hay Más Que Hablar.mp3
+Jun 15 16:33 : update: removing A Donde Vamos/Morat - Primeras Veces.mp3
+Jun 15 16:33 : update: removing A Donde Vamos/Morat - De Cero.mp3
+Jun 15 16:33 : update: removing A Donde Vamos/Morat - Al Aire.mp3
+Jun 15 16:33 : update: removing A Donde Vamos/Morat - En Coma.mp3
+Jun 15 16:33 : update: removing A Donde Vamos/Morat - No Termino.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat - Cómo Te Atreves - Versión Acústica.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat, Alvaro Soler - Yo Contigo, Tú Conmigo.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Paulina Rubio, Morat - Mi Nuevo Vicio.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat - Eres Tú.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat - Del Estadio Al Cielo.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat - La Última Vez.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat - Ya No Estás Tú.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat - Cuánto Me Duele.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat - Amor Con Hielo.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat - Ahora Que No Puedo Hablar.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat, Cali Y El Dandee - Mil Tormentas.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat - Una Vez Más.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat - Cómo Te Atreves.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat - Ladrona.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat - Di Que No Te Vas.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat - Yo Más Te Adoro.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat - Aprender A Quererte.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat - En Un Sólo Dia.mp3
+Jun 15 16:33 : update: removing Sobre El Amor Y Sus Efectos Secundarios/Morat - Mi Nuevo Vicio.mp3
+Jun 15 16:33 : update: removing Si Ayer Fuera Hoy/Morat - _ u _ s _ _ A _ _ j _.mp3
+Jun 15 16:33 : update: removing Si Ayer Fuera Hoy/Morat, Duki - París.mp3
+Jun 15 16:33 : update: removing Si Ayer Fuera Hoy/Morat - Valen Más.mp3
+Jun 15 16:33 : update: removing Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3
+Jun 15 16:33 : update: removing Si Ayer Fuera Hoy/Morat - Si La Ves.mp3
+Jun 15 16:33 : update: removing Si Ayer Fuera Hoy/Morat - Nunca Al Revés.mp3
+Jun 15 16:33 : update: removing Si Ayer Fuera Hoy/Morat - Santa Fe.mp3
+Jun 15 16:33 : update: removing Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3
+Jun 15 16:33 : update: removing Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3
+Jun 15 16:33 : update: removing Si Ayer Fuera Hoy/Morat - Segundos Platos.mp3
+Jun 15 16:33 : update: removing Si Ayer Fuera Hoy/Morat - Llamada Perdida.mp3
+Jun 15 16:33 : update: removing Salir Con Vida/Morat, Feid - Salir Con Vida.mp3
+Jun 15 16:33 : update: removing Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3
+Jun 15 16:33 : update: removing Balas Perdidas/Morat - 11 Besos.mp3
+Jun 15 16:33 : update: removing Balas Perdidas/Morat - Punto Y Aparte.mp3
+Jun 15 16:33 : update: removing Balas Perdidas/Morat - Cuando Nadie Ve.mp3
+Jun 15 16:33 : update: removing Balas Perdidas/Morat - Maldita Costumbre.mp3
+Jun 15 16:33 : update: removing Balas Perdidas/Morat - Yo No Merezco Volver.mp3
+Jun 15 16:33 : update: removing Balas Perdidas/Morat, Antonio Carmona, Josemi Carmona - El Embrujo.mp3
+Jun 15 16:33 : update: removing Balas Perdidas/Morat - Mi Vida Entera.mp3
+Jun 15 16:33 : update: removing Balas Perdidas/Morat - No Se Va.mp3
+Jun 15 16:33 : update: removing Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3
+Jun 15 16:33 : update: removing Balas Perdidas/Morat, Juanes - Besos En Guerra.mp3
+Jun 15 16:33 : update: removing Balas Perdidas/Morat - Acuérdate De Mí.mp3
+Jun 15 16:33 : update: removing Balas Perdidas/Morat - Otras Se Pierden.mp3
+Jun 15 16:33 : update: removing Antes De Los Veinte/Morat - Antes De Los Veinte.mp3
+Jun 15 16:33 : update: added Morat/A Donde Vamos/Morat - Nunca Te Olvidé.mp3
+Jun 15 16:33 : update: added Morat/A Donde Vamos/Morat, Cami - Simplemente Pasan.mp3
+Jun 15 16:33 : update: added Morat/A Donde Vamos/Morat - No Termino.mp3
+Jun 15 16:33 : update: added Morat/A Donde Vamos/Morat - A Dónde Vamos.mp3
+Jun 15 16:33 : update: added Morat/A Donde Vamos/Morat - Primeras Veces.mp3
+Jun 15 16:33 : update: added Morat/A Donde Vamos/Morat - Al Aire.mp3
+Jun 15 16:33 : update: added Morat/A Donde Vamos/Morat - Date La Vuelta.mp3
+Jun 15 16:33 : update: added Morat/A Donde Vamos/Morat, Danna Paola - Idiota.mp3
+Jun 15 16:33 : update: added Morat/A Donde Vamos/Morat, Andrés Cepeda - Mi Pesadilla.mp3
+Jun 15 16:33 : update: added Morat/A Donde Vamos/Morat - Enamórate De Alguien Más.mp3
+Jun 15 16:33 : update: added Morat/A Donde Vamos/Morat - En Coma.mp3
+Jun 15 16:33 : update: added Morat/A Donde Vamos/Morat - No Hay Más Que Hablar.mp3
+Jun 15 16:33 : update: added Morat/A Donde Vamos/Morat, Sebastian Yatra - Bajo La Mesa.mp3
+Jun 15 16:33 : update: added Morat/A Donde Vamos/Morat - De Cero.mp3
+Jun 15 16:33 : update: added Morat/Salir Con Vida/Morat, Feid - Salir Con Vida.mp3
+Jun 15 16:33 : update: added Morat/Balas Perdidas/Morat, Juanes - Besos En Guerra.mp3
+Jun 15 16:33 : update: added Morat/Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3
+Jun 15 16:33 : update: added Morat/Balas Perdidas/Morat - Mi Vida Entera.mp3
+Jun 15 16:33 : update: added Morat/Balas Perdidas/Morat - Punto Y Aparte.mp3
+Jun 15 16:33 : update: added Morat/Balas Perdidas/Morat - Maldita Costumbre.mp3
+Jun 15 16:33 : update: added Morat/Balas Perdidas/Morat - 11 Besos.mp3
+Jun 15 16:33 : update: added Morat/Balas Perdidas/Morat, Antonio Carmona, Josemi Carmona - El Embrujo.mp3
+Jun 15 16:33 : update: added Morat/Balas Perdidas/Morat - Cuando Nadie Ve.mp3
+Jun 15 16:33 : update: added Morat/Balas Perdidas/Morat - Yo No Merezco Volver.mp3
+Jun 15 16:33 : update: added Morat/Balas Perdidas/Morat - Otras Se Pierden.mp3
+Jun 15 16:33 : update: added Morat/Balas Perdidas/Morat - Acuérdate De Mí.mp3
+Jun 15 16:33 : update: added Morat/Balas Perdidas/Morat - No Se Va.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - Ahora Que No Puedo Hablar.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - Mi Nuevo Vicio.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat, Alvaro Soler - Yo Contigo, Tú Conmigo.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - Amor Con Hielo.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - Di Que No Te Vas.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - En Un Sólo Dia.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - Del Estadio Al Cielo.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - Cómo Te Atreves.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - Cómo Te Atreves - Versión Acústica.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - La Última Vez.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - Ya No Estás Tú.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - Yo Más Te Adoro.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - Cuánto Me Duele.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - Una Vez Más.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - Aprender A Quererte.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - Ladrona.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat, Cali Y El Dandee - Mil Tormentas.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - Eres Tú.mp3
+Jun 15 16:33 : update: added Morat/Sobre El Amor Y Sus Efectos Secundarios/Paulina Rubio, Morat - Mi Nuevo Vicio.mp3
+Jun 15 16:33 : update: added Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3
+Jun 15 16:33 : update: added Morat/Antes De Los Veinte/Morat - Antes De Los Veinte.mp3
+Jun 15 16:33 : update: added Morat/Si Ayer Fuera Hoy/Morat - Segundos Platos.mp3
+Jun 15 16:33 : update: added Morat/Si Ayer Fuera Hoy/Morat, Duki - París.mp3
+Jun 15 16:33 : update: added Morat/Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3
+Jun 15 16:33 : update: added Morat/Si Ayer Fuera Hoy/Morat - Nunca Al Revés.mp3
+Jun 15 16:33 : update: added Morat/Si Ayer Fuera Hoy/Morat - Las Cometas Siempre Vuelan En Agosto.mp3
+Jun 15 16:33 : update: added Morat/Si Ayer Fuera Hoy/Morat - Si La Ves.mp3
+Jun 15 16:33 : update: added Morat/Si Ayer Fuera Hoy/Morat - Debí Suponerlo.mp3
+Jun 15 16:33 : update: added Morat/Si Ayer Fuera Hoy/Morat - Llamada Perdida.mp3
+Jun 15 16:33 : update: added Morat/Si Ayer Fuera Hoy/Morat - Santa Fe.mp3
+Jun 15 16:33 : update: added Morat/Si Ayer Fuera Hoy/Morat - Valen Más.mp3
+Jun 15 16:33 : update: added Morat/Si Ayer Fuera Hoy/Morat - _ u _ s _ _ A _ _ j _.mp3
+Jun 15 17:45 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 17:45 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 15 17:49 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 15 17:53 : exception: Failed to decode /home/mary/Música/Balas Perdidas/Morat - No Se Va.mp3; Failed to open '/home/mary/Música/Balas Perdidas/Morat - No Se Va.mp3': No such file or directory
+Jun 15 17:53 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 15 17:53 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 15 17:53 : exception: Failed to decode /home/mary/Música/Balas Perdidas/Morat - No Se Va.mp3; Failed to open '/home/mary/Música/Balas Perdidas/Morat - No Se Va.mp3': No such file or directory
+Jun 15 17:53 : exception: Failed to decode /home/mary/Música/Balas Perdidas/Morat - No Se Va.mp3; Failed to open '/home/mary/Música/Balas Perdidas/Morat - No Se Va.mp3': No such file or directory
+Jun 15 17:53 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 15 19:01 : exception: Failed to decode /home/mary/Música/Balas Perdidas/Morat - No Se Va.mp3; Failed to open '/home/mary/Música/Balas Perdidas/Morat - No Se Va.mp3': No such file or directory
+Jun 15 19:01 : player: played "Balas Perdidas/Morat - No Se Va.mp3"
+Jun 15 19:01 : exception: Failed to decode /home/mary/Música/Balas Perdidas/Morat - No Se Va.mp3; Failed to open '/home/mary/Música/Balas Perdidas/Morat - No Se Va.mp3': No such file or directory
+Jun 15 19:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 04:52 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 16 05:48 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 16 06:19 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 06:20 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 06:21 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 16 06:25 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 16 06:29 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 16 06:33 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 16 06:36 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 16 06:40 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 16 06:44 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 16 06:48 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 16 06:50 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 06:53 : player: played "Morat/Salir Con Vida/Morat, Feid - Salir Con Vida.mp3"
+Jun 16 06:54 : player: played "Morat/Salir Con Vida/Morat, Feid - Salir Con Vida.mp3"
+Jun 16 06:54 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 16 08:54 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 09:05 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 09:09 : player: played "Morat/A Donde Vamos/Morat - No Termino.mp3"
+Jun 16 09:12 : player: played "Morat/Salir Con Vida/Morat, Feid - Salir Con Vida.mp3"
+Jun 16 09:16 : player: played "Morat/A Donde Vamos/Morat - No Termino.mp3"
+Jun 16 09:20 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 16 10:03 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 16 10:03 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 16 10:03 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 10:03 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 10:03 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 10:03 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 10:03 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 10:03 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 10:03 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 10:04 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 16 10:07 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:07 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:07 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:07 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:07 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:07 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:07 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:07 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:07 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:07 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:08 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:08 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:08 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:08 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:08 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:08 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:08 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:08 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:08 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:08 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 16 10:10 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 16 10:10 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 16 10:10 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 10:12 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 16 10:15 : player: played "Morat/Salir Con Vida/Morat, Feid - Salir Con Vida.mp3"
+Jun 16 10:17 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 10:17 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 10:17 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 10:17 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 10:27 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 11:57 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 16 11:58 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 11:58 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 11:59 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 11:59 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 11:59 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 13:13 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 16 13:14 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 15:05 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 15:05 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 15:05 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 15:05 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 16 17:18 : update: added Soft Pop Hits/American Authors - Best Day Of My Life.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Taylor Swift - Lover.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Adele - Rolling in the Deep.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Alessia Cara - Scars To Your Beautiful.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Sam Smith - Stay With Me.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Maroon 5 - Memories.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Avril Lavigne - Complicated.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Halsey - Without Me.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Rachel Platten - Fight Song.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/James Arthur - Say You Won't Let Go.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Coldplay, BTS - My Universe.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Lewis Capaldi - Before You Go.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/The Chainsmokers, Coldplay - Something Just Like This.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Harry Styles - Watermelon Sugar.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Lauv - I Like Me Better.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Gotye, Kimbra - Somebody That I Used To Know.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Maroon 5 - She Will Be Loved - Radio Mix.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/The Goo Goo Dolls - Iris.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Justin Bieber - Love Yourself.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Adele - Set Fire to the Rain.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Ali Gatie - It's You.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Beyoncé - Halo.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Bruno Mars - Just the Way You Are.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Luke Combs - Fast Car.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Benson Boone - GHOST TOWN.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Shawn Mendes - Stitches.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Shawn Mendes, Camila Cabello - Señorita.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/OneRepublic - Sunshine.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Conan Gray - Heather.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Giveon - Heartbreak Anniversary.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/John Legend - All of Me.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Ed Sheeran - Shape of You.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Rihanna - Love On The Brain.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Alicia Keys - Girl on Fire.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Meghan Trainor, John Legend - Like I'm Gonna Lose You (feat. John Legend).mp3
+Jun 16 17:18 : update: added Soft Pop Hits/P!nk, Nate Ruess - Just Give Me a Reason (feat. Nate Ruess).mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Jonas Brothers - Sucker.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Tom Odell - Another Love.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Train - Drops of Jupiter (Tell Me).mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Glass Animals - Heat Waves.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Hoobastank - The Reason.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Train - Hey, Soul Sister.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Ed Sheeran - Perfect.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Lady Gaga - Hold My Hand.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Justin Bieber - Ghost.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Adele - Someone Like You.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Maroon 5 - Sugar.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Rihanna - Take A Bow.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Ed Sheeran - Photograph.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Lauren Spencer Smith - Fingers Crossed.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Taylor Swift - willow.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Post Malone - Circles.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Imagine Dragons - Thunder.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Bruno Mars - When I Was Your Man.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Rihanna - Lift Me Up - From Black Panther# Wakanda Forever - Music From and Inspired By.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/One Direction - Story of My Life.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Chris Stapleton - You Should Probably Leave.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Sam Smith - I'm Not The Only One.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/OneRepublic - I Ain't Worried.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/One Direction - Night Changes.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Lorde - Royals.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Stephen Sanchez, Em Beihold - Until I Found You (with Em Beihold) - Em Beihold Version.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Sia - Unstoppable.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Dean Lewis - Be Alright.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Sam Fischer - This City.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Coldplay - Yellow.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Billie Eilish, Khalid - lovely (with Khalid).mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Ariana Grande, Justin Bieber - Stuck with U (with Justin Bieber).mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Maroon 5 - This Love.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Leona Lewis - Bleeding Love.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Coldplay - The Scientist.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Corinne Bailey Rae - Put Your Records On.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Harry Styles - Sign of the Times.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Miley Cyrus - Wrecking Ball.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/JP Saxe, Julia Michaels - If the World Was Ending (feat. Julia Michaels).mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Calum Scott - Dancing On My Own.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Zedd, Maren Morris, Grey - The Middle.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Vance Joy - Riptide.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Duncan Laurence - Arcade.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Snow Patrol - Chasing Cars.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Harry Styles - As It Was.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Selena Gomez - Lose You To Love Me.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Dan + Shay, Justin Bieber - 10,000 Hours (with Justin Bieber).mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Jason Mraz - I'm Yours.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Shawn Mendes - Mercy.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Zoe Wees - Control.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Lukas Graham - 7 Years.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Coldplay - Fix You.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Vanessa Carlton - A Thousand Miles.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Adele - Easy On Me.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Sam Smith - Like I Can.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Coldplay - Paradise.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Old Dominion - One Man Band.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Harry Styles - Adore You.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Taylor Swift - Love Story (Taylor’s Version).mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Ed Sheeran - Thinking out Loud.mp3
+Jun 16 17:18 : update: added Soft Pop Hits/Sam Smith - Too Good At Goodbyes.mp3
+Jun 16 19:26 : player: played "Morat/A Donde Vamos/Morat - No Termino.mp3"
+Jun 16 19:28 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 16 21:49 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 16 22:02 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 16 23:36 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 17 08:58 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 17 09:43 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 17 09:49 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 17 09:49 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 17 09:51 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 17 09:59 : player: played "Soft Pop Hits/Adele - Set Fire to the Rain.mp3"
+Jun 17 10:22 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 17 10:27 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 17 12:59 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 17 13:16 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 17 13:16 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 17 13:16 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 17 13:16 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 17 13:16 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 17 13:19 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 17 13:29 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 17 13:44 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 17 13:55 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 17 14:00 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 17 14:04 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 17 22:11 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 17 23:03 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 17 23:09 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 17 23:24 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 17 23:27 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 17 23:31 : player: played "Soft Pop Hits/Adele - Set Fire to the Rain.mp3"
+Jun 17 23:35 : player: played "Morat/A Donde Vamos/Morat - No Termino.mp3"
+Jun 17 23:39 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 17 23:43 : player: played "Soft Pop Hits/Bruno Mars - Just the Way You Are.mp3"
+Jun 17 23:47 : player: played "Soft Pop Hits/Ed Sheeran - Perfect.mp3"
+Jun 17 23:50 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 18 02:51 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 18 07:37 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 18 07:37 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 18 07:40 : player: played "Morat/Salir Con Vida/Morat, Feid - Salir Con Vida.mp3"
+Jun 18 07:44 : player: played "Soft Pop Hits/Bruno Mars - Just the Way You Are.mp3"
+Jun 18 07:47 : player: played "Soft Pop Hits/Bruno Mars - When I Was Your Man.mp3"
+Jun 18 07:51 : player: played "Soft Pop Hits/Rihanna - Love On The Brain.mp3"
+Jun 18 07:54 : player: played "Morat/Salir Con Vida/Morat, Feid - Salir Con Vida.mp3"
+Jun 18 07:58 : player: played "Soft Pop Hits/Adele - Set Fire to the Rain.mp3"
+Jun 18 08:02 : player: played "Soft Pop Hits/Miley Cyrus - Wrecking Ball.mp3"
+Jun 18 08:06 : player: played "Morat/A Donde Vamos/Morat - No Termino.mp3"
+Jun 18 08:06 : output: Failed to play on "default detected output" (alsa): snd_pcm_poll_descriptors_revents() failed: Input/output error
+Jun 18 08:06 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 18 08:06 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 18 08:07 : player: played "Morat/A Donde Vamos/Morat - No Termino.mp3"
+Jun 18 08:11 : player: played "Soft Pop Hits/Rihanna - Love On The Brain.mp3"
+Jun 18 08:11 : player: played "Morat/Salir Con Vida/Morat, Feid - Salir Con Vida.mp3"
+Jun 18 08:11 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 18 09:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 18 09:01 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 18 09:04 : player: played "Morat/Salir Con Vida/Morat, Feid - Salir Con Vida.mp3"
+Jun 18 09:08 : player: played "Soft Pop Hits/Bruno Mars - Just the Way You Are.mp3"
+Jun 18 09:11 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 18 09:15 : player: played "Morat/A Donde Vamos/Morat - No Termino.mp3"
+Jun 18 09:20 : player: played "Soft Pop Hits/Ed Sheeran - Perfect.mp3"
+Jun 18 09:24 : player: played "Soft Pop Hits/Miley Cyrus - Wrecking Ball.mp3"
+Jun 18 09:28 : player: played "Soft Pop Hits/Adele - Set Fire to the Rain.mp3"
+Jun 18 09:31 : player: played "Soft Pop Hits/Bruno Mars - When I Was Your Man.mp3"
+Jun 18 09:35 : player: played "Soft Pop Hits/Rihanna - Love On The Brain.mp3"
+Jun 18 09:39 : player: played "Soft Pop Hits/Rihanna - Love On The Brain.mp3"
+Jun 18 09:43 : player: played "Soft Pop Hits/Adele - Set Fire to the Rain.mp3"
+Jun 18 09:47 : player: played "Soft Pop Hits/Miley Cyrus - Wrecking Ball.mp3"
+Jun 18 09:50 : player: played "Morat/Salir Con Vida/Morat, Feid - Salir Con Vida.mp3"
+Jun 18 09:54 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 18 09:58 : player: played "Soft Pop Hits/Bruno Mars - Just the Way You Are.mp3"
+Jun 18 10:02 : player: played "Morat/A Donde Vamos/Morat - No Termino.mp3"
+Jun 18 10:05 : player: played "Soft Pop Hits/Bruno Mars - When I Was Your Man.mp3"
+Jun 18 10:10 : player: played "Soft Pop Hits/Ed Sheeran - Perfect.mp3"
+Jun 18 10:13 : player: played "Soft Pop Hits/Miley Cyrus - Wrecking Ball.mp3"
+Jun 18 10:16 : player: played "Morat/Salir Con Vida/Morat, Feid - Salir Con Vida.mp3"
+Jun 18 10:21 : player: played "Soft Pop Hits/Adele - Set Fire to the Rain.mp3"
+Jun 18 10:24 : player: played "Soft Pop Hits/Bruno Mars - Just the Way You Are.mp3"
+Jun 18 10:28 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 18 10:31 : player: played "Morat/A Donde Vamos/Morat - No Termino.mp3"
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 10:32 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 12:05 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 13:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 13:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 13:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 13:44 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 15:47 : player: played "Morat/A Donde Vamos/Morat - No Termino.mp3"
+Jun 18 15:47 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 15:47 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 15:47 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 15:47 : exception: Failed to open "default detected output" (sndio); Requested audio params cannot be satisfied
+Jun 18 16:04 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 18 16:13 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 18 16:17 : player: played "Morat/A Donde Vamos/Morat - No Termino.mp3"
+Jun 18 16:21 : player: played "Soft Pop Hits/Bruno Mars - When I Was Your Man.mp3"
+Jun 18 16:24 : player: played "Morat/Salir Con Vida/Morat, Feid - Salir Con Vida.mp3"
+Jun 18 17:50 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 18 20:19 : player: played "Soft Pop Hits/Adele - Set Fire to the Rain.mp3"
+Jun 18 20:23 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 18 20:29 : player: played "Soft Pop Hits/Adele - Set Fire to the Rain.mp3"
+Jun 18 20:30 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 18 22:05 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 18 22:06 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 18 22:07 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 18 22:09 : player: played "Soft Pop Hits/Adele - Set Fire to the Rain.mp3"
+Jun 18 22:13 : player: played "Soft Pop Hits/Miley Cyrus - Wrecking Ball.mp3"
+Jun 18 22:17 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 18 22:20 : player: played "Soft Pop Hits/Bruno Mars - When I Was Your Man.mp3"
+Jun 18 22:24 : player: played "Soft Pop Hits/Ed Sheeran - Perfect.mp3"
+Jun 18 22:28 : player: played "Soft Pop Hits/Rihanna - Love On The Brain.mp3"
+Jun 18 22:31 : player: played "Morat/Salir Con Vida/Morat, Feid - Salir Con Vida.mp3"
+Jun 18 22:35 : player: played "Soft Pop Hits/Bruno Mars - Just the Way You Are.mp3"
+Jun 18 22:39 : player: played "Morat/A Donde Vamos/Morat - No Termino.mp3"
+Jun 18 22:43 : player: played "Soft Pop Hits/Bruno Mars - Just the Way You Are.mp3"
+Jun 19 08:19 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 19 08:41 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jun 19 08:44 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jun 19 08:46 : player: played "Soft Pop Hits/Bruno Mars - Just the Way You Are.mp3"
+Jun 19 08:50 : player: played "Soft Pop Hits/Miley Cyrus - Wrecking Ball.mp3"
+Jun 19 08:54 : player: played "Soft Pop Hits/Ed Sheeran - Perfect.mp3"
+Jun 19 08:57 : player: played "Morat/Salir Con Vida/Morat, Feid - Salir Con Vida.mp3"
+Jun 19 09:01 : player: played "Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3"
+Jun 19 09:05 : player: played "Morat/A Donde Vamos/Morat - No Termino.mp3"

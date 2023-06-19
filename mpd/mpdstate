@@ -1,0 +1,23 @@
+sw_volume: 10
+audio_device_state:1:default detected output
+state: pause
+current: 5
+time: 44.756000
+random: 1
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3
+1:Morat/Salir Con Vida/Morat, Feid - Salir Con Vida.mp3
+2:Morat/A Donde Vamos/Morat - No Termino.mp3
+3:Soft Pop Hits/Bruno Mars - Just the Way You Are.mp3
+4:Soft Pop Hits/Ed Sheeran - Perfect.mp3
+5:Soft Pop Hits/Rihanna - Love On The Brain.mp3
+6:Soft Pop Hits/Miley Cyrus - Wrecking Ball.mp3
+7:Soft Pop Hits/Bruno Mars - When I Was Your Man.mp3
+8:Soft Pop Hits/Adele - Set Fire to the Rain.mp3
+playlist_end
