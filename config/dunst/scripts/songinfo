@@ -1,0 +1,10 @@
+#!/bin/sh
+
+music_dir="$HOME/Música"
+previewdir="$HOME/.ncmpcpp/previews"
+filename="$(mpc --format "$music_dir"/%file% current)"
+previewname="$previewdir/$(mpc --format %album% current | base64).png"
+[ -e "$previewname" ] || ffmpeg -y -i "$filename" -an -vf scale=300:300 "$previewname" > /dev/null 2>&1
+
+dunstify -t 4500 -r 2593 -u normal "Now Playing" "$(mpc --format '%title% \n%artist% - %album%' current)" -i "$previewname"
+rm "$previewname" 2>/dev/null

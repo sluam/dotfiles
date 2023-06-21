@@ -5,10 +5,11 @@ mpd_port = "6600"
 mpd_crossfade_time = "2"
 mpd_connection_timeout = 5
 
+execute_on_song_change= ~/.config/dunst/scripts/songinfo && ~/.ncmpcpp/scripts/lyrics-song
+
 #LYRICS 
 #--
 lyrics_directory = "~/.ncmpcpp/lyrics"
-lyrics_fetchers = azlyrics, genius, musixmatch, sing365, metrolyrics, justsomelyrics, jahlyrics, plyrics, tekstowo, zeneszoveg, internet
 fetch_lyrics_for_current_song_in_background ="no"
 store_lyrics_in_song_dir = "no"
 generate_win32_compatible_filenames = "yes"
@@ -23,7 +24,7 @@ visualizer_fps = "60"
 visualizer_type = "spectrum"
 visualizer_look = "∗▐"
 visualizer_color = "199,200,201,202,166,130,94,58,22"
-visualizer_spectrum_smooth_look = "yes"
+visualizer_spectrum_smooth_look = "no"
 
 # GENERAL
 # ---
