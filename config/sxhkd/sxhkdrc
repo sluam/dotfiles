@@ -140,6 +140,7 @@ super + p
 super + alt + g
  google-chrome
 
-# admin password
-super + a
+# pass token Github
+supei + a
     pass Github|xclip -selection clipboard
+
