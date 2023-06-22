@@ -1,10 +1,11 @@
 sw_volume: 10
-audio_device_state:1:default detected output
-state: pause
-current: 5
-time: 44.756000
+audio_device_state:1:My Pulse Output
+audio_device_state:1:my_fifo
+state: play
+current: 6
+time: 117.953000
 random: 1
-repeat: 1
+repeat: 0
 single: 0
 consume: 0
 crossfade: 0
@@ -20,4 +21,9 @@ playlist_begin
 6:Soft Pop Hits/Miley Cyrus - Wrecking Ball.mp3
 7:Soft Pop Hits/Bruno Mars - When I Was Your Man.mp3
 8:Soft Pop Hits/Adele - Set Fire to the Rain.mp3
+9:Soft Pop Hits/Maroon 5 - Memories.mp3
+10:Morat/A Donde Vamos/Morat - Enamórate De Alguien Más.mp3
+11:Soft Pop Hits/John Legend - All of Me.mp3
+12:Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat, Cali Y El Dandee - Mil Tormentas.mp3
+13:Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - En Un Sólo Dia.mp3
 playlist_end

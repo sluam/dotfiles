@@ -3,15 +3,24 @@
 mpd_host = "127.0.0.1"
 mpd_port = "6600"
 mpd_crossfade_time = "2"
+mpd_connection_timeout = 5
+
+#LYRICS 
+#--
+lyrics_directory = "~/.ncmpcpp/lyrics"
+lyrics_fetchers = azlyrics, genius, musixmatch, sing365, metrolyrics, justsomelyrics, jahlyrics, plyrics, tekstowo, zeneszoveg, internet
+fetch_lyrics_for_current_song_in_background ="no"
+store_lyrics_in_song_dir = "no"
+generate_win32_compatible_filenames = "yes"
+
 
 # VISUALIZER
 # ---
-
 visualizer_data_source = "/tmp/mpd.fifo"
-visualizer_output_name = "Visualizer"
+visualizer_output_name = "Visualizer feed"
 visualizer_in_stereo = "yes"
 visualizer_fps = "60"
-visualizer_type = "wave"
+visualizer_type = "spectrum"
 visualizer_look = "∗▐"
 visualizer_color = "199,200,201,202,166,130,94,58,22"
 visualizer_spectrum_smooth_look = "yes"
@@ -36,7 +45,7 @@ follow_now_playing_lyrics = "yes"
 locked_screen_width_part = "50"
 ask_for_locked_screen_width_part = "yes"
 display_bitrate = "no"
-external_editor = "nano"
+external_editor = "nvim"
 main_window_color = "default"
 startup_screen = "playlist"
 
@@ -78,3 +87,4 @@ song_window_title_format = "Now Playing .."
 # LIBRARY
 # ---
 allow_for_physical_item_deletion = yes
+
