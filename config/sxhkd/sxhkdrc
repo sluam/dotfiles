@@ -101,7 +101,7 @@ super + ctrl + space
 	bspc node -p cancel
 
 # cancel the preselection for the focused desktop
-super + ctrl + shift + space
+super + shift + space
 	bspc query -N -d | xargs -I id -n 1 bspc node id -p cancel
 
 #
@@ -121,6 +121,7 @@ alt + super + {h,j,k,l}
 #
 alt + {Up,Down,F8}
 	amixer set Master {5%+,5%-,toggle}
+
 # Betterlockscreen
 super + shift + x
     betterlockscreen -l dim
@@ -129,7 +130,7 @@ super + shift + x
 super + shift + s
     maim -s ~/Images/screenshots/$(date +%s).png
 
-shift + Print
+super + Print
     maim ~/Images/screenshots/$(date +%s).jpg
 
 # Polybar hide/show
@@ -140,7 +141,10 @@ super + p
 super + alt + g
  google-chrome
 
+super + alt + y
+ ~/.config/polybar/scripts/mpv/youtube-watch 
+
 # pass token Github
-supei + a
+super + a
     pass Github|xclip -selection clipboard
 

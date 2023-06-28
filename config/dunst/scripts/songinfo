@@ -8,3 +8,4 @@ previewname="$previewdir/$(mpc --format %album% current | base64).png"
 
 dunstify -t 4500 -r 2593 -u normal "Now Playing" "$(mpc --format '%title% \n%artist% - %album%' current)" -i "$previewname"
 rm "$previewname" 2>/dev/null
+

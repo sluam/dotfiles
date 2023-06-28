@@ -1,5 +1,0 @@
-#!/bin/sh
-
-directory="$HOME/.ncmpcpp/lyrics"
-song="$(ncmpcpp --current-song "%a - %t" 2>/dev/null)"
-lyrics -t $song > "$directory/$song.txt"

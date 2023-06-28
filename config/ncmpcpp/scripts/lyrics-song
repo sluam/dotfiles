@@ -1,0 +1,6 @@
+#!/bin/sh
+
+directory="$HOME/.config/ncmpcpp/lyrics"
+artist="$(ncmpcpp --current-song "%a" 2>/dev/null)"
+title="$(ncmpcpp --current-song "%t" 2>/dev/null)"
+lyrics -t "$artist" "$title" >"$directory/$artist - $title.txt"

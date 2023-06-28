@@ -2,8 +2,6 @@
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
 
-export HISTORY_IGNORE="(ls|cd|pwd|exit|sudo reboot|history|cd -|cd ..)"
-
 if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
@@ -49,7 +47,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # DISABLE_MAGIC_FUNCTIONS="true"
 
 # Uncomment the following line to disable colors in ls.
-# DISABLE_LS_COLORS="true"
+ DISABLE_LS_COLORS="true"
 
 # Uncomment the following line to disable auto-setting terminal title.
 # DISABLE_AUTO_TITLE="true"
@@ -117,9 +115,9 @@ source ~/.spotify-variables
 # alias ohmyzsh="mate ~/.oh-my-zsh"
   alias ls="lsd"
   alias bat="batcat"
-  alias dotdrop="~/dotfiles/dotdrop.sh"
+  alias dotdrop="~/.dotfiles/dotdrop.sh"
   alias music="ncmpcpp"
-
+  alias tor="/etc/tor-browser/start-tor-browser --detach"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
@@ -130,4 +128,19 @@ fpath+=${ZDOTDIR:-~}/.zsh_functions
 # Generated for envman. Do not edit.
 [ -s "$HOME/.config/envman/load.sh" ] && source "$HOME/.config/envman/load.sh"
 
+export EDITOR=nvim
+export MANPAGER="/usr/bin/less -s -M +Gg"
 
+#man-page colors
+        export LESS_TERMCAP_mb=$'\e[1;31m'      # begin bold
+        export LESS_TERMCAP_md=$'\e[1;34m'      # begin blink
+        export LESS_TERMCAP_so=$'\e[01;45;37m'  # begin reverse video
+        export LESS_TERMCAP_us=$'\e[01;36m'     # begin underline
+        export LESS_TERMCAP_me=$'\e[0m'         # reset bold/blink
+        export LESS_TERMCAP_se=$'\e[0m'         # reset reverse video
+        export LESS_TERMCAP_ue=$'\e[0m'         # reset underline
+        export GROFF_NO_SGR=1                   # for konsole
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion

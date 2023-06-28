@@ -4,18 +4,20 @@ import os
 import requests
 from requests.adapters import HTTPAdapter
 
-ICON_SUNNY="  Clear"
-ICON_CLOUDY="  Cloudy"
-ICON_RAINY="  Rainy"
-ICON_STORM=" Storm"
-ICON_SNOW="  Snow"
-ICON_FOG="  Fog"
-ICON_MISC=" "
+ICON_SUNNY = "  Clear"
+ICON_CLOUDY = "  Cloudy"
+ICON_RAINY = "  Rainy"
+ICON_STORM = " Storm"
+ICON_SNOW = "  Snow"
+ICON_FOG = "  Fog"
+ICON_DRIZZLE = "  Drizzle"
+ICON_MISC = " "
 
 URL = "https://api.openweathermap.org/data/2.5/weather"
 # Get your API KEY here https://openweathermap.org/api,
 # and set an environment variable for OPENWEATHER_API_KEY with your API KEY.
-API_KEY = os.environ.get("OPENWEATHER_API_KEY", "970606528befaa317698cc75083db8b2")
+API_KEY = os.environ.get("OPENWEATHER_API_KEY",
+                         "970606528befaa317698cc75083db8b2")
 HEADER = {"User-agent": "Mozilla/5.0"}
 
 
@@ -39,23 +41,27 @@ def unit_suffix(unit: str) -> str:
 
     return unit
 
+
 def get_icon(weather: str) -> str:
 
     if "Snow" in weather:
-        icon=ICON_SNOW
+        icon = ICON_SNOW
     elif "Rain" in weather:
-        icon=ICON_RAINY
+        icon = ICON_RAINY
+    elif "Drizzle" in weather:
+        icon = ICON_DRIZZLE
     elif "Cloud" in weather:
-        icon=ICON_CLOUDY
+        icon = ICON_CLOUDY
     elif "Clear" in weather:
-        icon=ICON_SUNNY
+        icon = ICON_SUNNY
     elif "Fog" in weather:
-        icon=ICON_FOG
+        icon = ICON_FOG
     elif "Thunderstorm" in weather:
-        icon=ICON_STORM
+        icon = ICON_STORM
     else:
-        icon=ICON_MISC
+        icon = ICON_MISC
     return icon
+
 
 def get_weather(city: str, lang: str, unit: str, api_key: str) -> dict[str, str] | None:
     try:
@@ -70,12 +76,12 @@ def get_weather(city: str, lang: str, unit: str, api_key: str) -> dict[str, str]
         temp = data["main"]["temp"]
         icon_desc = data["weather"][0]["main"]
         unit = unit_suffix(unit)
-        icon=get_icon(icon_desc)
-    
+        icon = get_icon(icon_desc)
+
         return {
 
-            "icon":icon,
-            "temp":f"{int(temp)}{unit}"
+            "icon": icon,
+            "temp": f"{int(temp)}{unit}"
         }
 
     except requests.exceptions.ConnectionError:
@@ -136,11 +142,11 @@ def main() -> None:
 
     weather = get_weather(city, lang, unit, api_key)
     if weather:
-        icon,temp = weather.values()
+        icon, temp = weather.values()
         if args.verbose:
-            print(icon,temp)
+            print(icon, temp)
         else:
-           print(icon,temp)
+            print(icon, temp)
 
 
 if __name__ == "__main__":

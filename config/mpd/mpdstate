@@ -1,0 +1,4170 @@
+sw_volume: 100
+audio_device_state:1:My Pulse Output
+audio_device_state:1:my_fifo
+state: stop
+current: 0
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Morat/A Donde Vamos/Morat - Nunca Te Olvidé.mp3
+song_begin: http://streaming.exclusive.radio/er/blues/icecast.audio
+Time: 1.000000
+Name: Blues
+song_end
+song_begin: http://streaming.exclusive.radio/er/calm/icecast.audio
+Time: 2.000000
+Name: Calm
+song_end
+song_begin: http://streaming.exclusive.radio/er/chart/icecast.audio
+Time: 3.000000
+Title: Jonas Brothers - Waffle House
+Name: chart
+song_end
+song_begin: http://streaming.exclusive.radio/er/classical/icecast.audio
+Time: 4.000000
+Name: Classical
+song_end
+song_begin: http://streaming.exclusive.radio/er/country/icecast.audio
+Time: 5.000000
+Name: Country
+song_end
+song_begin: http://streaming.exclusive.radio/er/cruisin50s/icecast.audio
+Time: 6.000000
+Name: Cruisin' 50's
+song_end
+song_begin: http://streaming.exclusive.radio/er/cruisin60s/icecast.audio
+Time: 7.000000
+Name: Cruisin' 60's
+song_end
+song_begin: http://streaming.exclusive.radio/er/easy/icecast.audio
+Time: 8.000000
+Name: Easy
+song_end
+song_begin: http://streaming.exclusive.radio/er/folk/icecast.audio
+Time: 9.000000
+Name: Folk
+song_end
+song_begin: http://streaming.exclusive.radio/er/irishfolk/icecast.audio
+Time: 10.000000
+Name: Irish Folk
+song_end
+song_begin: http://streaming.exclusive.radio/er/jazz/icecast.audio
+Time: 11.000000
+Name: Jazz
+song_end
+song_begin: http://streaming.exclusive.radio/er/motown/icecast.audio
+Time: 12.000000
+Name: Motown
+song_end
+song_begin: http://streaming.exclusive.radio/er/rnb/icecast.audio
+Time: 13.000000
+Name: RnB
+song_end
+song_begin: http://streaming.exclusive.radio/er/rock/icecast.audio
+Time: 14.000000
+Name: Rock
+song_end
+song_begin: http://streaming.exclusive.radio/er/softrock/icecast.audio
+Time: 15.000000
+Name: Soft Rock
+song_end
+song_begin: http://streaming.exclusive.radio/er/soul/icecast.audio
+Time: 16.000000
+Name: Soul
+song_end
+song_begin: http://streaming.exclusive.radio/er/10cc/icecast.audio
+Time: 17.000000
+Name: 10cc
+song_end
+song_begin: http://streaming.exclusive.radio/er/1920/icecast.audio
+Time: 18.000000
+Name: 20's
+song_end
+song_begin: http://streaming.exclusive.radio/er/1930/icecast.audio
+Time: 19.000000
+Name: 30's
+song_end
+song_begin: http://streaming.exclusive.radio/er/1940/icecast.audio
+Time: 20.000000
+Name: 40's
+song_end
+song_begin: http://streaming.exclusive.radio/er/50cent/icecast.audio
+Time: 21.000000
+Name: 50 Cent
+song_end
+song_begin: http://streaming.exclusive.radio/er/50s/icecast.audio
+Time: 22.000000
+Name: 50's
+song_end
+song_begin: http://streaming.exclusive.radio/er/60s/icecast.audio
+Time: 23.000000
+Name: 60's
+song_end
+song_begin: http://streaming.exclusive.radio/er/70s/icecast.audio
+Time: 24.000000
+Name: 70's
+song_end
+song_begin: http://streaming.exclusive.radio/er/80s/icecast.audio
+Time: 25.000000
+Name: 80's
+song_end
+song_begin: http://streaming.exclusive.radio/er/90s/icecast.audio
+Time: 26.000000
+Name: 90's
+song_end
+song_begin: http://streaming.exclusive.radio/er/aha/icecast.audio
+Time: 27.000000
+Name: A-Ha
+song_end
+song_begin: http://streaming.exclusive.radio/er/abba/icecast.audio
+Time: 28.000000
+Name: ABBA
+song_end
+song_begin: http://streaming.exclusive.radio/er/acdc/icecast.audio
+Time: 29.000000
+Name: AC/DC
+song_end
+song_begin: http://streaming.exclusive.radio/er/adamlambert/icecast.audio
+Time: 30.000000
+Name: Adam Lambert
+song_end
+song_begin: http://streaming.exclusive.radio/er/adele/icecast.audio
+Time: 31.000000
+Name: Adele
+song_end
+song_begin: http://streaming.exclusive.radio/er/aerosmith/icecast.audio
+Time: 32.000000
+Name: Aerosmith
+song_end
+song_begin: http://streaming.exclusive.radio/er/afrobeats/icecast.audio
+Time: 33.000000
+Name: Afrobeats
+song_end
+song_begin: http://streaming.exclusive.radio/er/algreen/icecast.audio
+Time: 34.000000
+Name: Al Green
+song_end
+song_begin: http://streaming.exclusive.radio/er/aljarreau/icecast.audio
+Time: 35.000000
+Name: Al Jarreau
+song_end
+song_begin: http://streaming.exclusive.radio/er/alabama/icecast.audio
+Time: 36.000000
+Name: Alabama
+song_end
+song_begin: http://streaming.exclusive.radio/er/alanismorissette/icecast.audio
+Time: 37.000000
+Name: Alanis Morissette
+song_end
+song_begin: http://streaming.exclusive.radio/er/albertcollins/icecast.audio
+Time: 38.000000
+Name: Albert Collins
+song_end
+song_begin: http://streaming.exclusive.radio/er/alecbenjamin/icecast.audio
+Time: 39.000000
+Name: Alec Benjamin
+song_end
+song_begin: http://streaming.exclusive.radio/er/alicecooper/icecast.audio
+Time: 40.000000
+Name: Alice Cooper
+song_end
+song_begin: http://streaming.exclusive.radio/er/alisonmoyet/icecast.audio
+Time: 41.000000
+Name: Alison Moyet
+song_end
+song_begin: http://streaming.exclusive.radio/er/america/icecast.audio
+Time: 42.000000
+Name: America
+song_end
+song_begin: http://streaming.exclusive.radio/er/amywinehouse/icecast.audio
+Time: 43.000000
+Name: Amy Winehouse
+song_end
+song_begin: http://streaming.exclusive.radio/er/andreabocelli/icecast.audio
+Time: 44.000000
+Name: Andrea Bocelli
+song_end
+song_begin: http://streaming.exclusive.radio/er/andywilliams/icecast.audio
+Time: 45.000000
+Name: Andy Williams
+song_end
+song_begin: http://streaming.exclusive.radio/er/annielennox/icecast.audio
+Time: 46.000000
+Name: Annie Lennox
+song_end
+song_begin: http://streaming.exclusive.radio/er/arethafranklin/icecast.audio
+Time: 47.000000
+Name: Aretha Franklin
+song_end
+song_begin: http://streaming.exclusive.radio/er/arianagrande/icecast.audio
+Time: 48.000000
+Name: Ariana Grande
+song_end
+song_begin: http://streaming.exclusive.radio/er/avicii/icecast.audio
+Time: 49.000000
+Name: Avicii
+song_end
+song_begin: http://streaming.exclusive.radio/er/bbking/icecast.audio
+Time: 50.000000
+Name: B.B. King
+song_end
+song_begin: http://streaming.exclusive.radio/er/backstreetboys/icecast.audio
+Time: 51.000000
+Name: Backstreet Boys
+song_end
+song_begin: http://streaming.exclusive.radio/er/streisand/icecast.audio
+Time: 52.000000
+Name: Barbra Streisand
+song_end
+song_begin: http://streaming.exclusive.radio/er/barrymanilow/icecast.audio
+Time: 53.000000
+Name: Barry Manilow
+song_end
+song_begin: http://streaming.exclusive.radio/er/barrywhite/icecast.audio
+Time: 54.000000
+Name: Barry White
+song_end
+song_begin: http://streaming.exclusive.radio/er/beachparty/icecast.audio
+Time: 55.000000
+Name: Beach Party
+song_end
+song_begin: http://streaming.exclusive.radio/er/beastieboys/icecast.audio
+Time: 56.000000
+Name: Beastie Boys
+song_end
+song_begin: http://streaming.exclusive.radio/er/beethoven/icecast.audio
+Time: 57.000000
+Name: Beethoven
+song_end
+song_begin: http://streaming.exclusive.radio/er/belindacarlisle/icecast.audio
+Time: 58.000000
+Name: Belinda Carlisle
+song_end
+song_begin: http://streaming.exclusive.radio/er/benharper/icecast.audio
+Time: 59.000000
+Name: Ben Harper
+song_end
+song_begin: http://streaming.exclusive.radio/er/bettemidler/icecast.audio
+Time: 60.000000
+Name: Bette Midler
+song_end
+song_begin: http://streaming.exclusive.radio/er/beyonce/icecast.audio
+Time: 61.000000
+Name: Beyonce
+song_end
+song_begin: http://streaming.exclusive.radio/er/bgt/icecast.audio
+Time: 62.000000
+Name: BGT Radio
+song_end
+song_begin: http://streaming.exclusive.radio/er/billwithers/icecast.audio
+Time: 63.000000
+Name: Bill Withers
+song_end
+song_begin: http://streaming.exclusive.radio/er/billyeilish/icecast.audio
+Time: 64.000000
+Name: Billie Eilish
+song_end
+song_begin: http://streaming.exclusive.radio/er/billyidol/icecast.audio
+Time: 65.000000
+Name: Billy Idol
+song_end
+song_begin: http://streaming.exclusive.radio/er/billyjoel/icecast.audio
+Time: 66.000000
+Name: Billy Joel
+song_end
+song_begin: http://streaming.exclusive.radio/er/bingcrosby/icecast.audio
+Time: 67.000000
+Name: Bing Crosby
+song_end
+song_begin: http://streaming.exclusive.radio/er/birdsong/icecast.audio
+Time: 68.000000
+Name: Birdsong
+song_end
+song_begin: http://streaming.exclusive.radio/er/blacksabbath/icecast.audio
+Time: 69.000000
+Name: Black Sabbath
+song_end
+song_begin: http://streaming.exclusive.radio/er/blondie/icecast.audio
+Time: 70.000000
+Name: Blondie
+song_end
+song_begin: http://streaming.exclusive.radio/er/blur/icecast.audio
+Time: 71.000000
+Name: Blur
+song_end
+song_begin: http://streaming.exclusive.radio/er/bodiddley/icecast.audio
+Time: 72.000000
+Name: Bo Diddley
+song_end
+song_begin: http://streaming.exclusive.radio/er/bobdylan/icecast.audio
+Time: 73.000000
+Name: Bob Dylan
+song_end
+song_begin: http://streaming.exclusive.radio/er/bobmarley/icecast.audio
+Time: 74.000000
+Name: Bob Marley
+song_end
+song_begin: http://streaming.exclusive.radio/er/bobseger/icecast.audio
+Time: 75.000000
+Name: Bob Seger
+song_end
+song_begin: http://streaming.exclusive.radio/er/bollywood/icecast.audio
+Time: 76.000000
+Name: Bollywood
+song_end
+song_begin: http://streaming.exclusive.radio/er/bonjovi/icecast.audio
+Time: 77.000000
+Name: Bon Jovi
+song_end
+song_begin: http://streaming.exclusive.radio/er/bookert/icecast.audio
+Time: 78.000000
+Name: Booker T &  The MG's
+song_end
+song_begin: http://streaming.exclusive.radio/er/boston/icecast.audio
+Time: 79.000000
+Name: Boston
+song_end
+song_begin: http://streaming.exclusive.radio/er/bowls/icecast.audio
+Time: 80.000000
+Name: Bowls
+song_end
+song_begin: http://streaming.exclusive.radio/er/brahms/icecast.audio
+Time: 81.000000
+Name: Brahms
+song_end
+song_begin: http://streaming.exclusive.radio/er/brantleygilbert/icecast.audio
+Time: 82.000000
+Name: Brantley Gilbert
+song_end
+song_begin: http://streaming.exclusive.radio/er/brazil/icecast.audio
+Time: 83.000000
+Name: Brazil
+song_end
+song_begin: http://streaming.exclusive.radio/er/bread/icecast.audio
+Time: 84.000000
+Name: Bread
+song_end
+song_begin: http://streaming.exclusive.radio/er/britney/icecast.audio
+Time: 85.000000
+Name: Britney Spears
+song_end
+song_begin: http://streaming.exclusive.radio/er/springsteen/icecast.audio
+Time: 86.000000
+Name: Bruce Springsteen
+song_end
+song_begin: http://streaming.exclusive.radio/er/brunomars/icecast.audio
+Time: 87.000000
+Name: Bruno Mars
+song_end
+song_begin: http://streaming.exclusive.radio/er/bryanadams/icecast.audio
+Time: 88.000000
+Name: Bryan Adams
+song_end
+song_begin: http://streaming.exclusive.radio/er/bryanferry/icecast.audio
+Time: 89.000000
+Name: Bryan Ferry
+song_end
+song_begin: http://streaming.exclusive.radio/er/buddyguy/icecast.audio
+Time: 90.000000
+Name: Buddy Guy
+song_end
+song_begin: http://streaming.exclusive.radio/er/buddyholly/icecast.audio
+Time: 91.000000
+Name: Buddy Holly
+song_end
+song_begin: http://streaming.exclusive.radio/er/calvinharris/icecast.audio
+Time: 92.000000
+Name: Calvin Harris
+song_end
+song_begin: http://streaming.exclusive.radio/er/camilacabello/icecast.audio
+Time: 93.000000
+Name: Camilla Cabello
+song_end
+song_begin: http://streaming.exclusive.radio/er/cardib/icecast.audio
+Time: 94.000000
+Name: Cardi B
+song_end
+song_begin: http://streaming.exclusive.radio/er/carlysimon/icecast.audio
+Time: 95.000000
+Name: Carly Simon
+song_end
+song_begin: http://streaming.exclusive.radio/er/caroleking/icecast.audio
+Time: 96.000000
+Name: Carole King
+song_end
+song_begin: http://streaming.exclusive.radio/er/carrieunderwood/icecast.audio
+Time: 97.000000
+Name: Carrie Underwood
+song_end
+song_begin: http://streaming.exclusive.radio/er/catstevens/icecast.audio
+Time: 98.000000
+Name: Cat Stevens
+song_end
+song_begin: http://streaming.exclusive.radio/er/celinedion/icecast.audio
+Time: 99.000000
+Name: Celine Dion
+song_end
+song_begin: http://streaming.exclusive.radio/er/blues/icecast.audio
+Time: 100.000000
+Name: Blues
+song_end
+song_begin: http://streaming.exclusive.radio/er/chants/icecast.audio
+Time: 101.000000
+Name: Chants
+song_end
+song_begin: http://streaming.exclusive.radio/er/charleypride/icecast.audio
+Time: 102.000000
+Name: Charley Pride
+song_end
+song_begin: http://streaming.exclusive.radio/er/charlieparker/icecast.audio
+Time: 103.000000
+Name: Charlie Parker
+song_end
+song_begin: http://streaming.exclusive.radio/er/cheaptrick/icecast.audio
+Time: 104.000000
+Name: Cheap Trick
+song_end
+song_begin: http://streaming.exclusive.radio/er/cher/icecast.audio
+Time: 105.000000
+Name: Cher
+song_end
+song_begin: http://streaming.exclusive.radio/er/chic/icecast.audio
+Time: 106.000000
+Name: Chic
+song_end
+song_begin: http://streaming.exclusive.radio/er/chicago/icecast.audio
+Time: 107.000000
+Name: Chicago
+song_end
+song_begin: http://streaming.exclusive.radio/er/dixiechicks/icecast.audio
+Time: 108.000000
+Name: Chicks
+song_end
+song_begin: http://streaming.exclusive.radio/er/chopin/icecast.audio
+Time: 109.000000
+Name: Chopin
+song_end
+song_begin: http://streaming.exclusive.radio/er/chrisrea/icecast.audio
+Time: 110.000000
+Name: Chris Rea
+song_end
+song_begin: http://streaming.exclusive.radio/er/christmascarols/icecast.audio
+Time: 111.000000
+Name: Christmas Carols
+song_end
+song_begin: http://streaming.exclusive.radio/er/christmaspop/icecast.audio
+Time: 112.000000
+Name: Christmas Pop
+song_end
+song_begin: http://streaming.exclusive.radio/er/chuckberry/icecast.audio
+Time: 113.000000
+Name: Chuck Berry
+song_end
+song_begin: http://streaming.exclusive.radio/er/cliffrichard/icecast.audio
+Time: 114.000000
+Name: Cliff Richard
+song_end
+song_begin: http://streaming.exclusive.radio/er/club/icecast.audio
+Time: 115.000000
+Name: Club
+song_end
+song_begin: http://streaming.exclusive.radio/er/coldplay/icecast.audio
+Time: 116.000000
+Name: Coldplay
+song_end
+song_begin: http://streaming.exclusive.radio/er/coltford/icecast.audio
+Time: 117.000000
+Name: Colt Ford
+song_end
+song_begin: http://streaming.exclusive.radio/er/countbasie/icecast.audio
+Time: 118.000000
+Name: Count Basie
+song_end
+song_begin: http://streaming.exclusive.radio/er/creedence/icecast.audio
+Time: 119.000000
+Name: Creedence Clearwater Revival
+song_end
+song_begin: http://streaming.exclusive.radio/er/crooners/icecast.audio
+Time: 120.000000
+Name: Crooners
+song_end
+song_begin: http://streaming.exclusive.radio/er/csny/icecast.audio
+Time: 121.000000
+Name: Crosby Stills Nash and Young
+song_end
+song_begin: http://streaming.exclusive.radio/er/crowdedhouse/icecast.audio
+Time: 122.000000
+Name: Crowded House
+song_end
+song_begin: http://streaming.exclusive.radio/er/curtismayfield/icecast.audio
+Time: 123.000000
+Name: Curtis Mayfield
+song_end
+song_begin: http://streaming.exclusive.radio/er/daftpunk/icecast.audio
+Time: 124.000000
+Name: Daft Punk
+song_end
+song_begin: http://streaming.exclusive.radio/er/dallassmith/icecast.audio
+Time: 125.000000
+Name: Dallas Smith
+song_end
+song_begin: http://streaming.exclusive.radio/er/chilldance/icecast.audio
+Time: 126.000000
+Name: Dance Chill
+song_end
+song_begin: http://streaming.exclusive.radio/er/davebrubeck/icecast.audio
+Time: 127.000000
+Name: Dave Brubeck
+song_end
+song_begin: http://streaming.exclusive.radio/er/davidbowie/icecast.audio
+Time: 128.000000
+Name: David Bowie
+song_end
+song_begin: http://streaming.exclusive.radio/er/davidsoul/icecast.audio
+Time: 129.000000
+Name: David Soul
+song_end
+song_begin: http://streaming.exclusive.radio/er/deanmartin/icecast.audio
+Time: 130.000000
+Name: Dean Martin
+song_end
+song_begin: http://streaming.exclusive.radio/er/debussy/icecast.audio
+Time: 131.000000
+Name: Debussy
+song_end
+song_begin: http://streaming.exclusive.radio/er/deeppurple/icecast.audio
+Time: 132.000000
+Name: Deep Purple
+song_end
+song_begin: http://streaming.exclusive.radio/er/defleppard/icecast.audio
+Time: 133.000000
+Name: Def Leppard
+song_end
+song_begin: http://streaming.exclusive.radio/er/depechemode/icecast.audio
+Time: 134.000000
+Name: Depeche Mode
+song_end
+song_begin: http://streaming.exclusive.radio/er/derekandsusantrucks/icecast.audio
+Time: 135.000000
+Name: Derek Trucks and Susan Tedeschi
+song_end
+song_begin: http://streaming.exclusive.radio/er/deutschemusik/icecast.audio
+Time: 136.000000
+Name: Deutsche Musik
+song_end
+song_begin: http://streaming.exclusive.radio/er/dianakrall/icecast.audio
+Time: 137.000000
+Name: Diana Krall
+song_end
+song_begin: http://streaming.exclusive.radio/er/dianaross/icecast.audio
+Time: 138.000000
+Name: Diana Ross
+song_end
+song_begin: http://streaming.exclusive.radio/er/dionnewarwick/icecast.audio
+Time: 139.000000
+Name: Dionne Warwick
+song_end
+song_begin: http://streaming.exclusive.radio/er/direstraits/icecast.audio
+Time: 140.000000
+Name: Dire Straits
+song_end
+song_begin: http://streaming.exclusive.radio/er/disco/icecast.audio
+Time: 141.000000
+Name: Disco
+song_end
+song_begin: http://streaming.exclusive.radio/er/divas/icecast.audio
+Time: 142.000000
+Name: Divas
+song_end
+song_begin: http://streaming.exclusive.radio/er/dizzygillespie/icecast.audio
+Time: 143.000000
+Name: Dizzy Gillespie
+song_end
+song_begin: http://streaming.exclusive.radio/er/dollyparton/icecast.audio
+Time: 144.000000
+Name: Dolly Parton
+song_end
+song_begin: http://streaming.exclusive.radio/er/donnasummer/icecast.audio
+Time: 145.000000
+Name: Donna Summer
+song_end
+song_begin: http://streaming.exclusive.radio/er/drhook/icecast.audio
+Time: 146.000000
+Name: Dr Hook
+song_end
+song_begin: http://streaming.exclusive.radio/er/drdre/icecast.audio
+Time: 147.000000
+Name: Dr. Dre
+song_end
+song_begin: http://streaming.exclusive.radio/er/drake/icecast.audio
+Time: 148.000000
+Name: Drake
+song_end
+song_begin: http://streaming.exclusive.radio/er/dualipa/icecast.audio
+Time: 149.000000
+Name: Dua Lipa
+song_end
+song_begin: http://streaming.exclusive.radio/er/dukeellington/icecast.audio
+Time: 150.000000
+Name: Duke Ellington
+song_end
+song_begin: http://streaming.exclusive.radio/er/duranduran/icecast.audio
+Time: 151.000000
+Name: Duran Duran
+song_end
+song_begin: http://streaming.exclusive.radio/er/eagles/icecast.audio
+Time: 152.000000
+Name: Eagles
+song_end
+song_begin: http://streaming.exclusive.radio/er/edsheeran/icecast.audio
+Time: 154.000000
+Name: Ed Sheeran
+song_end
+song_begin: http://streaming.exclusive.radio/er/elbow/icecast.audio
+Time: 155.000000
+Name: Elbow
+song_end
+song_begin: http://streaming.exclusive.radio/er/elo/icecast.audio
+Time: 156.000000
+Name: Electric Light Orchestra
+song_end
+song_begin: http://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio
+Time: 157.000000
+Name: Ella Fitzgerald
+song_end
+song_begin: http://streaming.exclusive.radio/er/elliegoulding/icecast.audio
+Time: 158.000000
+Name: Ellie Goulding
+song_end
+song_begin: http://streaming.exclusive.radio/er/eltonjohn/icecast.audio
+Time: 159.000000
+Name: Elton John
+song_end
+song_begin: http://streaming.exclusive.radio/er/elviscostello/icecast.audio
+Time: 160.000000
+Name: Elvis Costello
+song_end
+song_begin: http://streaming.exclusive.radio/er/elvispresley/icecast.audio
+Time: 161.000000
+Name: Elvis Presley
+song_end
+song_begin: http://streaming.exclusive.radio/er/eminem/icecast.audio
+Time: 163.000000
+Name: Eminem
+song_end
+song_begin: http://streaming.exclusive.radio/er/energyworkout/icecast.audio
+Time: 164.000000
+Name: Energy Workout
+song_end
+song_begin: http://streaming.exclusive.radio/er/engelberthumperdinck/icecast.audio
+Time: 165.000000
+Name: Engelbert Humperdinck
+song_end
+song_begin: http://streaming.exclusive.radio/er/enriqueiglesias/icecast.audio
+Time: 166.000000
+Name: Enrique Iglesias
+song_end
+song_begin: http://streaming.exclusive.radio/er/erasure/icecast.audio
+Time: 167.000000
+Name: Erasure
+song_end
+song_begin: http://streaming.exclusive.radio/er/ericclapton/icecast.audio
+Time: 168.000000
+Name: Eric Clapton
+song_end
+song_begin: http://streaming.exclusive.radio/er/ettajames/icecast.audio
+Time: 169.000000
+Name: Etta James
+song_end
+song_begin: http://streaming.exclusive.radio/er/eurythmics/icecast.audio
+Time: 170.000000
+Name: Eurythmics
+song_end
+song_begin: http://streaming.exclusive.radio/er/evacassidy/icecast.audio
+Time: 171.000000
+Name: Eva Cassidy
+song_end
+song_begin: http://streaming.exclusive.radio/er/fatsdomino/icecast.audio
+Time: 172.000000
+Name: Fats Domino
+song_end
+song_begin: http://streaming.exclusive.radio/er/fatswaller/icecast.audio
+Time: 173.000000
+Name: Fats Waller
+song_end
+song_begin: http://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio
+Time: 174.000000
+Name: Fleetwood Mac
+song_end
+song_begin: http://streaming.exclusive.radio/er/floridageorgialine/icecast.audio
+Time: 175.000000
+Name: Florida Georgia Line
+song_end
+song_begin: http://streaming.exclusive.radio/er/foofighters/icecast.audio
+Time: 176.000000
+Name: Foo Fighters
+song_end
+song_begin: http://streaming.exclusive.radio/er/foreigner/icecast.audio
+Time: 177.000000
+Name: Foreigner
+song_end
+song_begin: http://streaming.exclusive.radio/er/franksinatra/icecast.audio
+Time: 178.000000
+Name: Frank Sinatra
+song_end
+song_begin: http://streaming.exclusive.radio/er/frankievalli/icecast.audio
+Time: 179.000000
+Name: Frankie Valli &  The Four Seasons
+song_end
+song_begin: http://streaming.exclusive.radio/er/freyaridings/icecast.audio
+Time: 180.000000
+Name: Freya Ridings
+song_end
+song_begin: http://streaming.exclusive.radio/er/garthbrooks/icecast.audio
+Time: 181.000000
+Name: Garth Brooks
+song_end
+song_begin: http://streaming.exclusive.radio/er/genesis/icecast.audio
+Time: 182.000000
+Name: Genesis
+song_end
+song_begin: http://streaming.exclusive.radio/er/georgebenson/icecast.audio
+Time: 183.000000
+Name: George Benson
+song_end
+song_begin: http://streaming.exclusive.radio/er/georgeezra/icecast.audio
+Time: 184.000000
+Name: George Ezra
+song_end
+song_begin: http://streaming.exclusive.radio/er/georgeharrison/icecast.audio
+Time: 185.000000
+Name: George Harrison
+song_end
+song_begin: http://streaming.exclusive.radio/er/georgejones/icecast.audio
+Time: 186.000000
+Name: George Jones
+song_end
+song_begin: http://streaming.exclusive.radio/er/georgemichael/icecast.audio
+Time: 187.000000
+Name: George Michael
+song_end
+song_begin: http://streaming.exclusive.radio/er/georgestrait/icecast.audio
+Time: 188.000000
+Name: George Strait
+song_end
+song_begin: http://streaming.exclusive.radio/er/gershwin/icecast.audio
+Time: 189.000000
+Name: Gershwin
+song_end
+song_begin: http://streaming.exclusive.radio/er/glencampbell/icecast.audio
+Time: 190.000000
+Name: Glen Campbell
+song_end
+song_begin: http://streaming.exclusive.radio/er/glennmiller/icecast.audio
+Time: 191.000000
+Name: Glenn Miller
+song_end
+song_begin: http://streaming.exclusive.radio/er/gloriaestefan/icecast.audio
+Time: 192.000000
+Name: Gloria Estefan
+song_end
+song_begin: http://streaming.exclusive.radio/er/gongs/icecast.audio
+Time: 193.000000
+Name: Gongs
+song_end
+song_begin: http://streaming.exclusive.radio/er/afternoon/icecast.audio
+Time: 194.000000
+Name: Good Afternoon
+song_end
+song_begin: http://streaming.exclusive.radio/er/goodevening/icecast.audio
+Time: 195.000000
+Name: Good Evening
+song_end
+song_begin: http://streaming.exclusive.radio/er/goodmorning/icecast.audio
+Time: 196.000000
+Name: Good Morning
+song_end
+song_begin: http://streaming.exclusive.radio/er/goodnight/icecast.audio
+Time: 197.000000
+Name: Good Night
+song_end
+song_begin: http://streaming.exclusive.radio/er/gracevanderwaal/icecast.audio
+Time: 198.000000
+Name: Grace VanderWaal
+song_end
+song_begin: http://streaming.exclusive.radio/er/gramparsons/icecast.audio
+Time: 199.000000
+Name: Gram Parsons
+song_end
+song_begin: http://streaming.exclusive.radio/er/blues/icecast.audio
+Time: 200.000000
+Name: Blues
+song_end
+song_begin: http://streaming.exclusive.radio/er/gratefuldead/icecast.audio
+Time: 201.000000
+Name: Grateful Dead
+song_end
+song_begin: http://streaming.exclusive.radio/er/greenday/icecast.audio
+Time: 202.000000
+Name: Green Day
+song_end
+song_begin: http://streaming.exclusive.radio/er/gregoryporter/icecast.audio
+Time: 203.000000
+Name: Gregory Porter
+song_end
+song_begin: http://streaming.exclusive.radio/er/gretchenpeters/icecast.audio
+Time: 204.000000
+Name: Gretchen Peters
+song_end
+song_begin: http://streaming.exclusive.radio/er/gunsnroses/icecast.audio
+Time: 205.000000
+Name: Guns N' Roses
+song_end
+song_begin: http://streaming.exclusive.radio/er/hallandoates/icecast.audio
+Time: 206.000000
+Name: Hall &  Oates
+song_end
+song_begin: http://streaming.exclusive.radio/er/handel/icecast.audio
+Time: 207.000000
+Name: Handel
+song_end
+song_begin: http://streaming.exclusive.radio/er/hankwilliams/icecast.audio
+Time: 208.000000
+Name: Hank Williams
+song_end
+song_begin: http://streaming.exclusive.radio/er/happy/icecast.audio
+Time: 209.000000
+Name: Happy
+song_end
+song_begin: http://streaming.exclusive.radio/er/harryconnick/icecast.audio
+Time: 210.000000
+Name: Harry Connick Jr.
+song_end
+song_begin: http://streaming.exclusive.radio/er/harrystyles/icecast.audio
+Time: 211.000000
+Name: Harry Styles
+song_end
+song_begin: http://streaming.exclusive.radio/er/herbiehancock/icecast.audio
+Time: 212.000000
+Name: Herbie Hancock
+song_end
+song_begin: http://streaming.exclusive.radio/er/hollywoodandbroadway/icecast.audio
+Time: 213.000000
+Name: Hollywood &  Broadway Musicals
+song_end
+song_begin: http://streaming.exclusive.radio/er/howlinwolf/icecast.audio
+Time: 214.000000
+Name: Howlin Wolf
+song_end
+song_begin: http://streaming.exclusive.radio/er/hueylewis/icecast.audio
+Time: 215.000000
+Name: Huey Lewis &  The News
+song_end
+song_begin: http://streaming.exclusive.radio/er/ibiza/icecast.audio
+Time: 216.000000
+Name: Ibiza
+song_end
+song_begin: http://streaming.exclusive.radio/er/imaginedragons/icecast.audio
+Time: 217.000000
+Name: Imagine Dragons
+song_end
+song_begin: http://streaming.exclusive.radio/er/indie/icecast.audio
+Time: 218.000000
+Name: Indie
+song_end
+song_begin: http://streaming.exclusive.radio/er/INXS/icecast.audio
+Time: 219.000000
+Name: INXS
+song_end
+song_begin: http://streaming.exclusive.radio/er/ironmaiden/icecast.audio
+Time: 220.000000
+Name: Iron Maiden
+song_end
+song_begin: http://streaming.exclusive.radio/er/italy/icecast.audio
+Time: 221.000000
+Name: Italy
+song_end
+song_begin: http://streaming.exclusive.radio/er/jjcale/icecast.audio
+Time: 222.000000
+Name: J J Cale
+song_end
+song_begin: http://streaming.exclusive.radio/er/jpop/icecast.audio
+Time: 223.000000
+Name: J-Pop
+song_end
+song_begin: http://streaming.exclusive.radio/er/jsbach/icecast.audio
+Time: 224.000000
+Name: J.S. Bach
+song_end
+song_begin: http://streaming.exclusive.radio/er/jackjohnson/icecast.audio
+Time: 225.000000
+Name: Jack Johnson
+song_end
+song_begin: http://streaming.exclusive.radio/er/jackiewilson/icecast.audio
+Time: 226.000000
+Name: Jackie Wilson
+song_end
+song_begin: http://streaming.exclusive.radio/er/jacksonbrowne/icecast.audio
+Time: 227.000000
+Name: Jackson Browne
+song_end
+song_begin: http://streaming.exclusive.radio/er/jamesblunt/icecast.audio
+Time: 228.000000
+Name: James Blunt
+song_end
+song_begin: http://streaming.exclusive.radio/er/jamesbrown/icecast.audio
+Time: 229.000000
+Name: James Brown
+song_end
+song_begin: http://streaming.exclusive.radio/er/jamestaylor/icecast.audio
+Time: 230.000000
+Name: James Taylor
+song_end
+song_begin: http://streaming.exclusive.radio/er/jamiecullum/icecast.audio
+Time: 231.000000
+Name: Jamie Cullum
+song_end
+song_begin: http://streaming.exclusive.radio/er/janetjackson/icecast.audio
+Time: 232.000000
+Name: Janet Jackson
+song_end
+song_begin: http://streaming.exclusive.radio/er/jaquesloussier/icecast.audio
+Time: 233.000000
+Name: Jaques Loussier
+song_end
+song_begin: http://streaming.exclusive.radio/er/jasondonovan/icecast.audio
+Time: 234.000000
+Name: Jason Donovan
+song_end
+song_begin: http://streaming.exclusive.radio/er/jay-z/icecast.audio
+Time: 235.000000
+Name: JAY-Z
+song_end
+song_begin: http://streaming.exclusive.radio/er/jeffersonairplane/icecast.audio
+Time: 236.000000
+Name: Jefferson Airplane
+song_end
+song_begin: http://streaming.exclusive.radio/er/jenniferlopez/icecast.audio
+Time: 237.000000
+Name: Jennifer Lopez
+song_end
+song_begin: http://streaming.exclusive.radio/er/jerryleelewis/icecast.audio
+Time: 238.000000
+Name: Jerry Lee Lewis
+song_end
+song_begin: http://streaming.exclusive.radio/er/jethrotull/icecast.audio
+Time: 239.000000
+Name: Jethro Tull
+song_end
+song_begin: http://streaming.exclusive.radio/er/jimreeves/icecast.audio
+Time: 240.000000
+Name: Jim Reeves
+song_end
+song_begin: http://streaming.exclusive.radio/er/hendrix/icecast.audio
+Time: 241.000000
+Name: Jimi Hendrix
+song_end
+song_begin: http://streaming.exclusive.radio/er/jimmyrogers/icecast.audio
+Time: 242.000000
+Name: Jimmy Rogers
+song_end
+song_begin: http://streaming.exclusive.radio/er/joanbaez/icecast.audio
+Time: 243.000000
+Name: Joan Baez
+song_end
+song_begin: http://streaming.exclusive.radio/er/joanjett/icecast.audio
+Time: 244.000000
+Name: Joan Jett
+song_end
+song_begin: http://streaming.exclusive.radio/er/joebonamassa/icecast.audio
+Time: 245.000000
+Name: Joe Bonamassa
+song_end
+song_begin: http://streaming.exclusive.radio/er/joesatriani/icecast.audio
+Time: 246.000000
+Name: Joe Satriani
+song_end
+song_begin: http://streaming.exclusive.radio/er/johncoltrane/icecast.audio
+Time: 247.000000
+Name: John Coltrane
+song_end
+song_begin: http://streaming.exclusive.radio/er/johndenver/icecast.audio
+Time: 248.000000
+Name: John Denver
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnleehooker/icecast.audio
+Time: 249.000000
+Name: John Lee Hooker
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnlegend/icecast.audio
+Time: 250.000000
+Name: John Legend
+song_end
+song_begin: http://streaming.exclusive.radio/er/lennon/icecast.audio
+Time: 251.000000
+Name: John Lennon
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnmartyn/icecast.audio
+Time: 252.000000
+Name: John Martyn
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnmayall/icecast.audio
+Time: 253.000000
+Name: John Mayall
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnpaulgeorgeringo/icecast.audio
+Time: 254.000000
+Name: John Paul George &  Ringo
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnwilliams/icecast.audio
+Time: 255.000000
+Name: John Williams
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnnycash/icecast.audio
+Time: 256.000000
+Name: Johnny Cash
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnnymathis/icecast.audio
+Time: 257.000000
+Name: Johnny Mathis
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnnynash/icecast.audio
+Time: 258.000000
+Name: Johnny Nash
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnnywinter/icecast.audio
+Time: 259.000000
+Name: Johnny Winter
+song_end
+song_begin: http://streaming.exclusive.radio/er/jonasbrothers/icecast.audio
+Time: 260.000000
+Name: Jonas Brothers
+song_end
+song_begin: http://streaming.exclusive.radio/er/jonimitchell/icecast.audio
+Time: 261.000000
+Name: Joni Mitchell
+song_end
+song_begin: http://streaming.exclusive.radio/er/joshgroban/icecast.audio
+Time: 262.000000
+Name: Josh Groban
+song_end
+song_begin: http://streaming.exclusive.radio/er/journey/icecast.audio
+Time: 263.000000
+Name: Journey
+song_end
+song_begin: http://streaming.exclusive.radio/er/judycollins/icecast.audio
+Time: 264.000000
+Name: Judy Collins
+song_end
+song_begin: http://streaming.exclusive.radio/er/justinbieber/icecast.audio
+Time: 265.000000
+Name: Justin Bieber
+song_end
+song_begin: http://streaming.exclusive.radio/er/justintimberlake/icecast.audio
+Time: 266.000000
+Name: Justin Timberlake
+song_end
+song_begin: http://streaming.exclusive.radio/er/kpop/icecast.audio
+Time: 267.000000
+Name: K-Pop
+song_end
+song_begin: http://streaming.exclusive.radio/er/kanyewest/icecast.audio
+Time: 268.000000
+Name: Kanye West
+song_end
+song_begin: http://streaming.exclusive.radio/er/katebush/icecast.audio
+Time: 269.000000
+Name: Kate Bush
+song_end
+song_begin: http://streaming.exclusive.radio/er/katerusby/icecast.audio
+Time: 270.000000
+Name: Kate Rusby
+song_end
+song_begin: http://streaming.exclusive.radio/er/katyperry/icecast.audio
+Time: 271.000000
+Name: Katy Perry
+song_end
+song_begin: http://streaming.exclusive.radio/er/keane/icecast.audio
+Time: 272.000000
+Name: Keane
+song_end
+song_begin: http://streaming.exclusive.radio/er/kehlani/icecast.audio
+Time: 273.000000
+Name: Kehlani
+song_end
+song_begin: http://streaming.exclusive.radio/er/keithurban/icecast.audio
+Time: 274.000000
+Name: Keith Urban
+song_end
+song_begin: http://streaming.exclusive.radio/er/kellyclarkson/icecast.audio
+Time: 275.000000
+Name: Kelly Clarkson
+song_end
+song_begin: http://streaming.exclusive.radio/er/kendricklamar/icecast.audio
+Time: 276.000000
+Name: Kendrick Lamar
+song_end
+song_begin: http://streaming.exclusive.radio/er/kennychesney/icecast.audio
+Time: 277.000000
+Name: Kenny Chesney
+song_end
+song_begin: http://streaming.exclusive.radio/er/kennyg/icecast.audio
+Time: 278.000000
+Name: Kenny G
+song_end
+song_begin: http://streaming.exclusive.radio/er/kennyrogers/icecast.audio
+Time: 279.000000
+Name: Kenny Rogers
+song_end
+song_begin: http://streaming.exclusive.radio/er/kiefersutherland/icecast.audio
+Time: 280.000000
+Name: Kiefer Sutherland
+song_end
+song_begin: http://streaming.exclusive.radio/er/kipmoore/icecast.audio
+Time: 281.000000
+Name: Kip Moore
+song_end
+song_begin: http://streaming.exclusive.radio/er/kiss/icecast.audio
+Time: 282.000000
+Name: KISS
+song_end
+song_begin: http://streaming.exclusive.radio/er/kylie/icecast.audio
+Time: 283.000000
+Name: Kylie Minogue
+song_end
+song_begin: http://streaming.exclusive.radio/er/ladyantebellum/icecast.audio
+Time: 284.000000
+Name: Lady A
+song_end
+song_begin: http://streaming.exclusive.radio/er/ladygaga/icecast.audio
+Time: 285.000000
+Name: Lady Gaga
+song_end
+song_begin: http://streaming.exclusive.radio/er/ledzeppelin/icecast.audio
+Time: 286.000000
+Name: Led Zeppelin
+song_end
+song_begin: http://streaming.exclusive.radio/er/leonardcohen/icecast.audio
+Time: 287.000000
+Name: Leonard Cohen
+song_end
+song_begin: http://streaming.exclusive.radio/er/lewiscapaldi/icecast.audio
+Time: 288.000000
+Name: Lewis Capaldi
+song_end
+song_begin: http://streaming.exclusive.radio/er/lionelrichie/icecast.audio
+Time: 289.000000
+Name: Lionel Richie
+song_end
+song_begin: http://streaming.exclusive.radio/er/liszt/icecast.audio
+Time: 290.000000
+Name: Liszt
+song_end
+song_begin: http://streaming.exclusive.radio/er/littlefeat/icecast.audio
+Time: 291.000000
+Name: Little Feat
+song_end
+song_begin: http://streaming.exclusive.radio/er/littlemix/icecast.audio
+Time: 292.000000
+Name: Little Mix
+song_end
+song_begin: http://streaming.exclusive.radio/er/littlerichard/icecast.audio
+Time: 293.000000
+Name: Little Richard
+song_end
+song_begin: http://streaming.exclusive.radio/er/lizzo/icecast.audio
+Time: 294.000000
+Name: Lizzo
+song_end
+song_begin: http://streaming.exclusive.radio/er/lorde/icecast.audio
+Time: 295.000000
+Name: Lorde
+song_end
+song_begin: http://streaming.exclusive.radio/er/lorettalynn/icecast.audio
+Time: 296.000000
+Name: Loretta Lynn
+song_end
+song_begin: http://streaming.exclusive.radio/er/loudonwainwrightiii/icecast.audio
+Time: 297.000000
+Name: Loudon Wainwright III
+song_end
+song_begin: http://streaming.exclusive.radio/er/louisarmstrong/icecast.audio
+Time: 298.000000
+Name: Louis Armstrong
+song_end
+song_begin: http://streaming.exclusive.radio/er/love/icecast.audio
+Time: 299.000000
+Name: Love
+song_end
+song_begin: http://streaming.exclusive.radio/er/blues/icecast.audio
+Time: 300.000000
+Name: Blues
+song_end
+song_begin: http://streaming.exclusive.radio/er/lukebryan/icecast.audio
+Time: 301.000000
+Name: Luke Bryan
+song_end
+song_begin: http://streaming.exclusive.radio/er/mabel/icecast.audio
+Time: 302.000000
+Name: Mabel
+song_end
+song_begin: http://streaming.exclusive.radio/er/madonna/icecast.audio
+Time: 303.000000
+Name: Madonna
+song_end
+song_begin: http://streaming.exclusive.radio/er/manicstreetpreachers/icecast.audio
+Time: 304.000000
+Name: Manic Street Preachers
+song_end
+song_begin: http://streaming.exclusive.radio/er/mariahcarey/icecast.audio
+Time: 305.000000
+Name: Mariah Carey
+song_end
+song_begin: http://streaming.exclusive.radio/er/maroon5/icecast.audio
+Time: 306.000000
+Name: Maroon 5
+song_end
+song_begin: http://streaming.exclusive.radio/er/marvingaye/icecast.audio
+Time: 307.000000
+Name: Marvin Gaye
+song_end
+song_begin: http://streaming.exclusive.radio/er/maryjblige/icecast.audio
+Time: 308.000000
+Name: Mary J. Blige
+song_end
+song_begin: http://streaming.exclusive.radio/er/massage/icecast.audio
+Time: 309.000000
+Name: Massage
+song_end
+song_begin: http://streaming.exclusive.radio/er/mattmonro/icecast.audio
+Time: 310.000000
+Name: Matt Monro
+song_end
+song_begin: http://streaming.exclusive.radio/er/meatloaf/icecast.audio
+Time: 311.000000
+Name: Meat Loaf
+song_end
+song_begin: http://streaming.exclusive.radio/er/meditation/icecast.audio
+Time: 312.000000
+Name: Meditation
+song_end
+song_begin: http://streaming.exclusive.radio/er/merlehaggard/icecast.audio
+Time: 313.000000
+Name: Merle Haggard
+song_end
+song_begin: http://streaming.exclusive.radio/er/metallica/icecast.audio
+Time: 314.000000
+Name: Metallica
+song_end
+song_begin: http://streaming.exclusive.radio/er/michaelbolton/icecast.audio
+Time: 315.000000
+Name: Michael Bolton
+song_end
+song_begin: http://streaming.exclusive.radio/er/michaelbuble/icecast.audio
+Time: 316.000000
+Name: Michael Buble
+song_end
+song_begin: http://streaming.exclusive.radio/er/michaeljackson/icecast.audio
+Time: 317.000000
+Name: Michael Jackson
+song_end
+song_begin: http://streaming.exclusive.radio/er/michaelkiwanuka/icecast.audio
+Time: 318.000000
+Name: Michael Kiwanuka
+song_end
+song_begin: http://streaming.exclusive.radio/er/mikeandthemechanics/icecast.audio
+Time: 319.000000
+Name: Mike And The Mechanics
+song_end
+song_begin: http://streaming.exclusive.radio/er/milesdavis/icecast.audio
+Time: 320.000000
+Name: Miles Davis
+song_end
+song_begin: http://streaming.exclusive.radio/er/mileycyrus/icecast.audio
+Time: 321.000000
+Name: Miley Cyrus
+song_end
+song_begin: http://streaming.exclusive.radio/er/ministryofsound/icecast.audio
+Time: 322.000000
+Name: Ministry of Sound
+song_end
+song_begin: http://streaming.exclusive.radio/er/moby/icecast.audio
+Time: 323.000000
+Name: Moby
+song_end
+song_begin: http://streaming.exclusive.radio/er/motivation/icecast.audio
+Time: 324.000000
+Name: Motivation
+song_end
+song_begin: http://streaming.exclusive.radio/er/movieandtvthemes/icecast.audio
+Time: 325.000000
+Name: Movie &  TV Themes
+song_end
+song_begin: http://streaming.exclusive.radio/er/mozart/icecast.audio
+Time: 326.000000
+Name: Mozart
+song_end
+song_begin: http://streaming.exclusive.radio/er/muddywaters/icecast.audio
+Time: 327.000000
+Name: Muddy Waters
+song_end
+song_begin: http://streaming.exclusive.radio/er/musiquefrancaise/icecast.audio
+Time: 328.000000
+Name: Musique Francaise
+song_end
+song_begin: http://streaming.exclusive.radio/er/natkingcole/icecast.audio
+Time: 329.000000
+Name: Nat King Cole
+song_end
+song_begin: http://streaming.exclusive.radio/er/neildiamond/icecast.audio
+Time: 330.000000
+Name: Neil Diamond
+song_end
+song_begin: http://streaming.exclusive.radio/er/neilyoung/icecast.audio
+Time: 331.000000
+Name: Neil Young
+song_end
+song_begin: http://streaming.exclusive.radio/er/neworder/icecast.audio
+Time: 332.000000
+Name: New Order
+song_end
+song_begin: http://streaming.exclusive.radio/er/nzmusic/icecast.audio
+Time: 333.000000
+Name: New Zealand
+song_end
+song_begin: http://streaming.exclusive.radio/er/niallhoran/icecast.audio
+Time: 334.000000
+Name: Niall Horan
+song_end
+song_begin: http://streaming.exclusive.radio/er/nickelback/icecast.audio
+Time: 335.000000
+Name: Nickelback
+song_end
+song_begin: http://streaming.exclusive.radio/er/nickiminaj/icecast.audio
+Time: 336.000000
+Name: Nicki Minaj
+song_end
+song_begin: http://streaming.exclusive.radio/er/ninasimone/icecast.audio
+Time: 337.000000
+Name: Nina Simone
+song_end
+song_begin: http://streaming.exclusive.radio/er/nirvana/icecast.audio
+Time: 338.000000
+Name: Nirvana
+song_end
+song_begin: http://streaming.exclusive.radio/er/norahjones/icecast.audio
+Time: 339.000000
+Name: Norah Jones
+song_end
+song_begin: http://streaming.exclusive.radio/er/northernsoul/icecast.audio
+Time: 340.000000
+Name: Northern Soul
+song_end
+song_begin: http://streaming.exclusive.radio/er/oasis/icecast.audio
+Time: 341.000000
+Name: Oasis
+song_end
+song_begin: http://streaming.exclusive.radio/er/ocean/icecast.audio
+Time: 342.000000
+Name: Ocean
+song_end
+song_begin: http://streaming.exclusive.radio/er/onj/icecast.audio
+Time: 343.000000
+Name: Olivia Newton John
+song_end
+song_begin: http://streaming.exclusive.radio/er/onedirection/icecast.audio
+Time: 344.000000
+Name: One Direction
+song_end
+song_begin: http://streaming.exclusive.radio/er/oscarpeterson/icecast.audio
+Time: 345.000000
+Name: Oscar Peterson
+song_end
+song_begin: http://streaming.exclusive.radio/er/otisredding/icecast.audio
+Time: 346.000000
+Name: Otis Redding
+song_end
+song_begin: http://streaming.exclusive.radio/er/palomafaith/icecast.audio
+Time: 347.000000
+Name: Paloma Faith
+song_end
+song_begin: http://streaming.exclusive.radio/er/panpipes/icecast.audio
+Time: 348.000000
+Name: Pan Pipes
+song_end
+song_begin: http://streaming.exclusive.radio/er/party/icecast.audio
+Time: 349.000000
+Name: Party
+song_end
+song_begin: http://streaming.exclusive.radio/er/partyanthems/icecast.audio
+Time: 350.000000
+Name: Party Anthems
+song_end
+song_begin: http://streaming.exclusive.radio/er/patsycline/icecast.audio
+Time: 351.000000
+Name: Patsy Cline
+song_end
+song_begin: http://streaming.exclusive.radio/er/pattismith/icecast.audio
+Time: 352.000000
+Name: Patti Smith
+song_end
+song_begin: http://streaming.exclusive.radio/er/paulmccartney/icecast.audio
+Time: 353.000000
+Name: Paul McCartney
+song_end
+song_begin: http://streaming.exclusive.radio/er/paulweller/icecast.audio
+Time: 354.000000
+Name: Paul Weller
+song_end
+song_begin: http://streaming.exclusive.radio/er/perrycomo/icecast.audio
+Time: 355.000000
+Name: Perry Como
+song_end
+song_begin: http://streaming.exclusive.radio/er/petshopboys/icecast.audio
+Time: 356.000000
+Name: Pet Shop Boys
+song_end
+song_begin: http://streaming.exclusive.radio/er/peteseeger/icecast.audio
+Time: 357.000000
+Name: Pete Seeger
+song_end
+song_begin: http://streaming.exclusive.radio/er/peterframpton/icecast.audio
+Time: 358.000000
+Name: Peter Frampton
+song_end
+song_begin: http://streaming.exclusive.radio/er/pgfleetwood/icecast.audio
+Time: 359.000000
+Name: Peter Green's Fleetwood Mac
+song_end
+song_begin: http://streaming.exclusive.radio/er/pharrellwilliams/icecast.audio
+Time: 360.000000
+Name: Pharrell Williams
+song_end
+song_begin: http://streaming.exclusive.radio/er/philcollins/icecast.audio
+Time: 361.000000
+Name: Phil Collins
+song_end
+song_begin: http://streaming.exclusive.radio/er/pilates/icecast.audio
+Time: 362.000000
+Name: Pilates
+song_end
+song_begin: http://streaming.exclusive.radio/er/pink/icecast.audio
+Time: 363.000000
+Name: Pink
+song_end
+song_begin: http://streaming.exclusive.radio/er/pinkfloyd/icecast.audio
+Time: 364.000000
+Name: Pink Floyd
+song_end
+song_begin: http://streaming.exclusive.radio/er/popprincesses/icecast.audio
+Time: 365.000000
+Name: Pop Princesses
+song_end
+song_begin: http://streaming.exclusive.radio/er/postmalone/icecast.audio
+Time: 366.000000
+Name: Post Malone
+song_end
+song_begin: http://streaming.exclusive.radio/er/prince/icecast.audio
+Time: 367.000000
+Name: Prince
+song_end
+song_begin: http://streaming.exclusive.radio/er/pussycatdolls/icecast.audio
+Time: 368.000000
+Name: Pussycat Dolls
+song_end
+song_begin: http://streaming.exclusive.radio/er/queen/icecast.audio
+Time: 369.000000
+Name: Queen
+song_end
+song_begin: http://streaming.exclusive.radio/er/rem/icecast.audio
+Time: 370.000000
+Name: R.E.M.
+song_end
+song_begin: http://streaming.exclusive.radio/er/ralphvaughanwilliams/icecast.audio
+Time: 371.000000
+Name: Ralph Vaughan Williams
+song_end
+song_begin: http://streaming.exclusive.radio/er/ramones/icecast.audio
+Time: 372.000000
+Name: Ramones
+song_end
+song_begin: http://streaming.exclusive.radio/er/randytravis/icecast.audio
+Time: 373.000000
+Name: Randy Travis
+song_end
+song_begin: http://streaming.exclusive.radio/er/ratpack/icecast.audio
+Time: 374.000000
+Name: Rat Pack
+song_end
+song_begin: http://streaming.exclusive.radio/er/rave/icecast.audio
+Time: 375.000000
+Name: Rave
+song_end
+song_begin: http://streaming.exclusive.radio/er/ravel/icecast.audio
+Time: 376.000000
+Name: Ravel
+song_end
+song_begin: http://streaming.exclusive.radio/er/raycharles/icecast.audio
+Time: 377.000000
+Name: Ray Charles
+song_end
+song_begin: http://streaming.exclusive.radio/er/rebamcentire/icecast.audio
+Time: 378.000000
+Name: Reba McEntire
+song_end
+song_begin: http://streaming.exclusive.radio/er/chilipeppers/icecast.audio
+Time: 379.000000
+Name: Red Hot Chili Peppers
+song_end
+song_begin: http://streaming.exclusive.radio/er/reggae/icecast.audio
+Time: 380.000000
+Name: Reggae
+song_end
+song_begin: http://streaming.exclusive.radio/er/reiki/icecast.audio
+Time: 381.000000
+Name: Reiki
+song_end
+song_begin: http://streaming.exclusive.radio/er/relaxingworkout/icecast.audio
+Time: 382.000000
+Name: Relaxing Workout
+song_end
+song_begin: http://streaming.exclusive.radio/er/rihanna/icecast.audio
+Time: 383.000000
+Name: Rihanna
+song_end
+song_begin: http://streaming.exclusive.radio/er/ritaora/icecast.audio
+Time: 384.000000
+Name: Rita Ora
+song_end
+song_begin: http://streaming.exclusive.radio/er/robertcray/icecast.audio
+Time: 385.000000
+Name: Robert Cray
+song_end
+song_begin: http://streaming.exclusive.radio/er/robertpalmer/icecast.audio
+Time: 386.000000
+Name: Robert Palmer
+song_end
+song_begin: http://streaming.exclusive.radio/er/rocknrollparty/icecast.audio
+Time: 387.000000
+Name: Rock N' Roll Party
+song_end
+song_begin: http://streaming.exclusive.radio/er/rodstewart/icecast.audio
+Time: 388.000000
+Name: Rod Stewart
+song_end
+song_begin: http://streaming.exclusive.radio/er/rorygallagher/icecast.audio
+Time: 389.000000
+Name: Rory Gallagher
+song_end
+song_begin: http://streaming.exclusive.radio/er/roxette/icecast.audio
+Time: 390.000000
+Name: Roxette
+song_end
+song_begin: http://streaming.exclusive.radio/er/royorbison/icecast.audio
+Time: 391.000000
+Name: Roy Orbison
+song_end
+song_begin: http://streaming.exclusive.radio/er/rundmc/icecast.audio
+Time: 392.000000
+Name: Run-DMC
+song_end
+song_begin: http://streaming.exclusive.radio/er/running/icecast.audio
+Time: 393.000000
+Name: Running
+song_end
+song_begin: http://streaming.exclusive.radio/er/rush/icecast.audio
+Time: 394.000000
+Name: Rush
+song_end
+song_begin: http://streaming.exclusive.radio/er/sade/icecast.audio
+Time: 395.000000
+Name: Sade
+song_end
+song_begin: http://streaming.exclusive.radio/er/samcooke/icecast.audio
+Time: 396.000000
+Name: Sam Cooke
+song_end
+song_begin: http://streaming.exclusive.radio/er/samsmith/icecast.audio
+Time: 397.000000
+Name: Sam Smith
+song_end
+song_begin: http://streaming.exclusive.radio/er/santana/icecast.audio
+Time: 398.000000
+Name: Santana
+song_end
+song_begin: http://streaming.exclusive.radio/er/savagegarden/icecast.audio
+Time: 399.000000
+Name: Savage Garden
+song_end
+song_begin: http://streaming.exclusive.radio/er/blues/icecast.audio
+Time: 400.000000
+Name: Blues
+song_end
+song_begin: http://streaming.exclusive.radio/er/schubert/icecast.audio
+Time: 401.000000
+Name: Schubert
+song_end
+song_begin: http://streaming.exclusive.radio/er/scorpions/icecast.audio
+Time: 402.000000
+Name: Scorpions
+song_end
+song_begin: http://streaming.exclusive.radio/er/shakira/icecast.audio
+Time: 403.000000
+Name: Shakira
+song_end
+song_begin: http://streaming.exclusive.radio/er/shaniatwain/icecast.audio
+Time: 404.000000
+Name: Shania Twain
+song_end
+song_begin: http://streaming.exclusive.radio/er/shawnmendes/icecast.audio
+Time: 405.000000
+Name: Shawn Mendes
+song_end
+song_begin: http://streaming.exclusive.radio/er/sherylcrow/icecast.audio
+Time: 406.000000
+Name: Sheryl Crow
+song_end
+song_begin: http://streaming.exclusive.radio/er/shostakovich/icecast.audio
+Time: 407.000000
+Name: Shostakovich
+song_end
+song_begin: http://streaming.exclusive.radio/er/sia/icecast.audio
+Time: 408.000000
+Name: Sia
+song_end
+song_begin: http://streaming.exclusive.radio/er/sibelius/icecast.audio
+Time: 409.000000
+Name: Sibelius
+song_end
+song_begin: http://streaming.exclusive.radio/er/simongarfunkle/icecast.audio
+Time: 410.000000
+Name: Simon &  Garfunkel
+song_end
+song_begin: http://streaming.exclusive.radio/er/simpleminds/icecast.audio
+Time: 411.000000
+Name: Simple Minds
+song_end
+song_begin: http://streaming.exclusive.radio/er/sleep-maxrichter/icecast.audio
+Time: 412.000000
+Name: Sleep- Max Richter
+song_end
+song_begin: http://streaming.exclusive.radio/er/sleepbaby/icecast.audio
+Time: 413.000000
+Name: Sleep-Baby
+song_end
+song_begin: http://streaming.exclusive.radio/er/sleep-classical/icecast.audio
+Time: 414.000000
+Name: Sleep-Classical
+song_end
+song_begin: http://streaming.exclusive.radio/er/sleep-kids/icecast.audio
+Time: 415.000000
+Name: Sleep-Kids
+song_end
+song_begin: http://streaming.exclusive.radio/er/sleep-relax/icecast.audio
+Time: 416.000000
+Name: Sleep-Relax
+song_end
+song_begin: http://streaming.exclusive.radio/er/sleep-tones/icecast.audio
+Time: 417.000000
+Name: Sleep-Tones
+song_end
+song_begin: http://streaming.exclusive.radio/er/slyandthefamilystone/icecast.audio
+Time: 418.000000
+Name: Sly and The Family Stone
+song_end
+song_begin: http://streaming.exclusive.radio/er/smallfaces/icecast.audio
+Time: 419.000000
+Name: Small Faces
+song_end
+song_begin: http://streaming.exclusive.radio/er/smokeyrobinson/icecast.audio
+Time: 420.000000
+Name: Smokey Robinson
+song_end
+song_begin: http://streaming.exclusive.radio/er/snowpatrol/icecast.audio
+Time: 421.000000
+Name: Snow Patrol
+song_end
+song_begin: http://streaming.exclusive.radio/er/soulroyalty/icecast.audio
+Time: 422.000000
+Name: Soul Royalty
+song_end
+song_begin: http://streaming.exclusive.radio/er/spandauballet/icecast.audio
+Time: 423.000000
+Name: Spandau Ballet
+song_end
+song_begin: http://streaming.exclusive.radio/er/steeleyespan/icecast.audio
+Time: 424.000000
+Name: Steeleye Span
+song_end
+song_begin: http://streaming.exclusive.radio/er/steelydan/icecast.audio
+Time: 425.000000
+Name: Steely Dan
+song_end
+song_begin: http://streaming.exclusive.radio/er/stephanegrappelli/icecast.audio
+Time: 426.000000
+Name: Stephane Grappelli
+song_end
+song_begin: http://streaming.exclusive.radio/er/stevewinwood/icecast.audio
+Time: 427.000000
+Name: Steve Winwood
+song_end
+song_begin: http://streaming.exclusive.radio/er/stevierayvaughan/icecast.audio
+Time: 428.000000
+Name: Stevie Ray Vaughan
+song_end
+song_begin: http://streaming.exclusive.radio/er/steviewonder/icecast.audio
+Time: 429.000000
+Name: Stevie Wonder
+song_end
+song_begin: http://streaming.exclusive.radio/er/sting/icecast.audio
+Time: 430.000000
+Name: Sting
+song_end
+song_begin: http://streaming.exclusive.radio/er/stonetemplepilots/icecast.audio
+Time: 431.000000
+Name: Stone Temple Pilots
+song_end
+song_begin: http://streaming.exclusive.radio/er/stormzy/icecast.audio
+Time: 432.000000
+Name: Stormzy
+song_end
+song_begin: http://streaming.exclusive.radio/er/strauss/icecast.audio
+Time: 433.000000
+Name: Strauss
+song_end
+song_begin: http://streaming.exclusive.radio/er/stravinsky/icecast.audio
+Time: 434.000000
+Name: Stravinsky
+song_end
+song_begin: http://streaming.exclusive.radio/er/succesful/icecast.audio
+Time: 435.000000
+Name: Successful
+song_end
+song_begin: http://streaming.exclusive.radio/er/supertramp/icecast.audio
+Time: 436.000000
+Name: Supertramp
+song_end
+song_begin: http://streaming.exclusive.radio/er/suzannevega/icecast.audio
+Time: 437.000000
+Name: Suzanne Vega
+song_end
+song_begin: http://streaming.exclusive.radio/er/trex/icecast.audio
+Time: 438.000000
+Name: T-Rex
+song_end
+song_begin: http://streaming.exclusive.radio/er/taichi/icecast.audio
+Time: 439.000000
+Name: Tai Chi
+song_end
+song_begin: http://streaming.exclusive.radio/er/takethat/icecast.audio
+Time: 440.000000
+Name: Take That
+song_end
+song_begin: http://streaming.exclusive.radio/er/talkingheads/icecast.audio
+Time: 441.000000
+Name: Talking Heads
+song_end
+song_begin: http://streaming.exclusive.radio/er/tammywynette/icecast.audio
+Time: 442.000000
+Name: Tammy Wynette
+song_end
+song_begin: http://streaming.exclusive.radio/er/taylorswift/icecast.audio
+Time: 443.000000
+Name: Taylor Swift
+song_end
+song_begin: http://streaming.exclusive.radio/er/tchaikovsky/icecast.audio
+Time: 444.000000
+Name: Tchaikovsky
+song_end
+song_begin: http://streaming.exclusive.radio/er/tearsforfears/icecast.audio
+Time: 445.000000
+Name: Tears For Fears
+song_end
+song_begin: http://streaming.exclusive.radio/er/texas/icecast.audio
+Time: 446.000000
+Name: Texas
+song_end
+song_begin: http://streaming.exclusive.radio/er/the1975/icecast.audio
+Time: 447.000000
+Name: The 1975
+song_end
+song_begin: http://streaming.exclusive.radio/er/allmanbrothers/icecast.audio
+Time: 448.000000
+Name: The Allman Brothers Band
+song_end
+song_begin: http://streaming.exclusive.radio/er/theb52s/icecast.audio
+Time: 449.000000
+Name: The B-52's
+song_end
+song_begin: http://streaming.exclusive.radio/er/theband/icecast.audio
+Time: 450.000000
+Name: The Band
+song_end
+song_begin: http://streaming.exclusive.radio/er/beachboys/icecast.audio
+Time: 451.000000
+Name: The Beach Boys
+song_end
+song_begin: http://streaming.exclusive.radio/er/beatles/icecast.audio
+Time: 452.000000
+Name: The Beatles
+song_end
+song_begin: http://streaming.exclusive.radio/er/beegees/icecast.audio
+Time: 453.000000
+Name: The Bee Gees
+song_end
+song_begin: http://streaming.exclusive.radio/er/theblackcrowes/icecast.audio
+Time: 454.000000
+Name: The Black Crowes
+song_end
+song_begin: http://streaming.exclusive.radio/er/thebyrds/icecast.audio
+Time: 455.000000
+Name: The Byrds
+song_end
+song_begin: http://streaming.exclusive.radio/er/carpenters/icecast.audio
+Time: 456.000000
+Name: The Carpenters
+song_end
+song_begin: http://streaming.exclusive.radio/er/thecars/icecast.audio
+Time: 457.000000
+Name: The Cars
+song_end
+song_begin: http://streaming.exclusive.radio/er/theclash/icecast.audio
+Time: 458.000000
+Name: The Clash
+song_end
+song_begin: http://streaming.exclusive.radio/er/thecure/icecast.audio
+Time: 459.000000
+Name: The Cure
+song_end
+song_begin: http://streaming.exclusive.radio/er/doobiebrothers/icecast.audio
+Time: 460.000000
+Name: The Doobie Brothers
+song_end
+song_begin: http://streaming.exclusive.radio/er/doors/icecast.audio
+Time: 461.000000
+Name: The Doors
+song_end
+song_begin: http://streaming.exclusive.radio/er/drifters/icecast.audio
+Time: 462.000000
+Name: The Drifters
+song_end
+song_begin: http://streaming.exclusive.radio/er/thedubliners/icecast.audio
+Time: 463.000000
+Name: The Dubliners
+song_end
+song_begin: http://streaming.exclusive.radio/er/everlybrothers/icecast.audio
+Time: 464.000000
+Name: The Everly Brothers
+song_end
+song_begin: http://streaming.exclusive.radio/er/firstladies/icecast.audio
+Time: 465.000000
+Name: The First Ladies Of Song
+song_end
+song_begin: http://streaming.exclusive.radio/er/fourtops/icecast.audio
+Time: 466.000000
+Name: The Four Tops
+song_end
+song_begin: http://streaming.exclusive.radio/er/humanleague/icecast.audio
+Time: 467.000000
+Name: The Human League
+song_end
+song_begin: http://streaming.exclusive.radio/er/thekillers/icecast.audio
+Time: 468.000000
+Name: The Killers
+song_end
+song_begin: http://streaming.exclusive.radio/er/thekinks/icecast.audio
+Time: 469.000000
+Name: The Kinks
+song_end
+song_begin: http://streaming.exclusive.radio/er/themavericks/icecast.audio
+Time: 470.000000
+Name: The Mavericks
+song_end
+song_begin: http://streaming.exclusive.radio/er/themonkees/icecast.audio
+Time: 471.000000
+Name: The Monkees
+song_end
+song_begin: http://streaming.exclusive.radio/er/moodyblues/icecast.audio
+Time: 472.000000
+Name: The Moody Blues
+song_end
+song_begin: http://streaming.exclusive.radio/er/police/icecast.audio
+Time: 473.000000
+Name: The Police
+song_end
+song_begin: http://streaming.exclusive.radio/er/pretenders/icecast.audio
+Time: 474.000000
+Name: The Pretenders
+song_end
+song_begin: http://streaming.exclusive.radio/er/rollingstones/icecast.audio
+Time: 475.000000
+Name: The Rolling Stones
+song_end
+song_begin: http://streaming.exclusive.radio/er/theshirelles/icecast.audio
+Time: 476.000000
+Name: The Shirelles
+song_end
+song_begin: http://streaming.exclusive.radio/er/stevemillerband/icecast.audio
+Time: 477.000000
+Name: The Steve Miller Band
+song_end
+song_begin: http://streaming.exclusive.radio/er/thetemptations/icecast.audio
+Time: 478.000000
+Name: The Temptations
+song_end
+song_begin: http://streaming.exclusive.radio/er/velvetunderground/icecast.audio
+Time: 479.000000
+Name: The Velvet Underground
+song_end
+song_begin: http://streaming.exclusive.radio/er/theweeknd/icecast.audio
+Time: 480.000000
+Name: The Weeknd
+song_end
+song_begin: http://streaming.exclusive.radio/er/whitestripes/icecast.audio
+Time: 481.000000
+Name: The White Stripes
+song_end
+song_begin: http://streaming.exclusive.radio/er/thewho/icecast.audio
+Time: 482.000000
+Name: The Who
+song_end
+song_begin: http://streaming.exclusive.radio/er/theyardbirds/icecast.audio
+Time: 483.000000
+Name: The Yardbirds
+song_end
+song_begin: http://streaming.exclusive.radio/er/thinlizzy/icecast.audio
+Time: 484.000000
+Name: Thin Lizzy
+song_end
+song_begin: http://streaming.exclusive.radio/er/timmcgraw/icecast.audio
+Time: 485.000000
+Name: Tim McGraw
+song_end
+song_begin: http://streaming.exclusive.radio/er/tinaturner/icecast.audio
+Time: 486.000000
+Name: Tina Turner
+song_end
+song_begin: http://streaming.exclusive.radio/er/tinietempah/icecast.audio
+Time: 487.000000
+Name: Tinie Tempah
+song_end
+song_begin: http://streaming.exclusive.radio/er/tobykeith/icecast.audio
+Time: 488.000000
+Name: Toby Keith
+song_end
+song_begin: http://streaming.exclusive.radio/er/tomjones/icecast.audio
+Time: 489.000000
+Name: Tom Jones
+song_end
+song_begin: http://streaming.exclusive.radio/er/tompaxton/icecast.audio
+Time: 490.000000
+Name: Tom Paxton
+song_end
+song_begin: http://streaming.exclusive.radio/er/tompetty/icecast.audio
+Time: 491.000000
+Name: Tom Petty
+song_end
+song_begin: http://streaming.exclusive.radio/er/tomwaits/icecast.audio
+Time: 492.000000
+Name: Tom Waits
+song_end
+song_begin: http://streaming.exclusive.radio/er/tonybennett/icecast.audio
+Time: 493.000000
+Name: Tony Bennett
+song_end
+song_begin: http://streaming.exclusive.radio/er/tootsandthemaytals/icecast.audio
+Time: 494.000000
+Name: Toots And The Maytals
+song_end
+song_begin: http://streaming.exclusive.radio/er/toto/icecast.audio
+Time: 495.000000
+Name: Toto
+song_end
+song_begin: http://streaming.exclusive.radio/er/travisscott/icecast.audio
+Time: 496.000000
+Name: Travis Scott
+song_end
+song_begin: http://streaming.exclusive.radio/er/twentyonepilots/icecast.audio
+Time: 497.000000
+Name: Twenty One Pilots
+song_end
+song_begin: http://streaming.exclusive.radio/er/u2/icecast.audio
+Time: 498.000000
+Name: U2
+song_end
+song_begin: http://streaming.exclusive.radio/er/ub40/icecast.audio
+Time: 499.000000
+Name: UB40
+song_end
+song_begin: http://streaming.exclusive.radio/er/blues/icecast.audio
+Time: 500.000000
+Name: Blues
+song_end
+song_begin: http://streaming.exclusive.radio/er/vanhalen/icecast.audio
+Time: 501.000000
+Name: Van Halen
+song_end
+song_begin: http://streaming.exclusive.radio/er/vanmorrison/icecast.audio
+Time: 502.000000
+Name: Van Morrison
+song_end
+song_begin: http://streaming.exclusive.radio/er/verdi/icecast.audio
+Time: 503.000000
+Name: Verdi
+song_end
+song_begin: http://streaming.exclusive.radio/er/vibe/icecast.audio
+Time: 504.000000
+Name: ViBE
+song_end
+song_begin: http://streaming.exclusive.radio/er/vivaldi/icecast.audio
+Time: 505.000000
+Name: Vivaldi
+song_end
+song_begin: http://streaming.exclusive.radio/er/waylonjennings/icecast.audio
+Time: 506.000000
+Name: Waylon Jennings
+song_end
+song_begin: http://streaming.exclusive.radio/er/wedding/icecast.audio
+Time: 507.000000
+Name: Wedding
+song_end
+song_begin: http://streaming.exclusive.radio/er/weddingclassical/icecast.audio
+Time: 508.000000
+Name: Wedding Classical
+song_end
+song_begin: http://streaming.exclusive.radio/er/westcoast/icecast.audio
+Time: 509.000000
+Name: West Coast
+song_end
+song_begin: http://streaming.exclusive.radio/er/wham/icecast.audio
+Time: 510.000000
+Name: Wham!
+song_end
+song_begin: http://streaming.exclusive.radio/er/whitesnake/icecast.audio
+Time: 511.000000
+Name: Whitesnake
+song_end
+song_begin: http://streaming.exclusive.radio/er/whitneyhouston/icecast.audio
+Time: 512.000000
+Name: Whitney Houston
+song_end
+song_begin: http://streaming.exclusive.radio/er/william/icecast.audio
+Time: 513.000000
+Name: will.i.am
+song_end
+song_begin: http://streaming.exclusive.radio/er/willienelson/icecast.audio
+Time: 514.000000
+Name: Willie Nelson
+song_end
+song_begin: http://streaming.exclusive.radio/er/woodieguthrie/icecast.audio
+Time: 515.000000
+Name: Woody Guthrie
+song_end
+song_begin: http://streaming.exclusive.radio/er/yes/icecast.audio
+Time: 516.000000
+Name: Yes
+song_end
+song_begin: http://streaming.exclusive.radio/er/zen/icecast.audio
+Time: 517.000000
+Name: Zen
+song_end
+song_begin: http://streaming.exclusive.radio/er/zztop/icecast.audio
+Time: 518.000000
+Name: ZZ Top
+song_end
+song_begin: http://streaming.exclusive.radio/er/00s/icecast.audio
+Time: 519.000000
+Name: 00's
+song_end
+song_begin: http://streaming.exclusive.radio/er/10s/icecast.audio
+Time: 520.000000
+Name: 2010's
+song_end
+song_begin: http://streaming.exclusive.radio/er/2020/icecast.audio
+Time: 521.000000
+Name: 2020's
+song_end
+song_begin: http://streaming.exclusive.radio/er/blues/icecast.audio
+Time: 1.000000
+Name: Blues
+song_end
+song_begin: http://streaming.exclusive.radio/er/calm/icecast.audio
+Time: 2.000000
+Name: Calm
+song_end
+song_begin: http://streaming.exclusive.radio/er/chart/icecast.audio
+Time: 3.000000
+Name: Chart
+song_end
+song_begin: http://streaming.exclusive.radio/er/classical/icecast.audio
+Time: 4.000000
+Name: Classical
+song_end
+song_begin: http://streaming.exclusive.radio/er/country/icecast.audio
+Time: 5.000000
+Name: Country
+song_end
+song_begin: http://streaming.exclusive.radio/er/cruisin50s/icecast.audio
+Time: 6.000000
+Name: Cruisin' 50's
+song_end
+song_begin: http://streaming.exclusive.radio/er/cruisin60s/icecast.audio
+Time: 7.000000
+Name: Cruisin' 60's
+song_end
+song_begin: http://streaming.exclusive.radio/er/easy/icecast.audio
+Time: 8.000000
+Name: Easy
+song_end
+song_begin: http://streaming.exclusive.radio/er/folk/icecast.audio
+Time: 9.000000
+Name: Folk
+song_end
+song_begin: http://streaming.exclusive.radio/er/irishfolk/icecast.audio
+Time: 10.000000
+Name: Irish Folk
+song_end
+song_begin: http://streaming.exclusive.radio/er/jazz/icecast.audio
+Time: 11.000000
+Name: Jazz
+song_end
+song_begin: http://streaming.exclusive.radio/er/motown/icecast.audio
+Time: 12.000000
+Name: Motown
+song_end
+song_begin: http://streaming.exclusive.radio/er/rnb/icecast.audio
+Time: 13.000000
+Name: RnB
+song_end
+song_begin: http://streaming.exclusive.radio/er/rock/icecast.audio
+Time: 14.000000
+Name: Rock
+song_end
+song_begin: http://streaming.exclusive.radio/er/softrock/icecast.audio
+Time: 15.000000
+Name: Soft Rock
+song_end
+song_begin: http://streaming.exclusive.radio/er/soul/icecast.audio
+Time: 16.000000
+Name: Soul
+song_end
+song_begin: http://streaming.exclusive.radio/er/10cc/icecast.audio
+Time: 17.000000
+Name: 10cc
+song_end
+song_begin: http://streaming.exclusive.radio/er/1920/icecast.audio
+Time: 18.000000
+Name: 20's
+song_end
+song_begin: http://streaming.exclusive.radio/er/1930/icecast.audio
+Time: 19.000000
+Name: 30's
+song_end
+song_begin: http://streaming.exclusive.radio/er/1940/icecast.audio
+Time: 20.000000
+Name: 40's
+song_end
+song_begin: http://streaming.exclusive.radio/er/50cent/icecast.audio
+Time: 21.000000
+Name: 50 Cent
+song_end
+song_begin: http://streaming.exclusive.radio/er/50s/icecast.audio
+Time: 22.000000
+Name: 50's
+song_end
+song_begin: http://streaming.exclusive.radio/er/60s/icecast.audio
+Time: 23.000000
+Name: 60's
+song_end
+song_begin: http://streaming.exclusive.radio/er/70s/icecast.audio
+Time: 24.000000
+Name: 70's
+song_end
+song_begin: http://streaming.exclusive.radio/er/80s/icecast.audio
+Time: 25.000000
+Name: 80's
+song_end
+song_begin: http://streaming.exclusive.radio/er/90s/icecast.audio
+Time: 26.000000
+Name: 90's
+song_end
+song_begin: http://streaming.exclusive.radio/er/aha/icecast.audio
+Time: 27.000000
+Name: A-Ha
+song_end
+song_begin: http://streaming.exclusive.radio/er/abba/icecast.audio
+Time: 28.000000
+Name: ABBA
+song_end
+song_begin: http://streaming.exclusive.radio/er/acdc/icecast.audio
+Time: 29.000000
+Name: AC/DC
+song_end
+song_begin: http://streaming.exclusive.radio/er/adamlambert/icecast.audio
+Time: 30.000000
+Name: Adam Lambert
+song_end
+song_begin: http://streaming.exclusive.radio/er/adele/icecast.audio
+Time: 31.000000
+Name: Adele
+song_end
+song_begin: http://streaming.exclusive.radio/er/aerosmith/icecast.audio
+Time: 32.000000
+Name: Aerosmith
+song_end
+song_begin: http://streaming.exclusive.radio/er/afrobeats/icecast.audio
+Time: 33.000000
+Name: Afrobeats
+song_end
+song_begin: http://streaming.exclusive.radio/er/algreen/icecast.audio
+Time: 34.000000
+Name: Al Green
+song_end
+song_begin: http://streaming.exclusive.radio/er/aljarreau/icecast.audio
+Time: 35.000000
+Name: Al Jarreau
+song_end
+song_begin: http://streaming.exclusive.radio/er/alabama/icecast.audio
+Time: 36.000000
+Name: Alabama
+song_end
+song_begin: http://streaming.exclusive.radio/er/alanismorissette/icecast.audio
+Time: 37.000000
+Name: Alanis Morissette
+song_end
+song_begin: http://streaming.exclusive.radio/er/albertcollins/icecast.audio
+Time: 38.000000
+Name: Albert Collins
+song_end
+song_begin: http://streaming.exclusive.radio/er/alecbenjamin/icecast.audio
+Time: 39.000000
+Name: Alec Benjamin
+song_end
+song_begin: http://streaming.exclusive.radio/er/alicecooper/icecast.audio
+Time: 40.000000
+Name: Alice Cooper
+song_end
+song_begin: http://streaming.exclusive.radio/er/alisonmoyet/icecast.audio
+Time: 41.000000
+Name: Alison Moyet
+song_end
+song_begin: http://streaming.exclusive.radio/er/america/icecast.audio
+Time: 42.000000
+Name: America
+song_end
+song_begin: http://streaming.exclusive.radio/er/amywinehouse/icecast.audio
+Time: 43.000000
+Name: Amy Winehouse
+song_end
+song_begin: http://streaming.exclusive.radio/er/andreabocelli/icecast.audio
+Time: 44.000000
+Name: Andrea Bocelli
+song_end
+song_begin: http://streaming.exclusive.radio/er/andywilliams/icecast.audio
+Time: 45.000000
+Name: Andy Williams
+song_end
+song_begin: http://streaming.exclusive.radio/er/annielennox/icecast.audio
+Time: 46.000000
+Name: Annie Lennox
+song_end
+song_begin: http://streaming.exclusive.radio/er/arethafranklin/icecast.audio
+Time: 47.000000
+Name: Aretha Franklin
+song_end
+song_begin: http://streaming.exclusive.radio/er/arianagrande/icecast.audio
+Time: 48.000000
+Name: Ariana Grande
+song_end
+song_begin: http://streaming.exclusive.radio/er/avicii/icecast.audio
+Time: 49.000000
+Name: Avicii
+song_end
+song_begin: http://streaming.exclusive.radio/er/bbking/icecast.audio
+Time: 50.000000
+Name: B.B. King
+song_end
+song_begin: http://streaming.exclusive.radio/er/backstreetboys/icecast.audio
+Time: 51.000000
+Name: Backstreet Boys
+song_end
+song_begin: http://streaming.exclusive.radio/er/streisand/icecast.audio
+Time: 52.000000
+Name: Barbra Streisand
+song_end
+song_begin: http://streaming.exclusive.radio/er/barrymanilow/icecast.audio
+Time: 53.000000
+Name: Barry Manilow
+song_end
+song_begin: http://streaming.exclusive.radio/er/barrywhite/icecast.audio
+Time: 54.000000
+Name: Barry White
+song_end
+song_begin: http://streaming.exclusive.radio/er/beachparty/icecast.audio
+Time: 55.000000
+Name: Beach Party
+song_end
+song_begin: http://streaming.exclusive.radio/er/beastieboys/icecast.audio
+Time: 56.000000
+Name: Beastie Boys
+song_end
+song_begin: http://streaming.exclusive.radio/er/beethoven/icecast.audio
+Time: 57.000000
+Name: Beethoven
+song_end
+song_begin: http://streaming.exclusive.radio/er/belindacarlisle/icecast.audio
+Time: 58.000000
+Name: Belinda Carlisle
+song_end
+song_begin: http://streaming.exclusive.radio/er/benharper/icecast.audio
+Time: 59.000000
+Name: Ben Harper
+song_end
+song_begin: http://streaming.exclusive.radio/er/bettemidler/icecast.audio
+Time: 60.000000
+Name: Bette Midler
+song_end
+song_begin: http://streaming.exclusive.radio/er/beyonce/icecast.audio
+Time: 61.000000
+Name: Beyonce
+song_end
+song_begin: http://streaming.exclusive.radio/er/bgt/icecast.audio
+Time: 62.000000
+Name: BGT Radio
+song_end
+song_begin: http://streaming.exclusive.radio/er/billwithers/icecast.audio
+Time: 63.000000
+Name: Bill Withers
+song_end
+song_begin: http://streaming.exclusive.radio/er/billyeilish/icecast.audio
+Time: 64.000000
+Name: Billie Eilish
+song_end
+song_begin: http://streaming.exclusive.radio/er/billyidol/icecast.audio
+Time: 65.000000
+Name: Billy Idol
+song_end
+song_begin: http://streaming.exclusive.radio/er/billyjoel/icecast.audio
+Time: 66.000000
+Name: Billy Joel
+song_end
+song_begin: http://streaming.exclusive.radio/er/bingcrosby/icecast.audio
+Time: 67.000000
+Name: Bing Crosby
+song_end
+song_begin: http://streaming.exclusive.radio/er/birdsong/icecast.audio
+Time: 68.000000
+Name: Birdsong
+song_end
+song_begin: http://streaming.exclusive.radio/er/blacksabbath/icecast.audio
+Time: 69.000000
+Name: Black Sabbath
+song_end
+song_begin: http://streaming.exclusive.radio/er/blondie/icecast.audio
+Time: 70.000000
+Name: Blondie
+song_end
+song_begin: http://streaming.exclusive.radio/er/blur/icecast.audio
+Time: 71.000000
+Name: Blur
+song_end
+song_begin: http://streaming.exclusive.radio/er/bodiddley/icecast.audio
+Time: 72.000000
+Name: Bo Diddley
+song_end
+song_begin: http://streaming.exclusive.radio/er/bobdylan/icecast.audio
+Time: 73.000000
+Name: Bob Dylan
+song_end
+song_begin: http://streaming.exclusive.radio/er/bobmarley/icecast.audio
+Time: 74.000000
+Name: Bob Marley
+song_end
+song_begin: http://streaming.exclusive.radio/er/bobseger/icecast.audio
+Time: 75.000000
+Name: Bob Seger
+song_end
+song_begin: http://streaming.exclusive.radio/er/bollywood/icecast.audio
+Time: 76.000000
+Name: Bollywood
+song_end
+song_begin: http://streaming.exclusive.radio/er/bonjovi/icecast.audio
+Time: 77.000000
+Name: Bon Jovi
+song_end
+song_begin: http://streaming.exclusive.radio/er/bookert/icecast.audio
+Time: 78.000000
+Name: Booker T &  The MG's
+song_end
+song_begin: http://streaming.exclusive.radio/er/boston/icecast.audio
+Time: 79.000000
+Name: Boston
+song_end
+song_begin: http://streaming.exclusive.radio/er/bowls/icecast.audio
+Time: 80.000000
+Name: Bowls
+song_end
+song_begin: http://streaming.exclusive.radio/er/brahms/icecast.audio
+Time: 81.000000
+Name: Brahms
+song_end
+song_begin: http://streaming.exclusive.radio/er/brantleygilbert/icecast.audio
+Time: 82.000000
+Name: Brantley Gilbert
+song_end
+song_begin: http://streaming.exclusive.radio/er/brazil/icecast.audio
+Time: 83.000000
+Name: Brazil
+song_end
+song_begin: http://streaming.exclusive.radio/er/bread/icecast.audio
+Time: 84.000000
+Name: Bread
+song_end
+song_begin: http://streaming.exclusive.radio/er/britney/icecast.audio
+Time: 85.000000
+Name: Britney Spears
+song_end
+song_begin: http://streaming.exclusive.radio/er/springsteen/icecast.audio
+Time: 86.000000
+Name: Bruce Springsteen
+song_end
+song_begin: http://streaming.exclusive.radio/er/brunomars/icecast.audio
+Time: 87.000000
+Name: Bruno Mars
+song_end
+song_begin: http://streaming.exclusive.radio/er/bryanadams/icecast.audio
+Time: 88.000000
+Name: Bryan Adams
+song_end
+song_begin: http://streaming.exclusive.radio/er/bryanferry/icecast.audio
+Time: 89.000000
+Name: Bryan Ferry
+song_end
+song_begin: http://streaming.exclusive.radio/er/buddyguy/icecast.audio
+Time: 90.000000
+Name: Buddy Guy
+song_end
+song_begin: http://streaming.exclusive.radio/er/buddyholly/icecast.audio
+Time: 91.000000
+Name: Buddy Holly
+song_end
+song_begin: http://streaming.exclusive.radio/er/calvinharris/icecast.audio
+Time: 92.000000
+Name: Calvin Harris
+song_end
+song_begin: http://streaming.exclusive.radio/er/camilacabello/icecast.audio
+Time: 93.000000
+Name: Camilla Cabello
+song_end
+song_begin: http://streaming.exclusive.radio/er/cardib/icecast.audio
+Time: 94.000000
+Name: Cardi B
+song_end
+song_begin: http://streaming.exclusive.radio/er/carlysimon/icecast.audio
+Time: 95.000000
+Name: Carly Simon
+song_end
+song_begin: http://streaming.exclusive.radio/er/caroleking/icecast.audio
+Time: 96.000000
+Name: Carole King
+song_end
+song_begin: http://streaming.exclusive.radio/er/carrieunderwood/icecast.audio
+Time: 97.000000
+Name: Carrie Underwood
+song_end
+song_begin: http://streaming.exclusive.radio/er/catstevens/icecast.audio
+Time: 98.000000
+Name: Cat Stevens
+song_end
+song_begin: http://streaming.exclusive.radio/er/celinedion/icecast.audio
+Time: 99.000000
+Name: Celine Dion
+song_end
+song_begin: http://streaming.exclusive.radio/er/blues/icecast.audio
+Time: 100.000000
+Name: Blues
+song_end
+song_begin: http://streaming.exclusive.radio/er/chants/icecast.audio
+Time: 101.000000
+Name: Chants
+song_end
+song_begin: http://streaming.exclusive.radio/er/charleypride/icecast.audio
+Time: 102.000000
+Name: Charley Pride
+song_end
+song_begin: http://streaming.exclusive.radio/er/charlieparker/icecast.audio
+Time: 103.000000
+Name: Charlie Parker
+song_end
+song_begin: http://streaming.exclusive.radio/er/cheaptrick/icecast.audio
+Time: 104.000000
+Name: Cheap Trick
+song_end
+song_begin: http://streaming.exclusive.radio/er/cher/icecast.audio
+Time: 105.000000
+Name: Cher
+song_end
+song_begin: http://streaming.exclusive.radio/er/chic/icecast.audio
+Time: 106.000000
+Name: Chic
+song_end
+song_begin: http://streaming.exclusive.radio/er/chicago/icecast.audio
+Time: 107.000000
+Name: Chicago
+song_end
+song_begin: http://streaming.exclusive.radio/er/dixiechicks/icecast.audio
+Time: 108.000000
+Name: Chicks
+song_end
+song_begin: http://streaming.exclusive.radio/er/chopin/icecast.audio
+Time: 109.000000
+Name: Chopin
+song_end
+song_begin: http://streaming.exclusive.radio/er/chrisrea/icecast.audio
+Time: 110.000000
+Name: Chris Rea
+song_end
+song_begin: http://streaming.exclusive.radio/er/christmascarols/icecast.audio
+Time: 111.000000
+Name: Christmas Carols
+song_end
+song_begin: http://streaming.exclusive.radio/er/christmaspop/icecast.audio
+Time: 112.000000
+Name: Christmas Pop
+song_end
+song_begin: http://streaming.exclusive.radio/er/chuckberry/icecast.audio
+Time: 113.000000
+Name: Chuck Berry
+song_end
+song_begin: http://streaming.exclusive.radio/er/cliffrichard/icecast.audio
+Time: 114.000000
+Name: Cliff Richard
+song_end
+song_begin: http://streaming.exclusive.radio/er/club/icecast.audio
+Time: 115.000000
+Name: Club
+song_end
+song_begin: http://streaming.exclusive.radio/er/coldplay/icecast.audio
+Time: 116.000000
+Name: Coldplay
+song_end
+song_begin: http://streaming.exclusive.radio/er/coltford/icecast.audio
+Time: 117.000000
+Name: Colt Ford
+song_end
+song_begin: http://streaming.exclusive.radio/er/countbasie/icecast.audio
+Time: 118.000000
+Name: Count Basie
+song_end
+song_begin: http://streaming.exclusive.radio/er/creedence/icecast.audio
+Time: 119.000000
+Name: Creedence Clearwater Revival
+song_end
+song_begin: http://streaming.exclusive.radio/er/crooners/icecast.audio
+Time: 120.000000
+Name: Crooners
+song_end
+song_begin: http://streaming.exclusive.radio/er/csny/icecast.audio
+Time: 121.000000
+Name: Crosby Stills Nash and Young
+song_end
+song_begin: http://streaming.exclusive.radio/er/crowdedhouse/icecast.audio
+Time: 122.000000
+Name: Crowded House
+song_end
+song_begin: http://streaming.exclusive.radio/er/curtismayfield/icecast.audio
+Time: 123.000000
+Name: Curtis Mayfield
+song_end
+song_begin: http://streaming.exclusive.radio/er/daftpunk/icecast.audio
+Time: 124.000000
+Name: Daft Punk
+song_end
+song_begin: http://streaming.exclusive.radio/er/dallassmith/icecast.audio
+Time: 125.000000
+Name: Dallas Smith
+song_end
+song_begin: http://streaming.exclusive.radio/er/chilldance/icecast.audio
+Time: 126.000000
+Name: Dance Chill
+song_end
+song_begin: http://streaming.exclusive.radio/er/davebrubeck/icecast.audio
+Time: 127.000000
+Name: Dave Brubeck
+song_end
+song_begin: http://streaming.exclusive.radio/er/davidbowie/icecast.audio
+Time: 128.000000
+Name: David Bowie
+song_end
+song_begin: http://streaming.exclusive.radio/er/davidsoul/icecast.audio
+Time: 129.000000
+Name: David Soul
+song_end
+song_begin: http://streaming.exclusive.radio/er/deanmartin/icecast.audio
+Time: 130.000000
+Name: Dean Martin
+song_end
+song_begin: http://streaming.exclusive.radio/er/debussy/icecast.audio
+Time: 131.000000
+Name: Debussy
+song_end
+song_begin: http://streaming.exclusive.radio/er/deeppurple/icecast.audio
+Time: 132.000000
+Name: Deep Purple
+song_end
+song_begin: http://streaming.exclusive.radio/er/defleppard/icecast.audio
+Time: 133.000000
+Name: Def Leppard
+song_end
+song_begin: http://streaming.exclusive.radio/er/depechemode/icecast.audio
+Time: 134.000000
+Name: Depeche Mode
+song_end
+song_begin: http://streaming.exclusive.radio/er/derekandsusantrucks/icecast.audio
+Time: 135.000000
+Name: Derek Trucks and Susan Tedeschi
+song_end
+song_begin: http://streaming.exclusive.radio/er/deutschemusik/icecast.audio
+Time: 136.000000
+Name: Deutsche Musik
+song_end
+song_begin: http://streaming.exclusive.radio/er/dianakrall/icecast.audio
+Time: 137.000000
+Name: Diana Krall
+song_end
+song_begin: http://streaming.exclusive.radio/er/dianaross/icecast.audio
+Time: 138.000000
+Name: Diana Ross
+song_end
+song_begin: http://streaming.exclusive.radio/er/dionnewarwick/icecast.audio
+Time: 139.000000
+Name: Dionne Warwick
+song_end
+song_begin: http://streaming.exclusive.radio/er/direstraits/icecast.audio
+Time: 140.000000
+Name: Dire Straits
+song_end
+song_begin: http://streaming.exclusive.radio/er/disco/icecast.audio
+Time: 141.000000
+Name: Disco
+song_end
+song_begin: http://streaming.exclusive.radio/er/divas/icecast.audio
+Time: 142.000000
+Name: Divas
+song_end
+song_begin: http://streaming.exclusive.radio/er/dizzygillespie/icecast.audio
+Time: 143.000000
+Name: Dizzy Gillespie
+song_end
+song_begin: http://streaming.exclusive.radio/er/dollyparton/icecast.audio
+Time: 144.000000
+Name: Dolly Parton
+song_end
+song_begin: http://streaming.exclusive.radio/er/donnasummer/icecast.audio
+Time: 145.000000
+Name: Donna Summer
+song_end
+song_begin: http://streaming.exclusive.radio/er/drhook/icecast.audio
+Time: 146.000000
+Name: Dr Hook
+song_end
+song_begin: http://streaming.exclusive.radio/er/drdre/icecast.audio
+Time: 147.000000
+Name: Dr. Dre
+song_end
+song_begin: http://streaming.exclusive.radio/er/drake/icecast.audio
+Time: 148.000000
+Name: Drake
+song_end
+song_begin: http://streaming.exclusive.radio/er/dualipa/icecast.audio
+Time: 149.000000
+Name: Dua Lipa
+song_end
+song_begin: http://streaming.exclusive.radio/er/dukeellington/icecast.audio
+Time: 150.000000
+Name: Duke Ellington
+song_end
+song_begin: http://streaming.exclusive.radio/er/duranduran/icecast.audio
+Time: 151.000000
+Name: Duran Duran
+song_end
+song_begin: http://streaming.exclusive.radio/er/eagles/icecast.audio
+Time: 152.000000
+Name: Eagles
+song_end
+song_begin: http://streaming.exclusive.radio/er/edsheeran/icecast.audio
+Time: 154.000000
+Name: Ed Sheeran
+song_end
+song_begin: http://streaming.exclusive.radio/er/elbow/icecast.audio
+Time: 155.000000
+Name: Elbow
+song_end
+song_begin: http://streaming.exclusive.radio/er/elo/icecast.audio
+Time: 156.000000
+Name: Electric Light Orchestra
+song_end
+song_begin: http://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio
+Time: 157.000000
+Name: Ella Fitzgerald
+song_end
+song_begin: http://streaming.exclusive.radio/er/elliegoulding/icecast.audio
+Time: 158.000000
+Name: Ellie Goulding
+song_end
+song_begin: http://streaming.exclusive.radio/er/eltonjohn/icecast.audio
+Time: 159.000000
+Name: Elton John
+song_end
+song_begin: http://streaming.exclusive.radio/er/elviscostello/icecast.audio
+Time: 160.000000
+Name: Elvis Costello
+song_end
+song_begin: http://streaming.exclusive.radio/er/elvispresley/icecast.audio
+Time: 161.000000
+Name: Elvis Presley
+song_end
+song_begin: http://streaming.exclusive.radio/er/eminem/icecast.audio
+Time: 163.000000
+Name: Eminem
+song_end
+song_begin: http://streaming.exclusive.radio/er/energyworkout/icecast.audio
+Time: 164.000000
+Name: Energy Workout
+song_end
+song_begin: http://streaming.exclusive.radio/er/engelberthumperdinck/icecast.audio
+Time: 165.000000
+Name: Engelbert Humperdinck
+song_end
+song_begin: http://streaming.exclusive.radio/er/enriqueiglesias/icecast.audio
+Time: 166.000000
+Name: Enrique Iglesias
+song_end
+song_begin: http://streaming.exclusive.radio/er/erasure/icecast.audio
+Time: 167.000000
+Name: Erasure
+song_end
+song_begin: http://streaming.exclusive.radio/er/ericclapton/icecast.audio
+Time: 168.000000
+Name: Eric Clapton
+song_end
+song_begin: http://streaming.exclusive.radio/er/ettajames/icecast.audio
+Time: 169.000000
+Name: Etta James
+song_end
+song_begin: http://streaming.exclusive.radio/er/eurythmics/icecast.audio
+Time: 170.000000
+Name: Eurythmics
+song_end
+song_begin: http://streaming.exclusive.radio/er/evacassidy/icecast.audio
+Time: 171.000000
+Name: Eva Cassidy
+song_end
+song_begin: http://streaming.exclusive.radio/er/fatsdomino/icecast.audio
+Time: 172.000000
+Name: Fats Domino
+song_end
+song_begin: http://streaming.exclusive.radio/er/fatswaller/icecast.audio
+Time: 173.000000
+Name: Fats Waller
+song_end
+song_begin: http://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio
+Time: 174.000000
+Name: Fleetwood Mac
+song_end
+song_begin: http://streaming.exclusive.radio/er/floridageorgialine/icecast.audio
+Time: 175.000000
+Name: Florida Georgia Line
+song_end
+song_begin: http://streaming.exclusive.radio/er/foofighters/icecast.audio
+Time: 176.000000
+Name: Foo Fighters
+song_end
+song_begin: http://streaming.exclusive.radio/er/foreigner/icecast.audio
+Time: 177.000000
+Name: Foreigner
+song_end
+song_begin: http://streaming.exclusive.radio/er/franksinatra/icecast.audio
+Time: 178.000000
+Name: Frank Sinatra
+song_end
+song_begin: http://streaming.exclusive.radio/er/frankievalli/icecast.audio
+Time: 179.000000
+Name: Frankie Valli &  The Four Seasons
+song_end
+song_begin: http://streaming.exclusive.radio/er/freyaridings/icecast.audio
+Time: 180.000000
+Name: Freya Ridings
+song_end
+song_begin: http://streaming.exclusive.radio/er/garthbrooks/icecast.audio
+Time: 181.000000
+Name: Garth Brooks
+song_end
+song_begin: http://streaming.exclusive.radio/er/genesis/icecast.audio
+Time: 182.000000
+Name: Genesis
+song_end
+song_begin: http://streaming.exclusive.radio/er/georgebenson/icecast.audio
+Time: 183.000000
+Name: George Benson
+song_end
+song_begin: http://streaming.exclusive.radio/er/georgeezra/icecast.audio
+Time: 184.000000
+Name: George Ezra
+song_end
+song_begin: http://streaming.exclusive.radio/er/georgeharrison/icecast.audio
+Time: 185.000000
+Name: George Harrison
+song_end
+song_begin: http://streaming.exclusive.radio/er/georgejones/icecast.audio
+Time: 186.000000
+Name: George Jones
+song_end
+song_begin: http://streaming.exclusive.radio/er/georgemichael/icecast.audio
+Time: 187.000000
+Name: George Michael
+song_end
+song_begin: http://streaming.exclusive.radio/er/georgestrait/icecast.audio
+Time: 188.000000
+Name: George Strait
+song_end
+song_begin: http://streaming.exclusive.radio/er/gershwin/icecast.audio
+Time: 189.000000
+Name: Gershwin
+song_end
+song_begin: http://streaming.exclusive.radio/er/glencampbell/icecast.audio
+Time: 190.000000
+Name: Glen Campbell
+song_end
+song_begin: http://streaming.exclusive.radio/er/glennmiller/icecast.audio
+Time: 191.000000
+Name: Glenn Miller
+song_end
+song_begin: http://streaming.exclusive.radio/er/gloriaestefan/icecast.audio
+Time: 192.000000
+Name: Gloria Estefan
+song_end
+song_begin: http://streaming.exclusive.radio/er/gongs/icecast.audio
+Time: 193.000000
+Name: Gongs
+song_end
+song_begin: http://streaming.exclusive.radio/er/afternoon/icecast.audio
+Time: 194.000000
+Name: Good Afternoon
+song_end
+song_begin: http://streaming.exclusive.radio/er/goodevening/icecast.audio
+Time: 195.000000
+Name: Good Evening
+song_end
+song_begin: http://streaming.exclusive.radio/er/goodmorning/icecast.audio
+Time: 196.000000
+Name: Good Morning
+song_end
+song_begin: http://streaming.exclusive.radio/er/goodnight/icecast.audio
+Time: 197.000000
+Name: Good Night
+song_end
+song_begin: http://streaming.exclusive.radio/er/gracevanderwaal/icecast.audio
+Time: 198.000000
+Name: Grace VanderWaal
+song_end
+song_begin: http://streaming.exclusive.radio/er/gramparsons/icecast.audio
+Time: 199.000000
+Name: Gram Parsons
+song_end
+song_begin: http://streaming.exclusive.radio/er/blues/icecast.audio
+Time: 200.000000
+Name: Blues
+song_end
+song_begin: http://streaming.exclusive.radio/er/gratefuldead/icecast.audio
+Time: 201.000000
+Name: Grateful Dead
+song_end
+song_begin: http://streaming.exclusive.radio/er/greenday/icecast.audio
+Time: 202.000000
+Name: Green Day
+song_end
+song_begin: http://streaming.exclusive.radio/er/gregoryporter/icecast.audio
+Time: 203.000000
+Name: Gregory Porter
+song_end
+song_begin: http://streaming.exclusive.radio/er/gretchenpeters/icecast.audio
+Time: 204.000000
+Name: Gretchen Peters
+song_end
+song_begin: http://streaming.exclusive.radio/er/gunsnroses/icecast.audio
+Time: 205.000000
+Name: Guns N' Roses
+song_end
+song_begin: http://streaming.exclusive.radio/er/hallandoates/icecast.audio
+Time: 206.000000
+Name: Hall &  Oates
+song_end
+song_begin: http://streaming.exclusive.radio/er/handel/icecast.audio
+Time: 207.000000
+Name: Handel
+song_end
+song_begin: http://streaming.exclusive.radio/er/hankwilliams/icecast.audio
+Time: 208.000000
+Name: Hank Williams
+song_end
+song_begin: http://streaming.exclusive.radio/er/happy/icecast.audio
+Time: 209.000000
+Name: Happy
+song_end
+song_begin: http://streaming.exclusive.radio/er/harryconnick/icecast.audio
+Time: 210.000000
+Name: Harry Connick Jr.
+song_end
+song_begin: http://streaming.exclusive.radio/er/harrystyles/icecast.audio
+Time: 211.000000
+Name: Harry Styles
+song_end
+song_begin: http://streaming.exclusive.radio/er/herbiehancock/icecast.audio
+Time: 212.000000
+Name: Herbie Hancock
+song_end
+song_begin: http://streaming.exclusive.radio/er/hollywoodandbroadway/icecast.audio
+Time: 213.000000
+Name: Hollywood &  Broadway Musicals
+song_end
+song_begin: http://streaming.exclusive.radio/er/howlinwolf/icecast.audio
+Time: 214.000000
+Name: Howlin Wolf
+song_end
+song_begin: http://streaming.exclusive.radio/er/hueylewis/icecast.audio
+Time: 215.000000
+Name: Huey Lewis &  The News
+song_end
+song_begin: http://streaming.exclusive.radio/er/ibiza/icecast.audio
+Time: 216.000000
+Name: Ibiza
+song_end
+song_begin: http://streaming.exclusive.radio/er/imaginedragons/icecast.audio
+Time: 217.000000
+Name: Imagine Dragons
+song_end
+song_begin: http://streaming.exclusive.radio/er/indie/icecast.audio
+Time: 218.000000
+Name: Indie
+song_end
+song_begin: http://streaming.exclusive.radio/er/INXS/icecast.audio
+Time: 219.000000
+Name: INXS
+song_end
+song_begin: http://streaming.exclusive.radio/er/ironmaiden/icecast.audio
+Time: 220.000000
+Name: Iron Maiden
+song_end
+song_begin: http://streaming.exclusive.radio/er/italy/icecast.audio
+Time: 221.000000
+Name: Italy
+song_end
+song_begin: http://streaming.exclusive.radio/er/jjcale/icecast.audio
+Time: 222.000000
+Name: J J Cale
+song_end
+song_begin: http://streaming.exclusive.radio/er/jpop/icecast.audio
+Time: 223.000000
+Name: J-Pop
+song_end
+song_begin: http://streaming.exclusive.radio/er/jsbach/icecast.audio
+Time: 224.000000
+Name: J.S. Bach
+song_end
+song_begin: http://streaming.exclusive.radio/er/jackjohnson/icecast.audio
+Time: 225.000000
+Name: Jack Johnson
+song_end
+song_begin: http://streaming.exclusive.radio/er/jackiewilson/icecast.audio
+Time: 226.000000
+Name: Jackie Wilson
+song_end
+song_begin: http://streaming.exclusive.radio/er/jacksonbrowne/icecast.audio
+Time: 227.000000
+Name: Jackson Browne
+song_end
+song_begin: http://streaming.exclusive.radio/er/jamesblunt/icecast.audio
+Time: 228.000000
+Name: James Blunt
+song_end
+song_begin: http://streaming.exclusive.radio/er/jamesbrown/icecast.audio
+Time: 229.000000
+Name: James Brown
+song_end
+song_begin: http://streaming.exclusive.radio/er/jamestaylor/icecast.audio
+Time: 230.000000
+Name: James Taylor
+song_end
+song_begin: http://streaming.exclusive.radio/er/jamiecullum/icecast.audio
+Time: 231.000000
+Name: Jamie Cullum
+song_end
+song_begin: http://streaming.exclusive.radio/er/janetjackson/icecast.audio
+Time: 232.000000
+Name: Janet Jackson
+song_end
+song_begin: http://streaming.exclusive.radio/er/jaquesloussier/icecast.audio
+Time: 233.000000
+Name: Jaques Loussier
+song_end
+song_begin: http://streaming.exclusive.radio/er/jasondonovan/icecast.audio
+Time: 234.000000
+Name: Jason Donovan
+song_end
+song_begin: http://streaming.exclusive.radio/er/jay-z/icecast.audio
+Time: 235.000000
+Name: JAY-Z
+song_end
+song_begin: http://streaming.exclusive.radio/er/jeffersonairplane/icecast.audio
+Time: 236.000000
+Name: Jefferson Airplane
+song_end
+song_begin: http://streaming.exclusive.radio/er/jenniferlopez/icecast.audio
+Time: 237.000000
+Name: Jennifer Lopez
+song_end
+song_begin: http://streaming.exclusive.radio/er/jerryleelewis/icecast.audio
+Time: 238.000000
+Name: Jerry Lee Lewis
+song_end
+song_begin: http://streaming.exclusive.radio/er/jethrotull/icecast.audio
+Time: 239.000000
+Name: Jethro Tull
+song_end
+song_begin: http://streaming.exclusive.radio/er/jimreeves/icecast.audio
+Time: 240.000000
+Name: Jim Reeves
+song_end
+song_begin: http://streaming.exclusive.radio/er/hendrix/icecast.audio
+Time: 241.000000
+Name: Jimi Hendrix
+song_end
+song_begin: http://streaming.exclusive.radio/er/jimmyrogers/icecast.audio
+Time: 242.000000
+Name: Jimmy Rogers
+song_end
+song_begin: http://streaming.exclusive.radio/er/joanbaez/icecast.audio
+Time: 243.000000
+Name: Joan Baez
+song_end
+song_begin: http://streaming.exclusive.radio/er/joanjett/icecast.audio
+Time: 244.000000
+Name: Joan Jett
+song_end
+song_begin: http://streaming.exclusive.radio/er/joebonamassa/icecast.audio
+Time: 245.000000
+Name: Joe Bonamassa
+song_end
+song_begin: http://streaming.exclusive.radio/er/joesatriani/icecast.audio
+Time: 246.000000
+Name: Joe Satriani
+song_end
+song_begin: http://streaming.exclusive.radio/er/johncoltrane/icecast.audio
+Time: 247.000000
+Name: John Coltrane
+song_end
+song_begin: http://streaming.exclusive.radio/er/johndenver/icecast.audio
+Time: 248.000000
+Name: John Denver
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnleehooker/icecast.audio
+Time: 249.000000
+Name: John Lee Hooker
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnlegend/icecast.audio
+Time: 250.000000
+Name: John Legend
+song_end
+song_begin: http://streaming.exclusive.radio/er/lennon/icecast.audio
+Time: 251.000000
+Name: John Lennon
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnmartyn/icecast.audio
+Time: 252.000000
+Name: John Martyn
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnmayall/icecast.audio
+Time: 253.000000
+Name: John Mayall
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnpaulgeorgeringo/icecast.audio
+Time: 254.000000
+Name: John Paul George &  Ringo
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnwilliams/icecast.audio
+Time: 255.000000
+Name: John Williams
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnnycash/icecast.audio
+Time: 256.000000
+Name: Johnny Cash
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnnymathis/icecast.audio
+Time: 257.000000
+Name: Johnny Mathis
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnnynash/icecast.audio
+Time: 258.000000
+Name: Johnny Nash
+song_end
+song_begin: http://streaming.exclusive.radio/er/johnnywinter/icecast.audio
+Time: 259.000000
+Name: Johnny Winter
+song_end
+song_begin: http://streaming.exclusive.radio/er/jonasbrothers/icecast.audio
+Time: 260.000000
+Name: Jonas Brothers
+song_end
+song_begin: http://streaming.exclusive.radio/er/jonimitchell/icecast.audio
+Time: 261.000000
+Name: Joni Mitchell
+song_end
+song_begin: http://streaming.exclusive.radio/er/joshgroban/icecast.audio
+Time: 262.000000
+Name: Josh Groban
+song_end
+song_begin: http://streaming.exclusive.radio/er/journey/icecast.audio
+Time: 263.000000
+Name: Journey
+song_end
+song_begin: http://streaming.exclusive.radio/er/judycollins/icecast.audio
+Time: 264.000000
+Name: Judy Collins
+song_end
+song_begin: http://streaming.exclusive.radio/er/justinbieber/icecast.audio
+Time: 265.000000
+Name: Justin Bieber
+song_end
+song_begin: http://streaming.exclusive.radio/er/justintimberlake/icecast.audio
+Time: 266.000000
+Name: Justin Timberlake
+song_end
+song_begin: http://streaming.exclusive.radio/er/kpop/icecast.audio
+Time: 267.000000
+Name: K-Pop
+song_end
+song_begin: http://streaming.exclusive.radio/er/kanyewest/icecast.audio
+Time: 268.000000
+Name: Kanye West
+song_end
+song_begin: http://streaming.exclusive.radio/er/katebush/icecast.audio
+Time: 269.000000
+Name: Kate Bush
+song_end
+song_begin: http://streaming.exclusive.radio/er/katerusby/icecast.audio
+Time: 270.000000
+Name: Kate Rusby
+song_end
+song_begin: http://streaming.exclusive.radio/er/katyperry/icecast.audio
+Time: 271.000000
+Name: Katy Perry
+song_end
+song_begin: http://streaming.exclusive.radio/er/keane/icecast.audio
+Time: 272.000000
+Name: Keane
+song_end
+song_begin: http://streaming.exclusive.radio/er/kehlani/icecast.audio
+Time: 273.000000
+Name: Kehlani
+song_end
+song_begin: http://streaming.exclusive.radio/er/keithurban/icecast.audio
+Time: 274.000000
+Name: Keith Urban
+song_end
+song_begin: http://streaming.exclusive.radio/er/kellyclarkson/icecast.audio
+Time: 275.000000
+Name: Kelly Clarkson
+song_end
+song_begin: http://streaming.exclusive.radio/er/kendricklamar/icecast.audio
+Time: 276.000000
+Name: Kendrick Lamar
+song_end
+song_begin: http://streaming.exclusive.radio/er/kennychesney/icecast.audio
+Time: 277.000000
+Name: Kenny Chesney
+song_end
+song_begin: http://streaming.exclusive.radio/er/kennyg/icecast.audio
+Time: 278.000000
+Name: Kenny G
+song_end
+song_begin: http://streaming.exclusive.radio/er/kennyrogers/icecast.audio
+Time: 279.000000
+Name: Kenny Rogers
+song_end
+song_begin: http://streaming.exclusive.radio/er/kiefersutherland/icecast.audio
+Time: 280.000000
+Name: Kiefer Sutherland
+song_end
+song_begin: http://streaming.exclusive.radio/er/kipmoore/icecast.audio
+Time: 281.000000
+Name: Kip Moore
+song_end
+song_begin: http://streaming.exclusive.radio/er/kiss/icecast.audio
+Time: 282.000000
+Name: KISS
+song_end
+song_begin: http://streaming.exclusive.radio/er/kylie/icecast.audio
+Time: 283.000000
+Name: Kylie Minogue
+song_end
+song_begin: http://streaming.exclusive.radio/er/ladyantebellum/icecast.audio
+Time: 284.000000
+Name: Lady A
+song_end
+song_begin: http://streaming.exclusive.radio/er/ladygaga/icecast.audio
+Time: 285.000000
+Name: Lady Gaga
+song_end
+song_begin: http://streaming.exclusive.radio/er/ledzeppelin/icecast.audio
+Time: 286.000000
+Name: Led Zeppelin
+song_end
+song_begin: http://streaming.exclusive.radio/er/leonardcohen/icecast.audio
+Time: 287.000000
+Name: Leonard Cohen
+song_end
+song_begin: http://streaming.exclusive.radio/er/lewiscapaldi/icecast.audio
+Time: 288.000000
+Name: Lewis Capaldi
+song_end
+song_begin: http://streaming.exclusive.radio/er/lionelrichie/icecast.audio
+Time: 289.000000
+Name: Lionel Richie
+song_end
+song_begin: http://streaming.exclusive.radio/er/liszt/icecast.audio
+Time: 290.000000
+Name: Liszt
+song_end
+song_begin: http://streaming.exclusive.radio/er/littlefeat/icecast.audio
+Time: 291.000000
+Name: Little Feat
+song_end
+song_begin: http://streaming.exclusive.radio/er/littlemix/icecast.audio
+Time: 292.000000
+Name: Little Mix
+song_end
+song_begin: http://streaming.exclusive.radio/er/littlerichard/icecast.audio
+Time: 293.000000
+Name: Little Richard
+song_end
+song_begin: http://streaming.exclusive.radio/er/lizzo/icecast.audio
+Time: 294.000000
+Name: Lizzo
+song_end
+song_begin: http://streaming.exclusive.radio/er/lorde/icecast.audio
+Time: 295.000000
+Name: Lorde
+song_end
+song_begin: http://streaming.exclusive.radio/er/lorettalynn/icecast.audio
+Time: 296.000000
+Name: Loretta Lynn
+song_end
+song_begin: http://streaming.exclusive.radio/er/loudonwainwrightiii/icecast.audio
+Time: 297.000000
+Name: Loudon Wainwright III
+song_end
+song_begin: http://streaming.exclusive.radio/er/louisarmstrong/icecast.audio
+Time: 298.000000
+Name: Louis Armstrong
+song_end
+song_begin: http://streaming.exclusive.radio/er/love/icecast.audio
+Time: 299.000000
+Name: Love
+song_end
+song_begin: http://streaming.exclusive.radio/er/blues/icecast.audio
+Time: 300.000000
+Name: Blues
+song_end
+song_begin: http://streaming.exclusive.radio/er/lukebryan/icecast.audio
+Time: 301.000000
+Name: Luke Bryan
+song_end
+song_begin: http://streaming.exclusive.radio/er/mabel/icecast.audio
+Time: 302.000000
+Name: Mabel
+song_end
+song_begin: http://streaming.exclusive.radio/er/madonna/icecast.audio
+Time: 303.000000
+Name: Madonna
+song_end
+song_begin: http://streaming.exclusive.radio/er/manicstreetpreachers/icecast.audio
+Time: 304.000000
+Name: Manic Street Preachers
+song_end
+song_begin: http://streaming.exclusive.radio/er/mariahcarey/icecast.audio
+Time: 305.000000
+Name: Mariah Carey
+song_end
+song_begin: http://streaming.exclusive.radio/er/maroon5/icecast.audio
+Time: 306.000000
+Name: Maroon 5
+song_end
+song_begin: http://streaming.exclusive.radio/er/marvingaye/icecast.audio
+Time: 307.000000
+Name: Marvin Gaye
+song_end
+song_begin: http://streaming.exclusive.radio/er/maryjblige/icecast.audio
+Time: 308.000000
+Name: Mary J. Blige
+song_end
+song_begin: http://streaming.exclusive.radio/er/massage/icecast.audio
+Time: 309.000000
+Name: Massage
+song_end
+song_begin: http://streaming.exclusive.radio/er/mattmonro/icecast.audio
+Time: 310.000000
+Name: Matt Monro
+song_end
+song_begin: http://streaming.exclusive.radio/er/meatloaf/icecast.audio
+Time: 311.000000
+Name: Meat Loaf
+song_end
+song_begin: http://streaming.exclusive.radio/er/meditation/icecast.audio
+Time: 312.000000
+Name: Meditation
+song_end
+song_begin: http://streaming.exclusive.radio/er/merlehaggard/icecast.audio
+Time: 313.000000
+Name: Merle Haggard
+song_end
+song_begin: http://streaming.exclusive.radio/er/metallica/icecast.audio
+Time: 314.000000
+Name: Metallica
+song_end
+song_begin: http://streaming.exclusive.radio/er/michaelbolton/icecast.audio
+Time: 315.000000
+Name: Michael Bolton
+song_end
+song_begin: http://streaming.exclusive.radio/er/michaelbuble/icecast.audio
+Time: 316.000000
+Name: Michael Buble
+song_end
+song_begin: http://streaming.exclusive.radio/er/michaeljackson/icecast.audio
+Time: 317.000000
+Name: Michael Jackson
+song_end
+song_begin: http://streaming.exclusive.radio/er/michaelkiwanuka/icecast.audio
+Time: 318.000000
+Name: Michael Kiwanuka
+song_end
+song_begin: http://streaming.exclusive.radio/er/mikeandthemechanics/icecast.audio
+Time: 319.000000
+Name: Mike And The Mechanics
+song_end
+song_begin: http://streaming.exclusive.radio/er/milesdavis/icecast.audio
+Time: 320.000000
+Name: Miles Davis
+song_end
+song_begin: http://streaming.exclusive.radio/er/mileycyrus/icecast.audio
+Time: 321.000000
+Name: Miley Cyrus
+song_end
+song_begin: http://streaming.exclusive.radio/er/ministryofsound/icecast.audio
+Time: 322.000000
+Name: Ministry of Sound
+song_end
+song_begin: http://streaming.exclusive.radio/er/moby/icecast.audio
+Time: 323.000000
+Name: Moby
+song_end
+song_begin: http://streaming.exclusive.radio/er/motivation/icecast.audio
+Time: 324.000000
+Name: Motivation
+song_end
+song_begin: http://streaming.exclusive.radio/er/movieandtvthemes/icecast.audio
+Time: 325.000000
+Name: Movie &  TV Themes
+song_end
+song_begin: http://streaming.exclusive.radio/er/mozart/icecast.audio
+Time: 326.000000
+Name: Mozart
+song_end
+song_begin: http://streaming.exclusive.radio/er/muddywaters/icecast.audio
+Time: 327.000000
+Name: Muddy Waters
+song_end
+song_begin: http://streaming.exclusive.radio/er/musiquefrancaise/icecast.audio
+Time: 328.000000
+Name: Musique Francaise
+song_end
+song_begin: http://streaming.exclusive.radio/er/natkingcole/icecast.audio
+Time: 329.000000
+Name: Nat King Cole
+song_end
+song_begin: http://streaming.exclusive.radio/er/neildiamond/icecast.audio
+Time: 330.000000
+Name: Neil Diamond
+song_end
+song_begin: http://streaming.exclusive.radio/er/neilyoung/icecast.audio
+Time: 331.000000
+Name: Neil Young
+song_end
+song_begin: http://streaming.exclusive.radio/er/neworder/icecast.audio
+Time: 332.000000
+Name: New Order
+song_end
+song_begin: http://streaming.exclusive.radio/er/nzmusic/icecast.audio
+Time: 333.000000
+Name: New Zealand
+song_end
+song_begin: http://streaming.exclusive.radio/er/niallhoran/icecast.audio
+Time: 334.000000
+Name: Niall Horan
+song_end
+song_begin: http://streaming.exclusive.radio/er/nickelback/icecast.audio
+Time: 335.000000
+Name: Nickelback
+song_end
+song_begin: http://streaming.exclusive.radio/er/nickiminaj/icecast.audio
+Time: 336.000000
+Name: Nicki Minaj
+song_end
+song_begin: http://streaming.exclusive.radio/er/ninasimone/icecast.audio
+Time: 337.000000
+Name: Nina Simone
+song_end
+song_begin: http://streaming.exclusive.radio/er/nirvana/icecast.audio
+Time: 338.000000
+Name: Nirvana
+song_end
+song_begin: http://streaming.exclusive.radio/er/norahjones/icecast.audio
+Time: 339.000000
+Name: Norah Jones
+song_end
+song_begin: http://streaming.exclusive.radio/er/northernsoul/icecast.audio
+Time: 340.000000
+Name: Northern Soul
+song_end
+song_begin: http://streaming.exclusive.radio/er/oasis/icecast.audio
+Time: 341.000000
+Name: Oasis
+song_end
+song_begin: http://streaming.exclusive.radio/er/ocean/icecast.audio
+Time: 342.000000
+Name: Ocean
+song_end
+song_begin: http://streaming.exclusive.radio/er/onj/icecast.audio
+Time: 343.000000
+Name: Olivia Newton John
+song_end
+song_begin: http://streaming.exclusive.radio/er/onedirection/icecast.audio
+Time: 344.000000
+Name: One Direction
+song_end
+song_begin: http://streaming.exclusive.radio/er/oscarpeterson/icecast.audio
+Time: 345.000000
+Name: Oscar Peterson
+song_end
+song_begin: http://streaming.exclusive.radio/er/otisredding/icecast.audio
+Time: 346.000000
+Name: Otis Redding
+song_end
+song_begin: http://streaming.exclusive.radio/er/palomafaith/icecast.audio
+Time: 347.000000
+Name: Paloma Faith
+song_end
+song_begin: http://streaming.exclusive.radio/er/panpipes/icecast.audio
+Time: 348.000000
+Name: Pan Pipes
+song_end
+song_begin: http://streaming.exclusive.radio/er/party/icecast.audio
+Time: 349.000000
+Name: Party
+song_end
+song_begin: http://streaming.exclusive.radio/er/partyanthems/icecast.audio
+Time: 350.000000
+Name: Party Anthems
+song_end
+song_begin: http://streaming.exclusive.radio/er/patsycline/icecast.audio
+Time: 351.000000
+Name: Patsy Cline
+song_end
+song_begin: http://streaming.exclusive.radio/er/pattismith/icecast.audio
+Time: 352.000000
+Name: Patti Smith
+song_end
+song_begin: http://streaming.exclusive.radio/er/paulmccartney/icecast.audio
+Time: 353.000000
+Name: Paul McCartney
+song_end
+song_begin: http://streaming.exclusive.radio/er/paulweller/icecast.audio
+Time: 354.000000
+Name: Paul Weller
+song_end
+song_begin: http://streaming.exclusive.radio/er/perrycomo/icecast.audio
+Time: 355.000000
+Name: Perry Como
+song_end
+song_begin: http://streaming.exclusive.radio/er/petshopboys/icecast.audio
+Time: 356.000000
+Name: Pet Shop Boys
+song_end
+song_begin: http://streaming.exclusive.radio/er/peteseeger/icecast.audio
+Time: 357.000000
+Name: Pete Seeger
+song_end
+song_begin: http://streaming.exclusive.radio/er/peterframpton/icecast.audio
+Time: 358.000000
+Name: Peter Frampton
+song_end
+song_begin: http://streaming.exclusive.radio/er/pgfleetwood/icecast.audio
+Time: 359.000000
+Name: Peter Green's Fleetwood Mac
+song_end
+song_begin: http://streaming.exclusive.radio/er/pharrellwilliams/icecast.audio
+Time: 360.000000
+Name: Pharrell Williams
+song_end
+song_begin: http://streaming.exclusive.radio/er/philcollins/icecast.audio
+Time: 361.000000
+Name: Phil Collins
+song_end
+song_begin: http://streaming.exclusive.radio/er/pilates/icecast.audio
+Time: 362.000000
+Name: Pilates
+song_end
+song_begin: http://streaming.exclusive.radio/er/pink/icecast.audio
+Time: 363.000000
+Name: Pink
+song_end
+song_begin: http://streaming.exclusive.radio/er/pinkfloyd/icecast.audio
+Time: 364.000000
+Name: Pink Floyd
+song_end
+song_begin: http://streaming.exclusive.radio/er/popprincesses/icecast.audio
+Time: 365.000000
+Name: Pop Princesses
+song_end
+song_begin: http://streaming.exclusive.radio/er/postmalone/icecast.audio
+Time: 366.000000
+Name: Post Malone
+song_end
+song_begin: http://streaming.exclusive.radio/er/prince/icecast.audio
+Time: 367.000000
+Name: Prince
+song_end
+song_begin: http://streaming.exclusive.radio/er/pussycatdolls/icecast.audio
+Time: 368.000000
+Name: Pussycat Dolls
+song_end
+song_begin: http://streaming.exclusive.radio/er/queen/icecast.audio
+Time: 369.000000
+Name: Queen
+song_end
+song_begin: http://streaming.exclusive.radio/er/rem/icecast.audio
+Time: 370.000000
+Name: R.E.M.
+song_end
+song_begin: http://streaming.exclusive.radio/er/ralphvaughanwilliams/icecast.audio
+Time: 371.000000
+Name: Ralph Vaughan Williams
+song_end
+song_begin: http://streaming.exclusive.radio/er/ramones/icecast.audio
+Time: 372.000000
+Name: Ramones
+song_end
+song_begin: http://streaming.exclusive.radio/er/randytravis/icecast.audio
+Time: 373.000000
+Name: Randy Travis
+song_end
+song_begin: http://streaming.exclusive.radio/er/ratpack/icecast.audio
+Time: 374.000000
+Name: Rat Pack
+song_end
+song_begin: http://streaming.exclusive.radio/er/rave/icecast.audio
+Time: 375.000000
+Name: Rave
+song_end
+song_begin: http://streaming.exclusive.radio/er/ravel/icecast.audio
+Time: 376.000000
+Name: Ravel
+song_end
+song_begin: http://streaming.exclusive.radio/er/raycharles/icecast.audio
+Time: 377.000000
+Name: Ray Charles
+song_end
+song_begin: http://streaming.exclusive.radio/er/rebamcentire/icecast.audio
+Time: 378.000000
+Name: Reba McEntire
+song_end
+song_begin: http://streaming.exclusive.radio/er/chilipeppers/icecast.audio
+Time: 379.000000
+Name: Red Hot Chili Peppers
+song_end
+song_begin: http://streaming.exclusive.radio/er/reggae/icecast.audio
+Time: 380.000000
+Name: Reggae
+song_end
+song_begin: http://streaming.exclusive.radio/er/reiki/icecast.audio
+Time: 381.000000
+Name: Reiki
+song_end
+song_begin: http://streaming.exclusive.radio/er/relaxingworkout/icecast.audio
+Time: 382.000000
+Name: Relaxing Workout
+song_end
+song_begin: http://streaming.exclusive.radio/er/rihanna/icecast.audio
+Time: 383.000000
+Name: Rihanna
+song_end
+song_begin: http://streaming.exclusive.radio/er/ritaora/icecast.audio
+Time: 384.000000
+Name: Rita Ora
+song_end
+song_begin: http://streaming.exclusive.radio/er/robertcray/icecast.audio
+Time: 385.000000
+Name: Robert Cray
+song_end
+song_begin: http://streaming.exclusive.radio/er/robertpalmer/icecast.audio
+Time: 386.000000
+Name: Robert Palmer
+song_end
+song_begin: http://streaming.exclusive.radio/er/rocknrollparty/icecast.audio
+Time: 387.000000
+Name: Rock N' Roll Party
+song_end
+song_begin: http://streaming.exclusive.radio/er/rodstewart/icecast.audio
+Time: 388.000000
+Name: Rod Stewart
+song_end
+song_begin: http://streaming.exclusive.radio/er/rorygallagher/icecast.audio
+Time: 389.000000
+Name: Rory Gallagher
+song_end
+song_begin: http://streaming.exclusive.radio/er/roxette/icecast.audio
+Time: 390.000000
+Name: Roxette
+song_end
+song_begin: http://streaming.exclusive.radio/er/royorbison/icecast.audio
+Time: 391.000000
+Name: Roy Orbison
+song_end
+song_begin: http://streaming.exclusive.radio/er/rundmc/icecast.audio
+Time: 392.000000
+Name: Run-DMC
+song_end
+song_begin: http://streaming.exclusive.radio/er/running/icecast.audio
+Time: 393.000000
+Name: Running
+song_end
+song_begin: http://streaming.exclusive.radio/er/rush/icecast.audio
+Time: 394.000000
+Name: Rush
+song_end
+song_begin: http://streaming.exclusive.radio/er/sade/icecast.audio
+Time: 395.000000
+Name: Sade
+song_end
+song_begin: http://streaming.exclusive.radio/er/samcooke/icecast.audio
+Time: 396.000000
+Name: Sam Cooke
+song_end
+song_begin: http://streaming.exclusive.radio/er/samsmith/icecast.audio
+Time: 397.000000
+Name: Sam Smith
+song_end
+song_begin: http://streaming.exclusive.radio/er/santana/icecast.audio
+Time: 398.000000
+Name: Santana
+song_end
+song_begin: http://streaming.exclusive.radio/er/savagegarden/icecast.audio
+Time: 399.000000
+Name: Savage Garden
+song_end
+song_begin: http://streaming.exclusive.radio/er/blues/icecast.audio
+Time: 400.000000
+Name: Blues
+song_end
+song_begin: http://streaming.exclusive.radio/er/schubert/icecast.audio
+Time: 401.000000
+Name: Schubert
+song_end
+song_begin: http://streaming.exclusive.radio/er/scorpions/icecast.audio
+Time: 402.000000
+Name: Scorpions
+song_end
+song_begin: http://streaming.exclusive.radio/er/shakira/icecast.audio
+Time: 403.000000
+Name: Shakira
+song_end
+song_begin: http://streaming.exclusive.radio/er/shaniatwain/icecast.audio
+Time: 404.000000
+Name: Shania Twain
+song_end
+song_begin: http://streaming.exclusive.radio/er/shawnmendes/icecast.audio
+Time: 405.000000
+Name: Shawn Mendes
+song_end
+song_begin: http://streaming.exclusive.radio/er/sherylcrow/icecast.audio
+Time: 406.000000
+Name: Sheryl Crow
+song_end
+song_begin: http://streaming.exclusive.radio/er/shostakovich/icecast.audio
+Time: 407.000000
+Name: Shostakovich
+song_end
+song_begin: http://streaming.exclusive.radio/er/sia/icecast.audio
+Time: 408.000000
+Name: Sia
+song_end
+song_begin: http://streaming.exclusive.radio/er/sibelius/icecast.audio
+Time: 409.000000
+Name: Sibelius
+song_end
+song_begin: http://streaming.exclusive.radio/er/simongarfunkle/icecast.audio
+Time: 410.000000
+Name: Simon &  Garfunkel
+song_end
+song_begin: http://streaming.exclusive.radio/er/simpleminds/icecast.audio
+Time: 411.000000
+Name: Simple Minds
+song_end
+song_begin: http://streaming.exclusive.radio/er/sleep-maxrichter/icecast.audio
+Time: 412.000000
+Name: Sleep- Max Richter
+song_end
+song_begin: http://streaming.exclusive.radio/er/sleepbaby/icecast.audio
+Time: 413.000000
+Name: Sleep-Baby
+song_end
+song_begin: http://streaming.exclusive.radio/er/sleep-classical/icecast.audio
+Time: 414.000000
+Name: Sleep-Classical
+song_end
+song_begin: http://streaming.exclusive.radio/er/sleep-kids/icecast.audio
+Time: 415.000000
+Name: Sleep-Kids
+song_end
+song_begin: http://streaming.exclusive.radio/er/sleep-relax/icecast.audio
+Time: 416.000000
+Name: Sleep-Relax
+song_end
+song_begin: http://streaming.exclusive.radio/er/sleep-tones/icecast.audio
+Time: 417.000000
+Name: Sleep-Tones
+song_end
+song_begin: http://streaming.exclusive.radio/er/slyandthefamilystone/icecast.audio
+Time: 418.000000
+Name: Sly and The Family Stone
+song_end
+song_begin: http://streaming.exclusive.radio/er/smallfaces/icecast.audio
+Time: 419.000000
+Name: Small Faces
+song_end
+song_begin: http://streaming.exclusive.radio/er/smokeyrobinson/icecast.audio
+Time: 420.000000
+Name: Smokey Robinson
+song_end
+song_begin: http://streaming.exclusive.radio/er/snowpatrol/icecast.audio
+Time: 421.000000
+Name: Snow Patrol
+song_end
+song_begin: http://streaming.exclusive.radio/er/soulroyalty/icecast.audio
+Time: 422.000000
+Name: Soul Royalty
+song_end
+song_begin: http://streaming.exclusive.radio/er/spandauballet/icecast.audio
+Time: 423.000000
+Name: Spandau Ballet
+song_end
+song_begin: http://streaming.exclusive.radio/er/steeleyespan/icecast.audio
+Time: 424.000000
+Name: Steeleye Span
+song_end
+song_begin: http://streaming.exclusive.radio/er/steelydan/icecast.audio
+Time: 425.000000
+Name: Steely Dan
+song_end
+song_begin: http://streaming.exclusive.radio/er/stephanegrappelli/icecast.audio
+Time: 426.000000
+Name: Stephane Grappelli
+song_end
+song_begin: http://streaming.exclusive.radio/er/stevewinwood/icecast.audio
+Time: 427.000000
+Name: Steve Winwood
+song_end
+song_begin: http://streaming.exclusive.radio/er/stevierayvaughan/icecast.audio
+Time: 428.000000
+Name: Stevie Ray Vaughan
+song_end
+song_begin: http://streaming.exclusive.radio/er/steviewonder/icecast.audio
+Time: 429.000000
+Name: Stevie Wonder
+song_end
+song_begin: http://streaming.exclusive.radio/er/sting/icecast.audio
+Time: 430.000000
+Name: Sting
+song_end
+song_begin: http://streaming.exclusive.radio/er/stonetemplepilots/icecast.audio
+Time: 431.000000
+Name: Stone Temple Pilots
+song_end
+song_begin: http://streaming.exclusive.radio/er/stormzy/icecast.audio
+Time: 432.000000
+Name: Stormzy
+song_end
+song_begin: http://streaming.exclusive.radio/er/strauss/icecast.audio
+Time: 433.000000
+Name: Strauss
+song_end
+song_begin: http://streaming.exclusive.radio/er/stravinsky/icecast.audio
+Time: 434.000000
+Name: Stravinsky
+song_end
+song_begin: http://streaming.exclusive.radio/er/succesful/icecast.audio
+Time: 435.000000
+Name: Successful
+song_end
+song_begin: http://streaming.exclusive.radio/er/supertramp/icecast.audio
+Time: 436.000000
+Name: Supertramp
+song_end
+song_begin: http://streaming.exclusive.radio/er/suzannevega/icecast.audio
+Time: 437.000000
+Name: Suzanne Vega
+song_end
+song_begin: http://streaming.exclusive.radio/er/trex/icecast.audio
+Time: 438.000000
+Name: T-Rex
+song_end
+song_begin: http://streaming.exclusive.radio/er/taichi/icecast.audio
+Time: 439.000000
+Name: Tai Chi
+song_end
+song_begin: http://streaming.exclusive.radio/er/takethat/icecast.audio
+Time: 440.000000
+Name: Take That
+song_end
+song_begin: http://streaming.exclusive.radio/er/talkingheads/icecast.audio
+Time: 441.000000
+Name: Talking Heads
+song_end
+song_begin: http://streaming.exclusive.radio/er/tammywynette/icecast.audio
+Time: 442.000000
+Name: Tammy Wynette
+song_end
+song_begin: http://streaming.exclusive.radio/er/taylorswift/icecast.audio
+Time: 443.000000
+Name: Taylor Swift
+song_end
+song_begin: http://streaming.exclusive.radio/er/tchaikovsky/icecast.audio
+Time: 444.000000
+Name: Tchaikovsky
+song_end
+song_begin: http://streaming.exclusive.radio/er/tearsforfears/icecast.audio
+Time: 445.000000
+Name: Tears For Fears
+song_end
+song_begin: http://streaming.exclusive.radio/er/texas/icecast.audio
+Time: 446.000000
+Name: Texas
+song_end
+song_begin: http://streaming.exclusive.radio/er/the1975/icecast.audio
+Time: 447.000000
+Name: The 1975
+song_end
+song_begin: http://streaming.exclusive.radio/er/allmanbrothers/icecast.audio
+Time: 448.000000
+Name: The Allman Brothers Band
+song_end
+song_begin: http://streaming.exclusive.radio/er/theb52s/icecast.audio
+Time: 449.000000
+Name: The B-52's
+song_end
+song_begin: http://streaming.exclusive.radio/er/theband/icecast.audio
+Time: 450.000000
+Name: The Band
+song_end
+song_begin: http://streaming.exclusive.radio/er/beachboys/icecast.audio
+Time: 451.000000
+Name: The Beach Boys
+song_end
+song_begin: http://streaming.exclusive.radio/er/beatles/icecast.audio
+Time: 452.000000
+Name: The Beatles
+song_end
+song_begin: http://streaming.exclusive.radio/er/beegees/icecast.audio
+Time: 453.000000
+Name: The Bee Gees
+song_end
+song_begin: http://streaming.exclusive.radio/er/theblackcrowes/icecast.audio
+Time: 454.000000
+Name: The Black Crowes
+song_end
+song_begin: http://streaming.exclusive.radio/er/thebyrds/icecast.audio
+Time: 455.000000
+Name: The Byrds
+song_end
+song_begin: http://streaming.exclusive.radio/er/carpenters/icecast.audio
+Time: 456.000000
+Name: The Carpenters
+song_end
+song_begin: http://streaming.exclusive.radio/er/thecars/icecast.audio
+Time: 457.000000
+Name: The Cars
+song_end
+song_begin: http://streaming.exclusive.radio/er/theclash/icecast.audio
+Time: 458.000000
+Name: The Clash
+song_end
+song_begin: http://streaming.exclusive.radio/er/thecure/icecast.audio
+Time: 459.000000
+Name: The Cure
+song_end
+song_begin: http://streaming.exclusive.radio/er/doobiebrothers/icecast.audio
+Time: 460.000000
+Name: The Doobie Brothers
+song_end
+song_begin: http://streaming.exclusive.radio/er/doors/icecast.audio
+Time: 461.000000
+Name: The Doors
+song_end
+song_begin: http://streaming.exclusive.radio/er/drifters/icecast.audio
+Time: 462.000000
+Name: The Drifters
+song_end
+song_begin: http://streaming.exclusive.radio/er/thedubliners/icecast.audio
+Time: 463.000000
+Name: The Dubliners
+song_end
+song_begin: http://streaming.exclusive.radio/er/everlybrothers/icecast.audio
+Time: 464.000000
+Name: The Everly Brothers
+song_end
+song_begin: http://streaming.exclusive.radio/er/firstladies/icecast.audio
+Time: 465.000000
+Name: The First Ladies Of Song
+song_end
+song_begin: http://streaming.exclusive.radio/er/fourtops/icecast.audio
+Time: 466.000000
+Name: The Four Tops
+song_end
+song_begin: http://streaming.exclusive.radio/er/humanleague/icecast.audio
+Time: 467.000000
+Name: The Human League
+song_end
+song_begin: http://streaming.exclusive.radio/er/thekillers/icecast.audio
+Time: 468.000000
+Name: The Killers
+song_end
+song_begin: http://streaming.exclusive.radio/er/thekinks/icecast.audio
+Time: 469.000000
+Name: The Kinks
+song_end
+song_begin: http://streaming.exclusive.radio/er/themavericks/icecast.audio
+Time: 470.000000
+Name: The Mavericks
+song_end
+song_begin: http://streaming.exclusive.radio/er/themonkees/icecast.audio
+Time: 471.000000
+Name: The Monkees
+song_end
+song_begin: http://streaming.exclusive.radio/er/moodyblues/icecast.audio
+Time: 472.000000
+Name: The Moody Blues
+song_end
+song_begin: http://streaming.exclusive.radio/er/police/icecast.audio
+Time: 473.000000
+Name: The Police
+song_end
+song_begin: http://streaming.exclusive.radio/er/pretenders/icecast.audio
+Time: 474.000000
+Name: The Pretenders
+song_end
+song_begin: http://streaming.exclusive.radio/er/rollingstones/icecast.audio
+Time: 475.000000
+Name: The Rolling Stones
+song_end
+song_begin: http://streaming.exclusive.radio/er/theshirelles/icecast.audio
+Time: 476.000000
+Name: The Shirelles
+song_end
+song_begin: http://streaming.exclusive.radio/er/stevemillerband/icecast.audio
+Time: 477.000000
+Name: The Steve Miller Band
+song_end
+song_begin: http://streaming.exclusive.radio/er/thetemptations/icecast.audio
+Time: 478.000000
+Name: The Temptations
+song_end
+song_begin: http://streaming.exclusive.radio/er/velvetunderground/icecast.audio
+Time: 479.000000
+Name: The Velvet Underground
+song_end
+song_begin: http://streaming.exclusive.radio/er/theweeknd/icecast.audio
+Time: 480.000000
+Name: The Weeknd
+song_end
+song_begin: http://streaming.exclusive.radio/er/whitestripes/icecast.audio
+Time: 481.000000
+Name: The White Stripes
+song_end
+song_begin: http://streaming.exclusive.radio/er/thewho/icecast.audio
+Time: 482.000000
+Name: The Who
+song_end
+song_begin: http://streaming.exclusive.radio/er/theyardbirds/icecast.audio
+Time: 483.000000
+Name: The Yardbirds
+song_end
+song_begin: http://streaming.exclusive.radio/er/thinlizzy/icecast.audio
+Time: 484.000000
+Name: Thin Lizzy
+song_end
+song_begin: http://streaming.exclusive.radio/er/timmcgraw/icecast.audio
+Time: 485.000000
+Name: Tim McGraw
+song_end
+song_begin: http://streaming.exclusive.radio/er/tinaturner/icecast.audio
+Time: 486.000000
+Name: Tina Turner
+song_end
+song_begin: http://streaming.exclusive.radio/er/tinietempah/icecast.audio
+Time: 487.000000
+Name: Tinie Tempah
+song_end
+song_begin: http://streaming.exclusive.radio/er/tobykeith/icecast.audio
+Time: 488.000000
+Name: Toby Keith
+song_end
+song_begin: http://streaming.exclusive.radio/er/tomjones/icecast.audio
+Time: 489.000000
+Name: Tom Jones
+song_end
+song_begin: http://streaming.exclusive.radio/er/tompaxton/icecast.audio
+Time: 490.000000
+Name: Tom Paxton
+song_end
+song_begin: http://streaming.exclusive.radio/er/tompetty/icecast.audio
+Time: 491.000000
+Name: Tom Petty
+song_end
+song_begin: http://streaming.exclusive.radio/er/tomwaits/icecast.audio
+Time: 492.000000
+Name: Tom Waits
+song_end
+song_begin: http://streaming.exclusive.radio/er/tonybennett/icecast.audio
+Time: 493.000000
+Name: Tony Bennett
+song_end
+song_begin: http://streaming.exclusive.radio/er/tootsandthemaytals/icecast.audio
+Time: 494.000000
+Name: Toots And The Maytals
+song_end
+song_begin: http://streaming.exclusive.radio/er/toto/icecast.audio
+Time: 495.000000
+Name: Toto
+song_end
+song_begin: http://streaming.exclusive.radio/er/travisscott/icecast.audio
+Time: 496.000000
+Name: Travis Scott
+song_end
+song_begin: http://streaming.exclusive.radio/er/twentyonepilots/icecast.audio
+Time: 497.000000
+Name: Twenty One Pilots
+song_end
+song_begin: http://streaming.exclusive.radio/er/u2/icecast.audio
+Time: 498.000000
+Name: U2
+song_end
+song_begin: http://streaming.exclusive.radio/er/ub40/icecast.audio
+Time: 499.000000
+Name: UB40
+song_end
+song_begin: http://streaming.exclusive.radio/er/blues/icecast.audio
+Time: 500.000000
+Name: Blues
+song_end
+song_begin: http://streaming.exclusive.radio/er/vanhalen/icecast.audio
+Time: 501.000000
+Name: Van Halen
+song_end
+song_begin: http://streaming.exclusive.radio/er/vanmorrison/icecast.audio
+Time: 502.000000
+Name: Van Morrison
+song_end
+song_begin: http://streaming.exclusive.radio/er/verdi/icecast.audio
+Time: 503.000000
+Name: Verdi
+song_end
+song_begin: http://streaming.exclusive.radio/er/vibe/icecast.audio
+Time: 504.000000
+Name: ViBE
+song_end
+song_begin: http://streaming.exclusive.radio/er/vivaldi/icecast.audio
+Time: 505.000000
+Name: Vivaldi
+song_end
+song_begin: http://streaming.exclusive.radio/er/waylonjennings/icecast.audio
+Time: 506.000000
+Name: Waylon Jennings
+song_end
+song_begin: http://streaming.exclusive.radio/er/wedding/icecast.audio
+Time: 507.000000
+Name: Wedding
+song_end
+song_begin: http://streaming.exclusive.radio/er/weddingclassical/icecast.audio
+Time: 508.000000
+Name: Wedding Classical
+song_end
+song_begin: http://streaming.exclusive.radio/er/westcoast/icecast.audio
+Time: 509.000000
+Name: West Coast
+song_end
+song_begin: http://streaming.exclusive.radio/er/wham/icecast.audio
+Time: 510.000000
+Name: Wham!
+song_end
+song_begin: http://streaming.exclusive.radio/er/whitesnake/icecast.audio
+Time: 511.000000
+Name: Whitesnake
+song_end
+song_begin: http://streaming.exclusive.radio/er/whitneyhouston/icecast.audio
+Time: 512.000000
+Name: Whitney Houston
+song_end
+song_begin: http://streaming.exclusive.radio/er/william/icecast.audio
+Time: 513.000000
+Name: will.i.am
+song_end
+song_begin: http://streaming.exclusive.radio/er/willienelson/icecast.audio
+Time: 514.000000
+Name: Willie Nelson
+song_end
+song_begin: http://streaming.exclusive.radio/er/woodieguthrie/icecast.audio
+Time: 515.000000
+Name: Woody Guthrie
+song_end
+song_begin: http://streaming.exclusive.radio/er/yes/icecast.audio
+Time: 516.000000
+Name: Yes
+song_end
+song_begin: http://streaming.exclusive.radio/er/zen/icecast.audio
+Time: 517.000000
+Name: Zen
+song_end
+song_begin: http://streaming.exclusive.radio/er/zztop/icecast.audio
+Time: 518.000000
+Name: ZZ Top
+song_end
+song_begin: http://streaming.exclusive.radio/er/00s/icecast.audio
+Time: 519.000000
+Name: 00's
+song_end
+song_begin: http://streaming.exclusive.radio/er/10s/icecast.audio
+Time: 520.000000
+Name: 2010's
+song_end
+song_begin: http://streaming.exclusive.radio/er/2020/icecast.audio
+Time: 521.000000
+Name: 2020's
+song_end
+1039:Morat/A Donde Vamos/Morat - No Termino.mp3
+1040:Morat/A Donde Vamos/Morat, Danna Paola - Idiota.mp3
+playlist_end

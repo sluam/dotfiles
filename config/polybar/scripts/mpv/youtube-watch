@@ -1,0 +1,3 @@
+#!/bin/bash
+mpv "$(xclip -o | tr -d '\r\n%')"
+
