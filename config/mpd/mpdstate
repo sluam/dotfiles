@@ -1,8 +1,9 @@
 sw_volume: 100
 audio_device_state:1:My Pulse Output
 audio_device_state:1:my_fifo
-state: stop
-current: 0
+state: pause
+current: 3
+time: 82.375000
 random: 0
 repeat: 0
 single: 0
@@ -22,7 +23,7 @@ Name: Calm
 song_end
 song_begin: http://streaming.exclusive.radio/er/chart/icecast.audio
 Time: 3.000000
-Title: Jonas Brothers - Waffle House
+Title: Leigh-Anne - Don't Say Love
 Name: chart
 song_end
 song_begin: http://streaming.exclusive.radio/er/classical/icecast.audio
@@ -79,6 +80,7 @@ Name: Soul
 song_end
 song_begin: http://streaming.exclusive.radio/er/10cc/icecast.audio
 Time: 17.000000
+Title: 10cc - Take This Woman
 Name: 10cc
 song_end
 song_begin: http://streaming.exclusive.radio/er/1920/icecast.audio
@@ -119,27 +121,33 @@ Name: 90's
 song_end
 song_begin: http://streaming.exclusive.radio/er/aha/icecast.audio
 Time: 27.000000
-Name: A-Ha
+Title: A-Ha - Minor Earth Major Sky (2019 Remaster)
+Name: aha
 song_end
 song_begin: http://streaming.exclusive.radio/er/abba/icecast.audio
 Time: 28.000000
-Name: ABBA
+Title: Abba - I Wonder (Departure)
+Name: abba
 song_end
 song_begin: http://streaming.exclusive.radio/er/acdc/icecast.audio
 Time: 29.000000
-Name: AC/DC
+Title: AC; DC - Got You By The Balls
+Name: acdc
 song_end
 song_begin: http://streaming.exclusive.radio/er/adamlambert/icecast.audio
 Time: 30.000000
-Name: Adam Lambert
+Title: Adam Lambert - On The Moon
+Name: adamlambert
 song_end
 song_begin: http://streaming.exclusive.radio/er/adele/icecast.audio
 Time: 31.000000
-Name: Adele
+Title: Adele - River Lea
+Name: adele
 song_end
 song_begin: http://streaming.exclusive.radio/er/aerosmith/icecast.audio
 Time: 32.000000
-Name: Aerosmith
+Title: Aerosmith - Dude (Looks Like A Lady)
+Name: aerosmith
 song_end
 song_begin: http://streaming.exclusive.radio/er/afrobeats/icecast.audio
 Time: 33.000000
@@ -4167,4 +4175,6 @@ Name: 2020's
 song_end
 1039:Morat/A Donde Vamos/Morat - No Termino.mp3
 1040:Morat/A Donde Vamos/Morat, Danna Paola - Idiota.mp3
+1041:Morat/A Donde Vamos/Morat - Enamórate De Alguien Más.mp3
+1042:Morat/A Donde Vamos/Morat, Sebastian Yatra - Bajo La Mesa.mp3
 playlist_end

@@ -1,0 +1,72 @@
+/*******************************************************************************
+ * OWL THEME FOR ROFI 
+ * User: Sluam               
+ *******************************************************************************/
+
+@import "colors.rasi"
+
+* {
+    font:   "Roboto 9";
+    background-color:transparent;
+    text-color:@fg2; 
+}
+
+window {
+    location:   south east;
+    anchor:   south east;
+    width:          100px;
+    border-radius:  15px;
+    background-color:   @bg0;
+    x-offset:   -4px;        
+    y-offset:   -31px;
+}
+
+mainbox {
+    padding:7px;
+    border:0;
+}
+
+inputbar {
+    background-color:   none;
+    border-color:       none;
+    border:         0;
+    border-radius:  0;
+    children:   [];
+}
+
+message {
+    margin:             12px 0 0;
+    border-radius:      16px;
+    border-color:       @bg2;
+    background-color:   @bg2;
+}
+
+listview{
+  fixed-height:false;
+}
+
+element {
+    padding:        3px ;
+    border-radius:  10px;
+}
+
+element normal active {
+    text-color: @bg3;
+}
+
+element selected normal, element selected active {
+    background-color:   @bg3;
+}
+
+element-icon {
+    size:           1em;
+    vertical-align: 0.5;
+}
+
+element-text {
+    text-color: inherit;
+}
+
+element selected {
+    text-color: @bg1;
+}
