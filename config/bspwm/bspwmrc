@@ -17,7 +17,7 @@ bspc config gapless_monocle true
 
 picom --experimental-backend &
 ~/.config/polybar/launch.sh &
-feh --bg-fill ~/.Backgrounds/"buho.webp"
+feh --bg-fill ~/.wallpapers/"buho.webp"
 sxhkd &
 xsetroot -cursor_name left_ptr
 
