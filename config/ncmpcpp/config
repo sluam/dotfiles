@@ -5,7 +5,7 @@ mpd_port = "6600"
 mpd_crossfade_time = "2"
 mpd_connection_timeout = 5
 
-execute_on_song_change= ~/.config/dunst/scripts/songinfo && ~/.config/ncmpcpp/scripts/lyrics-song
+execute_on_song_change= ~/.config/ncmpcpp/scripts/lyrics-song
 
 #LYRICS 
 #--

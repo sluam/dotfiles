@@ -1,9 +1,8 @@
-sw_volume: 100
+sw_volume: 60
 audio_device_state:1:My Pulse Output
 audio_device_state:1:my_fifo
-state: pause
-current: 3
-time: 82.375000
+state: stop
+current: 0
 random: 0
 repeat: 0
 single: 0
@@ -23,7 +22,7 @@ Name: Calm
 song_end
 song_begin: http://streaming.exclusive.radio/er/chart/icecast.audio
 Time: 3.000000
-Title: Leigh-Anne - Don't Say Love
+Title: Rudimental, Charlotte Plank  and  Vibe Chemistry - Dancing is Healing
 Name: chart
 song_end
 song_begin: http://streaming.exclusive.radio/er/classical/icecast.audio
@@ -4177,4 +4176,10 @@ song_end
 1040:Morat/A Donde Vamos/Morat, Danna Paola - Idiota.mp3
 1041:Morat/A Donde Vamos/Morat - Enamórate De Alguien Más.mp3
 1042:Morat/A Donde Vamos/Morat, Sebastian Yatra - Bajo La Mesa.mp3
+1043:Morat/Déjame Ir/Andrés Cepeda, Morat - Déjame Ir.mp3
+1044:Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - En Un Sólo Dia.mp3
+1045:Morat/Si Ayer Fuera Hoy/Morat, Juanes - 506.mp3
+1046:Morat/Sobre El Amor Y Sus Efectos Secundarios/Morat - Cómo Te Atreves.mp3
+1047:Morat/Balas Perdidas/Morat - Cuando El Amor Se Escapa.mp3
+1048:Morat/Balas Perdidas/Morat - No Se Va.mp3
 playlist_end
