@@ -118,7 +118,7 @@ source ~/.spotify-variables
   alias dotdrop="~/.dotfiles/dotdrop.sh"
   alias music="ncmpcpp"
   alias tor="/etc/tor-browser/start-tor-browser --detach"
-
+  alias dotfiles="~/.dotfiles/dotfiles"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 fpath+=${ZDOTDIR:-~}/.zsh_functions
