@@ -148,5 +148,5 @@ super + alt + y
 super + a
     pass Github|xclip -selection clipboard
 
-super + w
-~/.config/rofi/scripts/workspaces.sh 
+super + alt + w
+ ~/.config/rofi/scripts/workspaces.sh  

@@ -13,7 +13,7 @@
 
 window {
     location:   south east;
-    anchor:   south east;
+    anchor:     south east;
     width:          100px;
     border-radius:  15px;
     background-color:   @bg0;

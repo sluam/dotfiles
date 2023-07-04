@@ -119,6 +119,7 @@ source ~/.spotify-variables
   alias music="ncmpcpp"
   alias tor="/etc/tor-browser/start-tor-browser --detach"
   alias dotfiles="~/.dotfiles/dotfiles"
+
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 fpath+=${ZDOTDIR:-~}/.zsh_functions
@@ -128,7 +129,6 @@ fpath+=${ZDOTDIR:-~}/.zsh_functions
 # Generated for envman. Do not edit.
 [ -s "$HOME/.config/envman/load.sh" ] && source "$HOME/.config/envman/load.sh"
 
-export EDITOR=nvim
 export MANPAGER="/usr/bin/less -s -M +Gg"
 
 #man-page colors
@@ -141,6 +141,3 @@ export MANPAGER="/usr/bin/less -s -M +Gg"
         export LESS_TERMCAP_ue=$'\e[0m'         # reset underline
         export GROFF_NO_SGR=1                   # for konsole
 
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
